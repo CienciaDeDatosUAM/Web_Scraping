@@ -5,6 +5,7 @@
 - **Correo Electrónico**: alan.david_pollo@hotmail.com
 - **FaceBook**: https://www.facebook.com/P00LLoo?mibextid=ZbWKwL
 - **GitHub**: https://github.com/EssPollo
+- **Youtube**:https://www.youtube.com/@AlanPolloNavarrete
 
 ## Acerca de mí
 Hola que tal ! Bienvenido a mi REDMI. Conocido en el bajo mundo como "pollo" , Ingeniero de Software,Univesidad Autonoma de la Ciudad de México. Amante del GYM pero tambien de la comida grasosa.
