@@ -1,13 +1,13 @@
-from bs4 import BeautifulSoup
-from glob import glob
-import requests
-import youtube_dl
-import json
-import os
-from googleapiclient.discovery import build
-from datetime import datetime
+from bs4 import BeautifulSoup  # Para analizar y extraer datos de HTML y XML
+from glob import glob  # Para buscar archivos y directorios
+import requests  # Para realizar solicitudes HTTP
+import youtube_dl  # Para descargar videos de YouTube
+import json  # Para trabajar con datos en formato JSON
+import os  # Para interactuar con el sistema operativo
+from googleapiclient.discovery import build  # Para interactuar con las APIs de Google
+from datetime import datetime  # Para trabajar con fechas y horas
 
-API_KEY = None
+API_KEY = None  # Clave API, por ejemplo, para utilizar las APIs de Google
 
 def obtener_comentarios(video_id, out_dir):
     """
