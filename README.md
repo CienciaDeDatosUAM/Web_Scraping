@@ -20,6 +20,14 @@ El objetivo es recopilar información relevante de videos, canales y listas de r
 -Pandas
 -BeautifulSoup
 -json
+-lxml
+-beautifulsoup4
+-requests
+Para poder ejecutar la recolección de los subtítulos y comentarios de YouTube en Python, es necesario instalar las siguientes bibliotecas:
+-youtube-dl
+Para instalar la biblioteca youtube-dl, es importante utilizar la siguiente versión específica:
+
+`pip install git+https://github.com/ytdl-org/youtube-dl.git`
 
 ## Contacto para el proyecto
 Si estás interesado en cómo se realizó este proyecto paso a paso por favor contacta al:
