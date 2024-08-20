@@ -37,7 +37,7 @@ Antes de ejecutar el proyecto, es necesario instalar **Docker**. Docker permite 
    - Utiliza el comando `cd` para cambiar al directorio donde se encuentra tu proyecto. Debes estar en el mismo directorio que el archivo `docker-compose.yml`.
    - Ejemplo: Si tu proyecto está en el escritorio, podrías escribir:
      ```bash
-     cd Desktop/miProyecto
+     cd Desktop/web_scraping
      ```
 
 3. **Iniciar Docker Compose**:
@@ -48,9 +48,20 @@ Antes de ejecutar el proyecto, es necesario instalar **Docker**. Docker permite 
    - Este comando descargará las imágenes necesarias y creará contenedores basados en las instrucciones del archivo `docker-compose.yml`.
 
 4. **Acceder a un Contenedor mediante VSCode**:
-   - Una vez que los contenedores estén en funcionamiento, abre Visual Studio Code (VSCode).
-   - Utiliza la funcionalidad **Attach Shell** en VSCode para conectarte al contenedor que está ejecutando tu aplicación.
-   - Dirígete a la vista de Docker en VSCode, encuentra tu contenedor activo, haz clic derecho sobre él y selecciona "Attach Shell".
+   - **Instalar la Extensión de Docker para VSCode**:
+     - Abre Visual Studio Code.
+     - Ve a la barra lateral izquierda y haz clic en el ícono de "Extensiones" (parece un bloque de piezas de Lego).
+     - En el campo de búsqueda, escribe `Docker` y busca la extensión oficial llamada "Docker" de Microsoft.
+     - Haz clic en "Instalar" para añadir la extensión a tu VSCode.
+   - **Abrir la Vista de Docker**:
+     - Una vez instalada la extensión, encontrarás un nuevo ícono de Docker en la barra de actividades lateral izquierda de VSCode. Haz clic en este ícono para abrir la vista de Docker.
+   - **Conectarte al Contenedor**:
+     - Con los contenedores ya en funcionamiento (asegúrate de haber ejecutado `docker-compose up` previamente), en la vista de Docker de VSCode, verás una lista de contenedores activos.
+     - Localiza el contenedor en el que se está ejecutando tu aplicación. El nombre del contenedor generalmente coincidirá con el servicio definido en tu `docker-compose.yml`.
+     - Haz clic derecho sobre el contenedor deseado y selecciona "Attach Shell". Esto abrirá una nueva terminal en VSCode conectada al contenedor.
+   - **Usar el Shell Conectado**:
+     - Una vez conectado, puedes utilizar la terminal dentro de VSCode para ejecutar comandos dentro del contenedor, como si estuvieras trabajando directamente en el entorno del contenedor.
+
 
 5. **Navegar Dentro del Contenedor**:
    - Dentro de la terminal de VSCode, utiliza el comando `cd` para moverte a la carpeta que contenga el script que deseas ejecutar. Esto podría ser una de las siguientes: `Canal`, `Playlist`, o `Video`.
