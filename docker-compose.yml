@@ -1,0 +1,11 @@
+services:
+  web:
+    image: python:latest
+    container_name: app_web
+    command: bash -c "pip install --no-cache-dir -r requirements.txt  && tail -f /dev/null"
+    volumes:
+      - .:/usr/src/app
+      - pip_cache:/root/.cache/pip
+    working_dir: /usr/src/app
+volumes:
+  pip_cache:
