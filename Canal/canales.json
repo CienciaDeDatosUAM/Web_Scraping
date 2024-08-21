@@ -1,14 +1,7 @@
 {
-    "llave" : "",
+    "llave" : "AIzaSyCXtiAV3lgYwWQncTj8ejlZnQvlH1yTyJo",
     "campos": [
-        {
-            "idCanal": "UCFxHplbcoJK9m70c4VyTIxg",
-            "nombreCanal": "MILENIO",
-            "busqueda":"AMLO",
-            "fechaUnica": "2024-02-02T00:00:00Z",
-            "fechaInicio": null,
-            "fechaFin": null
-        },
+
         {
             "idCanal": "UC2SEk1w7DgoHs_G3w1biz-w",
             "nombreCanal": "El Universal",
@@ -16,14 +9,7 @@
             "fechaUnica": null,
             "fechaInicio": null,
             "fechaFin": null
-        },
-        {
-            "idCanal": "UCcHtke0raf8vNYLM1Hbq3Jw",
-            "nombreCanal": "Imagen Noticias",
-            "busqueda":"AMLO",
-            "fechaUnica": null,
-            "fechaInicio": "2024-02-01T00:00:00Z",
-            "fechaFin": "2024-02-10T23:59:59Z"
         }
+
     ]
 }
