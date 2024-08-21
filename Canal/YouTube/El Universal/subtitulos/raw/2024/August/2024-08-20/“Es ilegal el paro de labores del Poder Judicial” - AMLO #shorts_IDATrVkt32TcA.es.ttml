@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="es" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.360" end="00:00:10.040" style="s2">respeto absoluto a su huelga libertad</p>
+<p begin="00:00:05.040" end="00:00:12.799" style="s2">establece la ley ellos lo saben que es</p>
+<p begin="00:00:10.040" end="00:00:15.000" style="s2">ilegal lo que están haciendo o lo que</p>
+<p begin="00:00:12.799" end="00:00:17.800" style="s2">van a hacer pero no nos corresponde a</p>
+<p begin="00:00:15.000" end="00:00:20.480" style="s2">nosotros sancionar le corresponde al</p>
+<p begin="00:00:17.800" end="00:00:23.160" style="s2">consejo de la judicatura pero aún si nos</p>
+<p begin="00:00:20.480" end="00:00:26.359" style="s2">correspondiera a nosotros se garantiza</p>
+<p begin="00:00:23.160" end="00:00:28.679" style="s2">el derecho a disentir y el derecho a la</p>
+<p begin="00:00:26.359" end="00:00:31.279" style="s2">huelga nosotros no tenemos ningún</p>
+<p begin="00:00:28.679" end="00:00:34.800" style="s2">problema n más que queremos dejar de</p>
+<p begin="00:00:31.279" end="00:00:37.960" style="s2">manifiesto que es completamente Injusto</p>
+<p begin="00:00:34.800" end="00:00:40.440" style="s2">el que se quiera sostener que eso va en</p>
+<p begin="00:00:37.960" end="00:00:43.320" style="s2">contra de los intereses de nuestro país</p>
+<p begin="00:00:40.440" end="00:00:49.360" style="s2">y de nuestro pueblo un sistema judicial</p>
+<p begin="00:00:43.320" end="00:00:49.360" style="s2">entregado por entero a una minoría rapaz</p>
+</div>
+</body>
+</tt>

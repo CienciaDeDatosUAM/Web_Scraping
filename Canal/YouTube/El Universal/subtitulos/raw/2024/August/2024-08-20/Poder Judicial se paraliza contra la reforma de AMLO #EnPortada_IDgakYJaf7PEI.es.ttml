@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="es" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.080" end="00:00:03.800" style="s2">trabajadores del poder judicial jueces y</p>
+<p begin="00:00:02.040" end="00:00:05.720" style="s2">magistrados federales de las 29</p>
+<p begin="00:00:03.800" end="00:00:07.600" style="s2">entidades del país decretaron un paro</p>
+<p begin="00:00:05.720" end="00:00:09.120" style="s2">indefinido de labores en protesta por la</p>
+<p begin="00:00:07.600" end="00:00:10.639" style="s2">inminente aprobación de la Reforma</p>
+<p begin="00:00:09.120" end="00:00:12.280" style="s2">impulsada por el presidente Andrés</p>
+<p begin="00:00:10.639" end="00:00:13.880" style="s2">Manuel López Obrador desde el primer</p>
+<p begin="00:00:12.280" end="00:00:16.160" style="s2">minuto de este lunes se bloquearon los</p>
+<p begin="00:00:13.880" end="00:00:18.080" style="s2">accesos a las sedes menos Jalisco Colima</p>
+<p begin="00:00:16.160" end="00:00:20.400" style="s2">y Sonora donde se analiza sumarse Este</p>
+<p begin="00:00:18.080" end="00:00:22.080" style="s2">martes o miércoles López Obrador aseguró</p>
+<p begin="00:00:20.400" end="00:00:24.439" style="s2">que está en su derecho de manifestarse</p>
+<p begin="00:00:22.080" end="00:00:26.359" style="s2">pero los llamó paleros de corruptos en</p>
+<p begin="00:00:24.439" end="00:00:27.760" style="s2">respuesta a los trabajadores judiciales</p>
+<p begin="00:00:26.359" end="00:00:30.080" style="s2">acusaron que los paleros son los</p>
+<p begin="00:00:27.760" end="00:00:31.920" style="s2">diputados de morena por levant dedos</p>
+<p begin="00:00:30.080" end="00:00:34.079" style="s2">calificaron de mentiroso al presidente</p>
+<p begin="00:00:31.920" end="00:00:35.719" style="s2">al afirmar que la reforma sí afecta a la</p>
+<p begin="00:00:34.079" end="00:00:37.399" style="s2">carrera judicial y al sistema de</p>
+<p begin="00:00:35.719" end="00:00:39.160" style="s2">procuración de Justicia jueces y</p>
+<p begin="00:00:37.399" end="00:00:41.200" style="s2">magistrados aprobaron el paro nacional</p>
+<p begin="00:00:39.160" end="00:00:43.320" style="s2">indefinido de labores en una votación</p>
+<p begin="00:00:41.200" end="00:00:45.960" style="s2">virtual Y ante notario público el paro</p>
+<p begin="00:00:43.320" end="00:00:48.800" style="s2">pone en riesgo de atención 4039 asuntos</p>
+<p begin="00:00:45.960" end="00:00:50.239" style="s2">diariamente en promedio con la puesta de</p>
+<p begin="00:00:48.800" end="00:00:51.719" style="s2">una administración paritaria con</p>
+<p begin="00:00:50.239" end="00:00:53.600" style="s2">perspectiva feminista en todas sus</p>
+<p begin="00:00:51.719" end="00:00:55.280" style="s2">dependencias la jefa de gobierno electa</p>
+<p begin="00:00:53.600" end="00:00:57.120" style="s2">Clara brugada dio a conocer los nombres</p>
+<p begin="00:00:55.280" end="00:00:59.600" style="s2">de 21 integrantes de su gabinete legal</p>
+<p begin="00:00:57.120" end="00:01:01.160" style="s2">11 son mujeres el cual confió es un</p>
+<p begin="00:00:59.600" end="00:01:02.559" style="s2">equipo que atenderá los problemas</p>
+<p begin="00:01:01.160" end="00:01:05.040" style="s2">estructurales con una visión</p>
+<p begin="00:01:02.559" end="00:01:07.119" style="s2">metropolitana y de sustentabilidad en el</p>
+<p begin="00:01:05.040" end="00:01:09.040" style="s2">gabinete repetirán en el cargo Pablo</p>
+<p begin="00:01:07.119" end="00:01:11.600" style="s2">Vázquez como titular de la secretaria de</p>
+<p begin="00:01:09.040" end="00:01:13.119" style="s2">Seguridad Ciudadana y Miriam ursua Vegas</p>
+<p begin="00:01:11.600" end="00:01:15.119" style="s2">al frente de la secretaria de gestión</p>
+<p begin="00:01:13.119" end="00:01:16.720" style="s2">integral de riesgos y protección civil</p>
+<p begin="00:01:15.119" end="00:01:18.720" style="s2">te invitamos a mantenerte informado en</p>
+<p begin="00:01:16.720" end="00:01:22.799" style="s2">la versión impresa en el portal web y en</p>
+<p begin="00:01:18.720" end="00:01:22.799" style="s2">las redes sociales de El Universal</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="es" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.240" end="00:00:03.800" style="s2">a pesar de haber confirmado su presencia</p>
+<p begin="00:00:02.040" end="00:00:05.640" style="s2">el presidente argentino Javier Miley</p>
+<p begin="00:00:03.800" end="00:00:07.200" style="s2">cambió de planes y suspendió el viaje</p>
+<p begin="00:00:05.640" end="00:00:09.719" style="s2">que había programado para el próximo</p>
+<p begin="00:00:07.200" end="00:00:11.799" style="s2">viernes a México informó el diario La</p>
+<p begin="00:00:09.719" end="00:00:13.639" style="s2">Nación su agenda en México en principio</p>
+<p begin="00:00:11.799" end="00:00:15.240" style="s2">de Solo dos días de duración yba a</p>
+<p begin="00:00:13.639" end="00:00:17.000" style="s2">incluir un encuentro con empresarios</p>
+<p begin="00:00:15.240" end="00:00:18.680" style="s2">locales y su participación en otra</p>
+<p begin="00:00:17.000" end="00:00:20.480" style="s2">cumbre de la conferencia política de</p>
+<p begin="00:00:18.680" end="00:00:22.039" style="s2">acción conservadora no estaba previsto</p>
+<p begin="00:00:20.480" end="00:00:23.680" style="s2">un encuentro con el presidente Andrés</p>
+<p begin="00:00:22.039" end="00:00:25.320" style="s2">Manuel López Obrador debido en gran</p>
+<p begin="00:00:23.680" end="00:00:27.320" style="s2">medida al intercambio de mensajes</p>
+<p begin="00:00:25.320" end="00:00:29.240" style="s2">subidos de tono entre ambos mandatarios</p>
+<p begin="00:00:27.320" end="00:00:31.279" style="s2">lo cual impidió pensar en la posibilidad</p>
+<p begin="00:00:29.240" end="00:00:33.280" style="s2">de una reunión Fuentes oficiales se</p>
+<p begin="00:00:31.279" end="00:00:35.000" style="s2">limitaron a informar al medio que Miley</p>
+<p begin="00:00:33.280" end="00:00:37.360" style="s2">Sí estará el viernes en Rosario para el</p>
+<p begin="00:00:35.000" end="00:00:39.440" style="s2">acto del aniversario número 140 de la</p>
+<p begin="00:00:37.360" end="00:00:40.920" style="s2">bolsa de comercio de esa ciudad medios</p>
+<p begin="00:00:39.440" end="00:00:42.600" style="s2">argentinos señalaron dos razones</p>
+<p begin="00:00:40.920" end="00:00:44.600" style="s2">principales por las que milei habría</p>
+<p begin="00:00:42.600" end="00:00:46.559" style="s2">suspendido su viaje por un lado un</p>
+<p begin="00:00:44.600" end="00:00:48.480" style="s2">sondeo según el cual a los argentinos</p>
+<p begin="00:00:46.559" end="00:00:50.559" style="s2">les molesta más los constantes viajes de</p>
+<p begin="00:00:48.480" end="00:00:51.879" style="s2">mi ley al extranjero que el escándalo de</p>
+<p begin="00:00:50.559" end="00:00:54.120" style="s2">violencia de género que rodea el</p>
+<p begin="00:00:51.879" end="00:00:55.800" style="s2">expresidente argentino Alberto Fernández</p>
+<p begin="00:00:54.120" end="00:00:57.920" style="s2">investigado por presuntas agresiones</p>
+<p begin="00:00:55.800" end="00:01:00.280" style="s2">contra su expareja la exprimera dama</p>
+<p begin="00:00:57.920" end="00:01:01.640" style="s2">Fabiola Yáñez por el otro la mala</p>
+<p begin="00:01:00.280" end="00:01:03.559" style="s2">relación que hay entre mi ley y la</p>
+<p begin="00:01:01.640" end="00:01:04.920" style="s2">vicepresidenta victoria villarruel quien</p>
+<p begin="00:01:03.559" end="00:01:06.680" style="s2">habría tenido que suplirlo en su</p>
+<p begin="00:01:04.920" end="00:01:08.680" style="s2">ausencia y con quien ha tenido una serie</p>
+<p begin="00:01:06.680" end="00:01:10.159" style="s2">de desencuentros la decisión de mi ley</p>
+<p begin="00:01:08.680" end="00:01:12.159" style="s2">de viajar a distintos países para</p>
+<p begin="00:01:10.159" end="00:01:14.080" style="s2">recibir premios o participar en Cumbres</p>
+<p begin="00:01:12.159" end="00:01:16.080" style="s2">con políticos afines sin encontrarse con</p>
+<p begin="00:01:14.080" end="00:01:17.600" style="s2">sus homólogos ha sido una constante en</p>
+<p begin="00:01:16.080" end="00:01:20.240" style="s2">su</p>
+<p begin="00:01:17.600" end="00:01:25.520" style="s2">gobierno mantente informado con El</p>
+<p begin="00:01:20.240" end="00:01:25.520" style="s2">Universal y suscríbete a nuestro canal</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="es" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.719" end="00:00:04.600" style="s2">sería</p>
+<p begin="00:00:02.560" end="00:00:07.000" style="s2">muy</p>
+<p begin="00:00:04.600" end="00:00:11.200" style="s2">extraño</p>
+<p begin="00:00:07.000" end="00:00:15.879" style="s2">raro que el que tiene más dinero en</p>
+<p begin="00:00:11.200" end="00:00:17.160" style="s2">México Carlos esté a favor de que se</p>
+<p begin="00:00:15.879" end="00:00:20.199" style="s2">Viole la</p>
+<p begin="00:00:17.160" end="00:00:24.439" style="s2">constitución pero quiero su</p>
+<p begin="00:00:20.199" end="00:00:26.480" style="s2">opinión porque ya nada de</p>
+<p begin="00:00:24.439" end="00:00:31.119" style="s2">simulaciones de</p>
+<p begin="00:00:26.480" end="00:00:34.079" style="s2">que se tienen lasgan</p>
+<p begin="00:00:31.119" end="00:00:39.000" style="s2">empres como un</p>
+<p begin="00:00:34.079" end="00:00:40.719" style="s2">parapeto y nada más es la</p>
+<p begin="00:00:39.000" end="00:00:42.840" style="s2">formalidad</p>
+<p begin="00:00:40.719" end="00:00:46.440" style="s2">entonces</p>
+<p begin="00:00:42.840" end="00:00:46.440" style="s2">Carlos quiero su</p>
+<p begin="00:00:46.800" end="00:00:53.480" style="s2">opinión no al presidente al pueblo de</p>
+<p begin="00:00:50.480" end="00:00:53.480" style="s2">México</p>
+</div>
+</body>
+</tt>
