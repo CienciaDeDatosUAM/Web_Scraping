@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="es" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:28.960" end="00:00:31.960" style="s2">al</p>
+<p begin="00:00:58.920" end="00:01:01.920" style="s2">al</p>
+<p begin="00:01:28.920" end="00:01:31.920" style="s2">al</p>
+<p begin="00:01:58.840" end="00:02:01.840" style="s2">al</p>
+<p begin="00:02:28.840" end="00:02:31.840" style="s2">al</p>
+<p begin="00:02:58.840" end="00:03:01.840" style="s2">al</p>
+<p begin="00:03:28.760" end="00:03:31.760" style="s2">al</p>
+<p begin="00:03:58.720" end="00:04:01.720" style="s2">al</p>
+<p begin="00:04:28.720" end="00:04:31.720" style="s2">al</p>
+<p begin="00:04:58.639" end="00:05:01.639" style="s2">al</p>
+<p begin="00:05:28.639" end="00:05:31.639" style="s2">al</p>
+<p begin="00:05:58.639" end="00:06:01.639" style="s2">al</p>
+<p begin="00:06:28.560" end="00:06:31.560" style="s2">al</p>
+<p begin="00:06:58.520" end="00:07:01.520" style="s2">al</p>
+<p begin="00:07:28.520" end="00:07:31.520" style="s2">al</p>
+<p begin="00:07:58.440" end="00:08:01.440" style="s2">al</p>
+<p begin="00:08:28.440" end="00:08:31.440" style="s2">al</p>
+<p begin="00:08:58.440" end="00:09:01.440" style="s2">al</p>
+<p begin="00:09:28.360" end="00:09:31.360" style="s2">al</p>
+<p begin="00:09:58.320" end="00:10:01.320" style="s2">al</p>
+<p begin="00:10:28.320" end="00:10:31.320" style="s2">al</p>
+<p begin="00:10:58.240" end="00:11:01.240" style="s2">al</p>
+<p begin="00:11:28.240" end="00:11:31.240" style="s2">al</p>
+<p begin="00:11:58.240" end="00:12:01.240" style="s2">al</p>
+<p begin="00:12:28.160" end="00:12:31.160" style="s2">al</p>
+<p begin="00:12:58.120" end="00:13:01.120" style="s2">al</p>
+<p begin="00:13:28.120" end="00:13:31.120" style="s2">al</p>
+<p begin="00:13:58.040" end="00:14:01.040" style="s2">al</p>
+<p begin="00:14:28.040" end="00:14:31.040" style="s2">al</p>
+<p begin="00:14:58.040" end="00:15:01.040" style="s2">al</p>
+<p begin="00:15:27.959" end="00:15:30.959" style="s2">al</p>
+<p begin="00:15:57.920" end="00:16:00.920" style="s2">al</p>
+<p begin="00:16:27.920" end="00:16:30.920" style="s2">al</p>
+<p begin="00:16:57.839" end="00:17:00.839" style="s2">al</p>
+<p begin="00:17:27.840" end="00:17:30.840" style="s2">al</p>
+<p begin="00:17:57.840" end="00:18:00.840" style="s2">al</p>
+<p begin="00:18:27.760" end="00:18:30.760" style="s2">al</p>
+<p begin="00:18:57.720" end="00:19:00.720" style="s2">al</p>
+<p begin="00:19:27.720" end="00:19:30.720" style="s2">al</p>
+<p begin="00:19:57.640" end="00:20:00.640" style="s2">al</p>
+<p begin="00:20:27.640" end="00:20:30.640" style="s2">al</p>
+<p begin="00:20:57.600" end="00:21:00.600" style="s2">al</p>
+<p begin="00:21:27.520" end="00:21:30.520" style="s2">al</p>
+<p begin="00:21:57.520" end="00:22:00.520" style="s2">al</p>
+<p begin="00:22:27.520" end="00:22:30.520" style="s2">al</p>
+<p begin="00:22:57.440" end="00:23:00.440" style="s2">al</p>
+<p begin="00:23:27.440" end="00:23:30.440" style="s2">al</p>
+<p begin="00:23:57.440" end="00:24:00.440" style="s2">al</p>
+<p begin="00:24:27.360" end="00:24:30.360" style="s2">al</p>
+<p begin="00:24:57.320" end="00:25:00.320" style="s2">al</p>
+<p begin="00:25:27.320" end="00:25:30.320" style="s2">al</p>
+<p begin="00:25:57.240" end="00:26:00.240" style="s2">al</p>
+<p begin="00:26:27.240" end="00:26:31.279" style="s2">al al</p>
+<p begin="00:27:27.200" end="00:27:32.200" style="s2">damos la bienvenida a las y los</p>
+<p begin="00:27:28.880" end="00:27:35.120" style="s2">representantes de los medios de</p>
+<p begin="00:27:32.200" end="00:27:36.960" style="s2">comunicación está todo listo para esta</p>
+<p begin="00:27:35.120" end="00:27:42.320" style="s2">Nueva presentación del equipo de</p>
+<p begin="00:27:36.960" end="00:27:42.320" style="s2">gobierno 2024 2030</p>
+<p begin="00:28:06.840" end="00:28:11.200" style="s2">muy buenos días recibimos y cedemos el</p>
+<p begin="00:28:09.519" end="00:28:14.480" style="s2">uso de la palabra a la presidenta electa</p>
+<p begin="00:28:11.200" end="00:28:17.519" style="s2">de México la doctora Claudia shinba uno</p>
+<p begin="00:28:14.480" end="00:28:20.320" style="s2">muy buenos días a todos a todas</p>
+<p begin="00:28:17.519" end="00:28:20.320" style="s2">siéntense por</p>
+<p begin="00:28:20.480" end="00:28:26.279" style="s2">favor hoy tengo el gusto de presentarles</p>
+<p begin="00:28:25.279" end="00:28:29.799" style="s2">a</p>
+<p begin="00:28:26.279" end="00:28:31.840" style="s2">cuatro personas</p>
+<p begin="00:28:29.799" end="00:28:34.960" style="s2">que van a formar parte de nuestro</p>
+<p begin="00:28:31.840" end="00:28:36.799" style="s2">gabinete a partir del primero de octubre</p>
+<p begin="00:28:34.960" end="00:28:42.679" style="s2">del</p>
+<p begin="00:28:36.799" end="00:28:46.960" style="s2">2024 son mujeres y hombres honestos</p>
+<p begin="00:28:42.679" end="00:28:49.799" style="s2">profesionales que son parte de la cuarta</p>
+<p begin="00:28:46.960" end="00:28:53.039" style="s2">transformación y</p>
+<p begin="00:28:49.799" end="00:28:57.039" style="s2">que hemos trabajado con ellos con los</p>
+<p begin="00:28:53.039" end="00:28:59.440" style="s2">cuatro muy bien y me da muchísimo gusto</p>
+<p begin="00:28:57.039" end="00:29:03.600" style="s2">poderles presentar</p>
+<p begin="00:28:59.440" end="00:29:07.799" style="s2">rosela Rodríguez Velázquez secretaria de</p>
+<p begin="00:29:03.600" end="00:29:10.320" style="s2">gobernación es licenciada en</p>
+<p begin="00:29:07.799" end="00:29:12.000" style="s2">periodismo por la escuela de periodismo</p>
+<p begin="00:29:10.320" end="00:29:15.000" style="s2">Carlos setién</p>
+<p begin="00:29:12.000" end="00:29:15.000" style="s2">García</p>
+<p begin="00:29:15.720" end="00:29:20.200" style="s2">actualmente actualmente cursa La</p>
+<p begin="00:29:18.000" end="00:29:22.960" style="s2">maestría o más bien tiene estudios de</p>
+<p begin="00:29:20.200" end="00:29:25.799" style="s2">maestría en ciencias penales y cuenta</p>
+<p begin="00:29:22.960" end="00:29:29.440" style="s2">con muchos años de experiencia en el</p>
+<p begin="00:29:25.799" end="00:29:33.480" style="s2">servicio público de las ciudad y del</p>
+<p begin="00:29:29.440" end="00:29:38.519" style="s2">Gobierno Federal a partir de diciembre</p>
+<p begin="00:29:33.480" end="00:29:41.559" style="s2">de 2020 y hasta el 30 de septiembre de</p>
+<p begin="00:29:38.519" end="00:29:44.039" style="s2">2024 es la titular de la Secretaría de</p>
+<p begin="00:29:41.559" end="00:29:47.720" style="s2">Seguridad y protección ciudadana del</p>
+<p begin="00:29:44.039" end="00:29:50.039" style="s2">presidente Andrés Manuel López Obrador y</p>
+<p begin="00:29:47.720" end="00:29:53.919" style="s2">por supuesto es la primera mujer en la</p>
+<p begin="00:29:50.039" end="00:29:59.320" style="s2">historia de México en ejercer este cargo</p>
+<p begin="00:29:53.919" end="00:30:01.000" style="s2">mismo que eh seguirá desempeñando hasta</p>
+<p begin="00:29:59.320" end="00:30:02.799" style="s2">el último día del gobierno del</p>
+<p begin="00:30:01.000" end="00:30:06.799" style="s2">presidente Andrés Manuel López Obrador</p>
+<p begin="00:30:02.799" end="00:30:10.600" style="s2">el primero de octubre a las 0 horas no</p>
+<p begin="00:30:06.799" end="00:30:10.600" style="s2">tendrá descanso la</p>
+<p begin="00:30:11.279" end="00:30:17.320" style="s2">secretaria ya será secretaria de</p>
+<p begin="00:30:15.240" end="00:30:20.840" style="s2">gobernación</p>
+<p begin="00:30:17.320" end="00:30:22.279" style="s2">ella para quien no conozca su currículum</p>
+<p begin="00:30:20.840" end="00:30:25.120" style="s2">en el servicio</p>
+<p begin="00:30:22.279" end="00:30:26.960" style="s2">público fue coordinadora general de</p>
+<p begin="00:30:25.120" end="00:30:29.320" style="s2">puertos</p>
+<p begin="00:30:26.960" end="00:30:33.080" style="s2">y secretaria de Comunicaciones y</p>
+<p begin="00:30:29.320" end="00:30:37.159" style="s2">Transportes de Julio a noviembre</p>
+<p begin="00:30:33.080" end="00:30:39.200" style="s2">2020 secretaria de gobierno eh en los</p>
+<p begin="00:30:37.159" end="00:30:42.919" style="s2">dos primeros años</p>
+<p begin="00:30:39.200" end="00:30:45.519" style="s2">eh del gobierno que encabe en el</p>
+<p begin="00:30:42.919" end="00:30:47.720" style="s2">gobierno de la Ciudad de México</p>
+<p begin="00:30:45.519" end="00:30:49.720" style="s2">secretaria de desarrollo rural y equidad</p>
+<p begin="00:30:47.720" end="00:30:53.000" style="s2">para las comunidades secretaria de</p>
+<p begin="00:30:49.720" end="00:30:55.799" style="s2">desarrollo social de la Ciudad de México</p>
+<p begin="00:30:53.000" end="00:30:58.960" style="s2">directora general del instituto para la</p>
+<p begin="00:30:55.799" end="00:31:01.720" style="s2">atención de los adultos mayores y</p>
+<p begin="00:30:58.960" end="00:31:05.159" style="s2">durante el gobierno del presidente López</p>
+<p begin="00:31:01.720" end="00:31:07.200" style="s2">Obrador en la Ciudad de México fue</p>
+<p begin="00:31:05.159" end="00:31:09.760" style="s2">directora general de participación</p>
+<p begin="00:31:07.200" end="00:31:12.039" style="s2">ciudadana y también coordinadora del</p>
+<p begin="00:31:09.760" end="00:31:13.559" style="s2">gabinete del gobierno y</p>
+<p begin="00:31:12.039" end="00:31:16.039" style="s2">Seguridad</p>
+<p begin="00:31:13.559" end="00:31:19.760" style="s2">Ciudadana en el gobierno de la Ciudad de</p>
+<p begin="00:31:16.039" end="00:31:23.039" style="s2">México en el periodo de licenciado ebrar</p>
+<p begin="00:31:19.760" end="00:31:26.440" style="s2">como jefe de gobierno Así que tiene una</p>
+<p begin="00:31:23.039" end="00:31:28.639" style="s2">vasta experiencia y hemos trabajado</p>
+<p begin="00:31:26.440" end="00:31:33.360" style="s2">juntas y sé que va des</p>
+<p begin="00:31:28.639" end="00:31:35.120" style="s2">ñar de manera excelente y con mucho</p>
+<p begin="00:31:33.360" end="00:31:37.039" style="s2">profesionalismo y honestidad la</p>
+<p begin="00:31:35.120" end="00:31:39.799" style="s2">secretaría de</p>
+<p begin="00:31:37.039" end="00:31:42.880" style="s2">gobernación Mario Delgado Carrillo</p>
+<p begin="00:31:39.799" end="00:31:44.720" style="s2">secretario de educación pública es</p>
+<p begin="00:31:42.880" end="00:31:48.679" style="s2">licenciado en</p>
+<p begin="00:31:44.720" end="00:31:52.720" style="s2">economía tenían sus quinielas verdad es</p>
+<p begin="00:31:48.679" end="00:31:55.279" style="s2">licenciado en economía y también maestro</p>
+<p begin="00:31:52.720" end="00:31:59.080" style="s2">en economía por la universidad deex en</p>
+<p begin="00:31:55.279" end="00:32:02.120" style="s2">Inglaterra a partir del 5 de nov 2020</p>
+<p begin="00:31:59.080" end="00:32:06.240" style="s2">asumió el cargo de presidente Nacional</p>
+<p begin="00:32:02.120" end="00:32:08.960" style="s2">de morena y en febrero de este año lo</p>
+<p begin="00:32:06.240" end="00:32:12.120" style="s2">nombré coordinador general de nuestra</p>
+<p begin="00:32:08.960" end="00:32:14.720" style="s2">campaña a la presidencia de la República</p>
+<p begin="00:32:12.120" end="00:32:18.559" style="s2">como saben durante este</p>
+<p begin="00:32:14.720" end="00:32:21.000" style="s2">periodo se ganaron y se</p>
+<p begin="00:32:18.559" end="00:32:24.320" style="s2">ratificaron entre</p>
+<p begin="00:32:21.000" end="00:32:28.519" style="s2">ellas 24 gobiernos</p>
+<p begin="00:32:24.320" end="00:32:31.960" style="s2">estatales ahora la mayoría calific en el</p>
+<p begin="00:32:28.519" end="00:32:35.240" style="s2">senado y bueno en la cámara de diputados</p>
+<p begin="00:32:31.960" end="00:32:38.679" style="s2">y casi en el senado Y por supuesto la</p>
+<p begin="00:32:35.240" end="00:32:41.360" style="s2">presidencia de la República Yo sé que</p>
+<p begin="00:32:38.679" end="00:32:43.880" style="s2">Mario va a desempeñar un gran papel al</p>
+<p begin="00:32:41.360" end="00:32:46.799" style="s2">frente de la Secretaría de Educación en</p>
+<p begin="00:32:43.880" end="00:32:48.399" style="s2">donde van a estar algunos de los</p>
+<p begin="00:32:46.799" end="00:32:52.679" style="s2">programas</p>
+<p begin="00:32:48.399" end="00:32:56.120" style="s2">prioritarios que vamos a desarrollar en</p>
+<p begin="00:32:52.679" end="00:32:58.200" style="s2">2018 se desempeñó como Vocero de la</p>
+<p begin="00:32:56.120" end="00:33:01.799" style="s2">campaña presidencial del presidente</p>
+<p begin="00:32:58.200" end="00:33:05.080" style="s2">Andrés Manuel López Obrador fue electo</p>
+<p begin="00:33:01.799" end="00:33:08.799" style="s2">diputado federal y además coordinó al</p>
+<p begin="00:33:05.080" end="00:33:13.799" style="s2">grupo parlamentario de Morena en la</p>
+<p begin="00:33:08.799" end="00:33:16.320" style="s2">primera legislatura de 2018 a 2021 en</p>
+<p begin="00:33:13.799" end="00:33:18.480" style="s2">2012 fue electo como senador de mayoría</p>
+<p begin="00:33:16.320" end="00:33:21.919" style="s2">por la Ciudad de México</p>
+<p begin="00:33:18.480" end="00:33:23.919" style="s2">eh cuando el gobierno de licenciado</p>
+<p begin="00:33:21.919" end="00:33:26.760" style="s2">brard en la Ciudad de México él fue</p>
+<p begin="00:33:23.919" end="00:33:28.840" style="s2">secretario de educación y también</p>
+<p begin="00:33:26.760" end="00:33:32.600" style="s2">secretario de</p>
+<p begin="00:33:28.840" end="00:33:36.360" style="s2">además de otras cargos que ha tenido en</p>
+<p begin="00:33:32.600" end="00:33:39.240" style="s2">el servicio público Ariadna Montiel</p>
+<p begin="00:33:36.360" end="00:33:41.120" style="s2">Reyes ella se queda como secretaria del</p>
+<p begin="00:33:39.240" end="00:33:45.080" style="s2">bienestar del gobierno de</p>
+<p begin="00:33:41.120" end="00:33:49.039" style="s2">México desde enero de 2022 ella se</p>
+<p begin="00:33:45.080" end="00:33:49.039" style="s2">desempeña como secretaria de</p>
+<p begin="00:33:49.159" end="00:33:56.080" style="s2">bienestar no solamente Ella</p>
+<p begin="00:33:51.639" end="00:34:00.679" style="s2">es una mujer honesta de grandes</p>
+<p begin="00:33:56.080" end="00:34:03.440" style="s2">convicciones sino que es de una entrega</p>
+<p begin="00:34:00.679" end="00:34:06.760" style="s2">que pocas personas tienen poca gente</p>
+<p begin="00:34:03.440" end="00:34:08.639" style="s2">sabe Porque además no es protagónica que</p>
+<p begin="00:34:06.760" end="00:34:12.119" style="s2">ahora que fue el huracán otis</p>
+<p begin="00:34:08.639" end="00:34:15.560" style="s2">prácticamente vivió en Acapulco eh más</p>
+<p begin="00:34:12.119" end="00:34:20.639" style="s2">de 6 meses con el equipo de bienestar</p>
+<p begin="00:34:15.560" end="00:34:22.520" style="s2">Entonces es de una gran entrega y eh Me</p>
+<p begin="00:34:20.639" end="00:34:25.520" style="s2">siento muy orgullosa de</p>
+<p begin="00:34:22.520" end="00:34:26.720" style="s2">que siga desempeñando este cargo de</p>
+<p begin="00:34:25.520" end="00:34:29.480" style="s2">secretaria de</p>
+<p begin="00:34:26.720" end="00:34:31.879" style="s2">bienestar ella además fue subsecretaria</p>
+<p begin="00:34:29.480" end="00:34:34.960" style="s2">de bienestar del 2018 al</p>
+<p begin="00:34:31.879" end="00:34:37.639" style="s2">2022 diputada federal en la cámara de</p>
+<p begin="00:34:34.960" end="00:34:40.599" style="s2">diputados en la primera legislatura de</p>
+<p begin="00:34:37.639" end="00:34:43.040" style="s2">Morena en 2012 fue diputada de la</p>
+<p begin="00:34:40.599" end="00:34:46.879" style="s2">asamblea legislativa del Distrito</p>
+<p begin="00:34:43.040" end="00:34:49.960" style="s2">Federal del entonces Distrito Federal y</p>
+<p begin="00:34:46.879" end="00:34:52.399" style="s2">es secretaria de la comisión de gobierno</p>
+<p begin="00:34:49.960" end="00:34:54.839" style="s2">en aquella época y presidenta de la mesa</p>
+<p begin="00:34:52.399" end="00:34:57.800" style="s2">directiva fue directora general de la</p>
+<p begin="00:34:54.839" end="00:35:01.680" style="s2">red de transporte de pasajeros también y</p>
+<p begin="00:34:57.800" end="00:35:03.760" style="s2">en 2006 fue senadora suplente y viene</p>
+<p begin="00:35:01.680" end="00:35:04.720" style="s2">del mismo movimiento aunque ya es más</p>
+<p begin="00:35:03.760" end="00:35:08.000" style="s2">joven</p>
+<p begin="00:35:04.720" end="00:35:10.200" style="s2">eh que su servidora venimos las dos del</p>
+<p begin="00:35:08.000" end="00:35:14.040" style="s2">movimiento estudiantil en la Universidad</p>
+<p begin="00:35:10.200" end="00:35:16.920" style="s2">Nacional Autónoma de México y Omar</p>
+<p begin="00:35:14.040" end="00:35:18.680" style="s2">García harfu secretario de seguridad y</p>
+<p begin="00:35:16.920" end="00:35:24.160" style="s2">protección</p>
+<p begin="00:35:18.680" end="00:35:28.920" style="s2">ciudadana él es licenciado en derecho y</p>
+<p begin="00:35:24.160" end="00:35:29.960" style="s2">maestro en administración pública es así</p>
+<p begin="00:35:28.920" end="00:35:32.760" style="s2">y</p>
+<p begin="00:35:29.960" end="00:35:35.800" style="s2">eh ha tenido</p>
+<p begin="00:35:32.760" end="00:35:38.000" style="s2">diversos cursos y especialidades en</p>
+<p begin="00:35:35.800" end="00:35:41.079" style="s2">distintos lugares sobre el tema de</p>
+<p begin="00:35:38.000" end="00:35:44.440" style="s2">seguridad nacional y seguridad pública</p>
+<p begin="00:35:41.079" end="00:35:48.359" style="s2">eh particularmente en la universidad de</p>
+<p begin="00:35:44.440" end="00:35:51.040" style="s2">Harvard y como ustedes saben de octubre</p>
+<p begin="00:35:48.359" end="00:35:54.240" style="s2">de 2019 a septiembre de</p>
+<p begin="00:35:51.040" end="00:35:56.720" style="s2">2023 se desempeñó como titular de la</p>
+<p begin="00:35:54.240" end="00:35:58.599" style="s2">Secretaría de Seguridad Ciudadana en la</p>
+<p begin="00:35:56.720" end="00:36:03.079" style="s2">Ciudad de México</p>
+<p begin="00:35:58.599" end="00:36:06.280" style="s2">y además fue parte o fue coordinador de</p>
+<p begin="00:36:03.079" end="00:36:09.200" style="s2">diálogos por la transformación en el eje</p>
+<p begin="00:36:06.280" end="00:36:11.040" style="s2">de seguridad y como ustedes saben en</p>
+<p begin="00:36:09.200" end="00:36:15.200" style="s2">este periodo</p>
+<p begin="00:36:11.040" end="00:36:19.760" style="s2">eh mientras fui jefa de gobierno con el</p>
+<p begin="00:36:15.200" end="00:36:22.760" style="s2">equipo de trabajo en donde estuvo Omar y</p>
+<p begin="00:36:19.760" end="00:36:24.119" style="s2">al mismo tiempo la fiscal General de</p>
+<p begin="00:36:22.760" end="00:36:27.599" style="s2">Justicia de la Ciudad de México</p>
+<p begin="00:36:24.119" end="00:36:30.920" style="s2">Ernestina Godoy logramos una disminución</p>
+<p begin="00:36:27.599" end="00:36:35.599" style="s2">histórica de 50% en los delitos de alto</p>
+<p begin="00:36:30.920" end="00:36:39.000" style="s2">impacto y 60 Perdón 50% en homicidios y</p>
+<p begin="00:36:35.599" end="00:36:42.119" style="s2">60 por en los delitos de alto impacto el</p>
+<p begin="00:36:39.000" end="00:36:44.680" style="s2">día de ayer me comentaron que eh A veces</p>
+<p begin="00:36:42.119" end="00:36:48.960" style="s2">es muy difícil hacerles preguntas</p>
+<p begin="00:36:44.680" end="00:36:50.760" style="s2">cuando salimos de este recinto entonces</p>
+<p begin="00:36:48.960" end="00:36:54.160" style="s2">tomamos la decisión de que cada uno de</p>
+<p begin="00:36:50.760" end="00:36:58.000" style="s2">ellos pueda expresarles</p>
+<p begin="00:36:54.160" end="00:37:02.040" style="s2">eh su sentir sobre este cargo que van a</p>
+<p begin="00:36:58.000" end="00:37:04.560" style="s2">desempeñar encargo principalmente eh que</p>
+<p begin="00:37:02.040" end="00:37:09.640" style="s2">es un encargo que nos hace el pueblo de</p>
+<p begin="00:37:04.560" end="00:37:12.240" style="s2">México y palabra sobre la importancia de</p>
+<p begin="00:37:09.640" end="00:37:14.200" style="s2">estas secretarías Entonces le vamos a</p>
+<p begin="00:37:12.240" end="00:37:16.440" style="s2">dar primero la palabra quien se</p>
+<p begin="00:37:14.200" end="00:37:19.839" style="s2">desempeñará como secretaria de</p>
+<p begin="00:37:16.440" end="00:37:19.839" style="s2">gobernación Gracias</p>
+<p begin="00:37:21.220" end="00:37:30.760" style="s2">[Aplausos]</p>
+<p begin="00:37:26.520" end="00:37:34.720" style="s2">Ros muy buenos días tengan todas y todos</p>
+<p begin="00:37:30.760" end="00:37:37.040" style="s2">ustedes saludar a mis a mi compañera y</p>
+<p begin="00:37:34.720" end="00:37:41.520" style="s2">compañeros de</p>
+<p begin="00:37:37.040" end="00:37:46.200" style="s2">equipo agradecerle a usted presidenta</p>
+<p begin="00:37:41.520" end="00:37:50.000" style="s2">electa Claudia sheima un pardo la</p>
+<p begin="00:37:46.200" end="00:37:53.920" style="s2">confianza para formar parte del gabinete</p>
+<p begin="00:37:50.000" end="00:37:56.400" style="s2">de su gobierno Un gobierno que</p>
+<p begin="00:37:53.920" end="00:37:59.040" style="s2">construirá el segundo piso de la</p>
+<p begin="00:37:56.400" end="00:38:01.119" style="s2">transformación de</p>
+<p begin="00:37:59.040" end="00:38:04.640" style="s2">México es un</p>
+<p begin="00:38:01.119" end="00:38:08.400" style="s2">privilegio caminar a su lado como</p>
+<p begin="00:38:04.640" end="00:38:11.920" style="s2">primera mujer presidenta en la historia</p>
+<p begin="00:38:08.400" end="00:38:14.920" style="s2">de nuestro país con</p>
+<p begin="00:38:11.920" end="00:38:16.800" style="s2">usted llegamos todas</p>
+<p begin="00:38:14.920" end="00:38:20.599" style="s2">juntas</p>
+<p begin="00:38:16.800" end="00:38:23.720" style="s2">abuelas madres e</p>
+<p begin="00:38:20.599" end="00:38:26.359" style="s2">hijas una alta</p>
+<p begin="00:38:23.720" end="00:38:28.040" style="s2">responsabilidad como la que me confía</p>
+<p begin="00:38:26.359" end="00:38:31.079" style="s2">ahora</p>
+<p begin="00:38:28.040" end="00:38:34.079" style="s2">requiere un alto compromiso También</p>
+<p begin="00:38:31.079" end="00:38:38.599" style="s2">tenga usted la seguridad de que</p>
+<p begin="00:38:34.079" end="00:38:42.680" style="s2">trabajaremos con todas y todos con</p>
+<p begin="00:38:38.599" end="00:38:45.119" style="s2">eficacia y sensibilidad en la atención</p>
+<p begin="00:38:42.680" end="00:38:49.040" style="s2">de las demandas</p>
+<p begin="00:38:45.119" end="00:38:52.560" style="s2">ciudadanas siempre siempre habrá</p>
+<p begin="00:38:49.040" end="00:38:56.359" style="s2">coordinación y diálogo bajo las</p>
+<p begin="00:38:52.560" end="00:38:59.440" style="s2">directrices Claro que usted nos marque</p>
+<p begin="00:38:56.359" end="00:38:59.440" style="s2">desde la</p>
+<p begin="00:39:00.000" end="00:39:07.880" style="s2">actuaremos con respeto y civilidad en la</p>
+<p begin="00:39:04.560" end="00:39:12.640" style="s2">búsqueda de acuerdos para dar</p>
+<p begin="00:39:07.880" end="00:39:15.160" style="s2">soluciones a las exigencias de la</p>
+<p begin="00:39:12.640" end="00:39:17.960" style="s2">sociedad tengo</p>
+<p begin="00:39:15.160" end="00:39:22.079" style="s2">claro presidenta Claudia</p>
+<p begin="00:39:17.960" end="00:39:25.160" style="s2">shau que usted realizó en campaña una</p>
+<p begin="00:39:22.079" end="00:39:31.560" style="s2">serie de compromisos que se tienen que</p>
+<p begin="00:39:25.160" end="00:39:35.560" style="s2">cumplir le daremos valor a la palabra de</p>
+<p begin="00:39:31.560" end="00:39:40.319" style="s2">mujer me conduciré con honestidad y</p>
+<p begin="00:39:35.560" end="00:39:44.839" style="s2">Seguiremos haciendo nuestro el lema de</p>
+<p begin="00:39:40.319" end="00:39:46.359" style="s2">no mentir No robar y no traicionar al</p>
+<p begin="00:39:44.839" end="00:39:49.720" style="s2">pueblo</p>
+<p begin="00:39:46.359" end="00:39:51.640" style="s2">aprendimos del</p>
+<p begin="00:39:49.720" end="00:39:54.240" style="s2">mejor estoy</p>
+<p begin="00:39:51.640" end="00:39:57.839" style="s2">segura que Bajo su</p>
+<p begin="00:39:54.240" end="00:40:01.800" style="s2">mandato daremos buenos resultados</p>
+<p begin="00:39:57.839" end="00:40:04.760" style="s2">porque usted recibe un importante legado</p>
+<p begin="00:40:01.800" end="00:40:09.680" style="s2">del presidente Andrés Manuel López</p>
+<p begin="00:40:04.760" end="00:40:12.440" style="s2">Obrador una sólida base que hará posible</p>
+<p begin="00:40:09.680" end="00:40:15.680" style="s2">avanzar en la transformación del país</p>
+<p begin="00:40:12.440" end="00:40:18.960" style="s2">siempre con apego a lo que establece la</p>
+<p begin="00:40:15.680" end="00:40:22.400" style="s2">Carta Magna para actuar con justicia y</p>
+<p begin="00:40:18.960" end="00:40:25.640" style="s2">con respeto a los Derechos Humanos</p>
+<p begin="00:40:22.400" end="00:40:28.560" style="s2">Seguiremos haciendo historia Muchas</p>
+<p begin="00:40:25.640" end="00:40:31.079" style="s2">gracias que nos permiten servirles y</p>
+<p begin="00:40:28.560" end="00:40:34.119" style="s2">muchas gracias que nos permiten trabajar</p>
+<p begin="00:40:31.079" end="00:40:34.119" style="s2">para ustedes Muchas</p>
+<p begin="00:40:36.200" end="00:40:40.880" style="s2">gracias a continuación escucharemos las</p>
+<p begin="00:40:38.880" end="00:40:45.359" style="s2">palabras de quien ha sido designada</p>
+<p begin="00:40:40.880" end="00:40:45.359" style="s2">secretaria de bienestar Ariadna Montiel</p>
+<p begin="00:40:46.000" end="00:40:52.599" style="s2">Reyes muy buenos días primero que nada</p>
+<p begin="00:40:49.640" end="00:40:56.200" style="s2">agradecerle a la presidenta electa la</p>
+<p begin="00:40:52.599" end="00:40:58.319" style="s2">confianza que deposita en nosotros para</p>
+<p begin="00:40:56.200" end="00:41:01.200" style="s2">seguir llevando la conducción de la</p>
+<p begin="00:40:58.319" end="00:41:03.640" style="s2">política de bienestar de los programas</p>
+<p begin="00:41:01.200" end="00:41:07.079" style="s2">de bienestar y también Agradezco al</p>
+<p begin="00:41:03.640" end="00:41:10.520" style="s2">señor presidente que estos 6 años me ha</p>
+<p begin="00:41:07.079" end="00:41:14.160" style="s2">permitido estar al Servicio del pueblo</p>
+<p begin="00:41:10.520" end="00:41:16.920" style="s2">en su más sentida necesidad en el México</p>
+<p begin="00:41:14.160" end="00:41:19.480" style="s2">profundo en el que hemos enfocado</p>
+<p begin="00:41:16.920" end="00:41:22.599" style="s2">nuestros principales</p>
+<p begin="00:41:19.480" end="00:41:24.920" style="s2">objetivos Tenemos un gran reto seguir</p>
+<p begin="00:41:22.599" end="00:41:27.920" style="s2">combatiendo la pobreza pero también</p>
+<p begin="00:41:24.920" end="00:41:30.680" style="s2">encontramos el cómo hacerlo y los</p>
+<p begin="00:41:27.920" end="00:41:34.480" style="s2">programas de bienestar tendrán larga</p>
+<p begin="00:41:30.680" end="00:41:37.440" style="s2">vida continuarán los que ya existen y se</p>
+<p begin="00:41:34.480" end="00:41:40.720" style="s2">fortalecerán otros tantos como derecho</p>
+<p begin="00:41:37.440" end="00:41:44.280" style="s2">universal para las y los mexicanos que</p>
+<p begin="00:41:40.720" end="00:41:48.359" style="s2">viven en vulnerabilidad y también me da</p>
+<p begin="00:41:44.280" end="00:41:51.400" style="s2">mucho gusto y agradezco esta oportunidad</p>
+<p begin="00:41:48.359" end="00:41:54.520" style="s2">porque podremos sentar las bases de un</p>
+<p begin="00:41:51.400" end="00:41:57.920" style="s2">programa que ayude a las mujeres</p>
+<p begin="00:41:54.520" end="00:42:00.280" style="s2">propuesta que la doora Claudia sha ha</p>
+<p begin="00:41:57.920" end="00:42:03.160" style="s2">presentado en su campaña el apoyo a las</p>
+<p begin="00:42:00.280" end="00:42:06.440" style="s2">mujeres de 60 años es una</p>
+<p begin="00:42:03.160" end="00:42:09.640" style="s2">reivindicación al trabajo de las mujeres</p>
+<p begin="00:42:06.440" end="00:42:12.680" style="s2">y qué mejor que sea conducido por</p>
+<p begin="00:42:09.640" end="00:42:16.640" style="s2">nuestra primera presidenta mujer en</p>
+<p begin="00:42:12.680" end="00:42:19.440" style="s2">México nos sentimos las mujeres muy</p>
+<p begin="00:42:16.640" end="00:42:22.079" style="s2">orgullosas de que ella sea nuestra</p>
+<p begin="00:42:19.440" end="00:42:24.880" style="s2">próxima presidenta y me siento muy</p>
+<p begin="00:42:22.079" end="00:42:28.400" style="s2">contenta de poder tener la oportunidad</p>
+<p begin="00:42:24.880" end="00:42:32.000" style="s2">de ayudar a las mujeres con este nuevo</p>
+<p begin="00:42:28.400" end="00:42:34.040" style="s2">programa decir que hay una ruta de</p>
+<p begin="00:42:32.000" end="00:42:36.760" style="s2">fortalecimiento para que los programas</p>
+<p begin="00:42:34.040" end="00:42:40.160" style="s2">sean derechos la reforma constitucional</p>
+<p begin="00:42:36.760" end="00:42:42.319" style="s2">que está planteada eh pretende que los</p>
+<p begin="00:42:40.160" end="00:42:44.880" style="s2">programas sembrando vida producción para</p>
+<p begin="00:42:42.319" end="00:42:47.599" style="s2">el bienestar el apoyo a Los Pescadores</p>
+<p begin="00:42:44.880" end="00:42:50.440" style="s2">la entrega de los fertilizantes y ahora</p>
+<p begin="00:42:47.599" end="00:42:53.839" style="s2">como lo ha planteado el día de ayer la</p>
+<p begin="00:42:50.440" end="00:42:57.240" style="s2">próxima presidenta eh el programa de</p>
+<p begin="00:42:53.839" end="00:43:00.160" style="s2">apoyo a las mujeres mayores de 60 años</p>
+<p begin="00:42:57.240" end="00:43:02.680" style="s2">agradecida de esta oportunidad de</p>
+<p begin="00:43:00.160" end="00:43:05.520" style="s2">continuar con esta labor que ha sido la</p>
+<p begin="00:43:02.680" end="00:43:06.720" style="s2">más importante de nuestra carrera</p>
+<p begin="00:43:05.520" end="00:43:09.800" style="s2">política y</p>
+<p begin="00:43:06.720" end="00:43:12.880" style="s2">profesional pero quiero decir que esta</p>
+<p begin="00:43:09.800" end="00:43:15.200" style="s2">tarea la hemos logrado muchos compañeros</p>
+<p begin="00:43:12.880" end="00:43:17.599" style="s2">y compañeras que en el territorio</p>
+<p begin="00:43:15.200" end="00:43:20.559" style="s2">trabajan todos los días para hacer</p>
+<p begin="00:43:17.599" end="00:43:23.640" style="s2">llegar eh los programas de bienestar</p>
+<p begin="00:43:20.559" end="00:43:26.480" style="s2">hasta el último Rincón del país Así que</p>
+<p begin="00:43:23.640" end="00:43:27.680" style="s2">muchísimas gracias doctora por esta gran</p>
+<p begin="00:43:26.480" end="00:43:29.359" style="s2">oportunidad</p>
+<p begin="00:43:27.680" end="00:43:32.040" style="s2">Y como siempre</p>
+<p begin="00:43:29.359" end="00:43:34.720" style="s2">estaremos dispuestas y dispuestos a</p>
+<p begin="00:43:32.040" end="00:43:37.119" style="s2">servir a la nación para consolidar</p>
+<p begin="00:43:34.720" end="00:43:40.480" style="s2">nuestro hermoso ideal que por el bien de</p>
+<p begin="00:43:37.119" end="00:43:43.200" style="s2">todos primero los pobres Muchísimas</p>
+<p begin="00:43:40.480" end="00:43:45.040" style="s2">gracias muchas gracias a continuación</p>
+<p begin="00:43:43.200" end="00:43:49.200" style="s2">escucharemos al próximo secretario de</p>
+<p begin="00:43:45.040" end="00:43:49.200" style="s2">educación pública Mario Delgado</p>
+<p begin="00:43:51.119" end="00:43:56.599" style="s2">Carrillo Muchas</p>
+<p begin="00:43:53.280" end="00:43:58.559" style="s2">gracias Buenos días buenas tardes</p>
+<p begin="00:43:56.599" end="00:44:02.599" style="s2">primero que nada</p>
+<p begin="00:43:58.559" end="00:44:08.079" style="s2">agradecerle a nuestra presidenta electa</p>
+<p begin="00:44:02.599" end="00:44:11.240" style="s2">Claudia sh por la enorme confianza y</p>
+<p begin="00:44:08.079" end="00:44:12.079" style="s2">responsabilidad que deposita en mí para</p>
+<p begin="00:44:11.240" end="00:44:15.200" style="s2">ser</p>
+<p begin="00:44:12.079" end="00:44:18.400" style="s2">secretario de</p>
+<p begin="00:44:15.200" end="00:44:20.920" style="s2">educación ella con</p>
+<p begin="00:44:18.400" end="00:44:24.520" style="s2">una vocación</p>
+<p begin="00:44:20.920" end="00:44:27.440" style="s2">Universitaria y que le ha dado a su</p>
+<p begin="00:44:24.520" end="00:44:31.480" style="s2">programa de gobierno un peso muy</p>
+<p begin="00:44:27.440" end="00:44:32.599" style="s2">importante a la educación me honra</p>
+<p begin="00:44:31.480" end="00:44:36.920" style="s2">doblemente</p>
+<p begin="00:44:32.599" end="00:44:39.760" style="s2">que me haya eh seleccionado Para</p>
+<p begin="00:44:36.920" end="00:44:41.280" style="s2">encargarme de estas</p>
+<p begin="00:44:39.760" end="00:44:45.079" style="s2">tareas</p>
+<p begin="00:44:41.280" end="00:44:49.760" style="s2">Hace tres semanas</p>
+<p begin="00:44:45.079" end="00:44:54.040" style="s2">apenas me encontré en un joven pues ya</p>
+<p begin="00:44:49.760" end="00:44:58.119" style="s2">no tan joven en el elevador de unas</p>
+<p begin="00:44:54.040" end="00:45:01.319" style="s2">oficinas sobre reforma y me preguntó tú</p>
+<p begin="00:44:58.119" end="00:45:04.520" style="s2">eres Mario Delgado Sí oye te quiero dar</p>
+<p begin="00:45:01.319" end="00:45:08.319" style="s2">las gracias Y por qué Si porque hace</p>
+<p begin="00:45:04.520" end="00:45:11.200" style="s2">algunos años yo estaba a punto de dejar</p>
+<p begin="00:45:08.319" end="00:45:13.240" style="s2">mis estudios de preparatoria y tuve la</p>
+<p begin="00:45:11.200" end="00:45:16.640" style="s2">oportunidad de tener una beca la beca</p>
+<p begin="00:45:13.240" end="00:45:19.119" style="s2">prep así pude seguir estudiando ahora</p>
+<p begin="00:45:16.640" end="00:45:20.520" style="s2">soy abogado y trabajo en uno de los</p>
+<p begin="00:45:19.119" end="00:45:22.720" style="s2">despachos más</p>
+<p begin="00:45:20.520" end="00:45:26.440" style="s2">prominentes del</p>
+<p begin="00:45:22.720" end="00:45:27.880" style="s2">país No hay nada más apasionante que</p>
+<p begin="00:45:26.440" end="00:45:30.920" style="s2">trabajar</p>
+<p begin="00:45:27.880" end="00:45:34.680" style="s2">en la educación porque es la posibilidad</p>
+<p begin="00:45:30.920" end="00:45:38.599" style="s2">de cambiar destinos de cambiar vidas por</p>
+<p begin="00:45:34.680" end="00:45:41.240" style="s2">eso me emociona mucho la tarea que hoy</p>
+<p begin="00:45:38.599" end="00:45:45.520" style="s2">me encomiendan y le agradezco</p>
+<p begin="00:45:41.240" end="00:45:49.000" style="s2">profundamente la oportunidad hay temas</p>
+<p begin="00:45:45.520" end="00:45:53.680" style="s2">muy claros que ha fijado la presidenta</p>
+<p begin="00:45:49.000" end="00:45:57.960" style="s2">electa sobre educación primero decirle a</p>
+<p begin="00:45:53.680" end="00:46:02.960" style="s2">los maestros y maestras que vamos ser</p>
+<p begin="00:45:57.960" end="00:46:06.760" style="s2">sus aliados que les reconocemos su papel</p>
+<p begin="00:46:02.960" end="00:46:10.160" style="s2">protagónico en la educación y vamos a</p>
+<p begin="00:46:06.760" end="00:46:13.520" style="s2">seguir muy de cerca este diálogo que ha</p>
+<p begin="00:46:10.160" end="00:46:17.760" style="s2">emprendido el presidente de la república</p>
+<p begin="00:46:13.520" end="00:46:20.599" style="s2">para resolver algunas agendas pendientes</p>
+<p begin="00:46:17.760" end="00:46:25.920" style="s2">como el tema de las</p>
+<p begin="00:46:20.599" end="00:46:27.599" style="s2">jubilaciones del Iste y también el caso</p>
+<p begin="00:46:25.920" end="00:46:32.119" style="s2">de la</p>
+<p begin="00:46:27.599" end="00:46:35.599" style="s2">usicam la doctora She ha manifestado</p>
+<p begin="00:46:32.119" end="00:46:38.559" style="s2">estar en favor de que se solucionan esos</p>
+<p begin="00:46:35.599" end="00:46:44.040" style="s2">dos problemas por supuesto ahora el</p>
+<p begin="00:46:38.559" end="00:46:48.520" style="s2">gobierno está a cargo de ello segundo</p>
+<p begin="00:46:44.040" end="00:46:51.319" style="s2">eh la doctora ha planteado un programa</p>
+<p begin="00:46:48.520" end="00:46:54.119" style="s2">de becas a partir de la experiencia de</p>
+<p begin="00:46:51.319" end="00:46:57.559" style="s2">mi beca para empezar en la Ciudad de</p>
+<p begin="00:46:54.119" end="00:47:00.240" style="s2">México en preescolar primaria</p>
+<p begin="00:46:57.559" end="00:47:04.160" style="s2">y secundaria el objetivo va a ser</p>
+<p begin="00:47:00.240" end="00:47:07.240" style="s2">beneficiar a 21 millones de estudiantes</p>
+<p begin="00:47:04.160" end="00:47:11.800" style="s2">y se va a arrancar desde el</p>
+<p begin="00:47:07.240" end="00:47:16.440" style="s2">2025 con Casi 6 millones de estudiantes</p>
+<p begin="00:47:11.800" end="00:47:18.839" style="s2">en Secundaria y año con año se van a ir</p>
+<p begin="00:47:16.440" end="00:47:22.520" style="s2">incrementando los beneficiarios hasta</p>
+<p begin="00:47:18.839" end="00:47:26.000" style="s2">llegar a los 21 millones ayer nuestra</p>
+<p begin="00:47:22.520" end="00:47:27.400" style="s2">presidenta electa presentó ya el texto</p>
+<p begin="00:47:26.000" end="00:47:30.839" style="s2">de reforma</p>
+<p begin="00:47:27.400" end="00:47:34.480" style="s2">a la Constitución para que se convierta</p>
+<p begin="00:47:30.839" end="00:47:37.160" style="s2">en un derecho beca</p>
+<p begin="00:47:34.480" end="00:47:40.559" style="s2">universal para los estudiantes de</p>
+<p begin="00:47:37.160" end="00:47:43.359" style="s2">preescolar primaria secundaria y</p>
+<p begin="00:47:40.559" end="00:47:46.359" style="s2">educación media superior que ya existe</p>
+<p begin="00:47:43.359" end="00:47:50.040" style="s2">con las becas Benito</p>
+<p begin="00:47:46.359" end="00:47:54.359" style="s2">Juárez otra propuesta sin duda vamos a</p>
+<p begin="00:47:50.040" end="00:47:57.280" style="s2">seguir apoyando la nueva escuela</p>
+<p begin="00:47:54.359" end="00:48:00.880" style="s2">mexicana Este modelo</p>
+<p begin="00:47:57.280" end="00:48:03.920" style="s2">que el gobierno actual se atrevió a</p>
+<p begin="00:48:00.880" end="00:48:06.359" style="s2">proponer a cambiar para darle una ruta</p>
+<p begin="00:48:03.920" end="00:48:08.240" style="s2">diferente a la educación en el país</p>
+<p begin="00:48:06.359" end="00:48:11.920" style="s2">tenemos que fortalecerlos tenemos que</p>
+<p begin="00:48:08.240" end="00:48:14.880" style="s2">trabajar en ese modelo de la nueva</p>
+<p begin="00:48:11.920" end="00:48:18.240" style="s2">escuela mexicana</p>
+<p begin="00:48:14.880" end="00:48:21.880" style="s2">eh la escuela es nuestra por primera vez</p>
+<p begin="00:48:18.240" end="00:48:25.480" style="s2">en muchos años se hizo una inversión</p>
+<p begin="00:48:21.880" end="00:48:29.280" style="s2">significativa en mejorar las condiciones</p>
+<p begin="00:48:25.480" end="00:48:32.400" style="s2">de las escuelas la doctora She ha dicho</p>
+<p begin="00:48:29.280" end="00:48:35.240" style="s2">que se va a continuar con ese programa y</p>
+<p begin="00:48:32.400" end="00:48:38.280" style="s2">se va a iniciar también el horario</p>
+<p begin="00:48:35.240" end="00:48:42.319" style="s2">extendido para que los niños y las niñas</p>
+<p begin="00:48:38.280" end="00:48:45.480" style="s2">tengan acceso a clases de cultura y</p>
+<p begin="00:48:42.319" end="00:48:48.520" style="s2">artes la educación media superior</p>
+<p begin="00:48:45.480" end="00:48:51.640" style="s2">representa uno de los grandes retos ahí</p>
+<p begin="00:48:48.520" end="00:48:55.760" style="s2">se define muchas veces el futuro de las</p>
+<p begin="00:48:51.640" end="00:48:59.440" style="s2">y los jóvenes la presidenta electa me ha</p>
+<p begin="00:48:55.760" end="00:49:02.400" style="s2">dado instrucciones es de que revisemos</p>
+<p begin="00:48:59.440" end="00:49:05.640" style="s2">todos los modelos que hay actualmente de</p>
+<p begin="00:49:02.400" end="00:49:08.000" style="s2">media superior revisar también las</p>
+<p begin="00:49:05.640" end="00:49:12.640" style="s2">condiciones en las que trabajan los</p>
+<p begin="00:49:08.000" end="00:49:16.079" style="s2">maestros en este nivel educativo y que</p>
+<p begin="00:49:12.640" end="00:49:19.799" style="s2">se construyan las preparatorias que</p>
+<p begin="00:49:16.079" end="00:49:22.280" style="s2">hagan falta para que ningún estudiante</p>
+<p begin="00:49:19.799" end="00:49:25.640" style="s2">que quiera estudiar la preparatoria se</p>
+<p begin="00:49:22.280" end="00:49:29.760" style="s2">quede sin la posibilidad de hacerlo y</p>
+<p begin="00:49:25.640" end="00:49:33.280" style="s2">que esto nos lleve a terminar con la</p>
+<p begin="00:49:29.760" end="00:49:35.520" style="s2">famosa prueba del comipems que todas y</p>
+<p begin="00:49:33.280" end="00:49:39.599" style="s2">todos los jóvenes que quieran estudiar</p>
+<p begin="00:49:35.520" end="00:49:44.720" style="s2">lo puedan hacer y además que tengan su</p>
+<p begin="00:49:39.599" end="00:49:47.319" style="s2">beca en educación superior vamos a tener</p>
+<p begin="00:49:44.720" end="00:49:51.200" style="s2">una colaboración muy estrecha con la</p>
+<p begin="00:49:47.319" end="00:49:52.280" style="s2">nueva secretaría de ciencia que dirige</p>
+<p begin="00:49:51.200" end="00:49:56.960" style="s2">la doctora</p>
+<p begin="00:49:52.280" end="00:50:00.599" style="s2">Rosaura Ruiz se va a tener como</p>
+<p begin="00:49:56.960" end="00:50:05.440" style="s2">prioridad garantizar la gratuidad</p>
+<p begin="00:50:00.599" end="00:50:09.799" style="s2">gratuidad en la educación eh superior</p>
+<p begin="00:50:05.440" end="00:50:12.799" style="s2">vamos también apoyar en la creación de</p>
+<p begin="00:50:09.799" end="00:50:15.480" style="s2">las dos nuevas universidades la Rosario</p>
+<p begin="00:50:12.799" end="00:50:17.440" style="s2">Castellano y la universidad de la salud</p>
+<p begin="00:50:15.480" end="00:50:23.359" style="s2">que recaerán principalmente en la</p>
+<p begin="00:50:17.440" end="00:50:26.040" style="s2">secretaría de eh ciencia y generar</p>
+<p begin="00:50:23.359" end="00:50:28.680" style="s2">espacios adicionales en educación</p>
+<p begin="00:50:26.040" end="00:50:30.880" style="s2">superior Serán las líneas de trabajo</p>
+<p begin="00:50:28.680" end="00:50:33.960" style="s2">iniciales que ha marcado nuestra</p>
+<p begin="00:50:30.880" end="00:50:37.160" style="s2">presidenta electa pero muchísimas</p>
+<p begin="00:50:33.960" end="00:50:40.079" style="s2">gracias por esta oportunidad saludo a</p>
+<p begin="00:50:37.160" end="00:50:41.960" style="s2">mis compañeros compañeras de gabinete</p>
+<p begin="00:50:40.079" end="00:50:43.960" style="s2">Muchas</p>
+<p begin="00:50:41.960" end="00:50:47.040" style="s2">gracias muchas</p>
+<p begin="00:50:43.960" end="00:50:49.079" style="s2">gracias y ahora escuchemos al próximo</p>
+<p begin="00:50:47.040" end="00:50:52.799" style="s2">secretario de seguridad y protección</p>
+<p begin="00:50:49.079" end="00:50:52.799" style="s2">ciudadana Omar García</p>
+<p begin="00:50:55.640" end="00:51:00.520" style="s2">harfuch con su permiso presidenta electa</p>
+<p begin="00:50:58.200" end="00:51:02.920" style="s2">Claudia sh compañeras y compañeros del</p>
+<p begin="00:51:00.520" end="00:51:06.520" style="s2">próximo gabinete también saludamos a los</p>
+<p begin="00:51:02.920" end="00:51:08.799" style="s2">medios de comunicación primero agradecer</p>
+<p begin="00:51:06.520" end="00:51:10.480" style="s2">mucho la confianza de la presidenta</p>
+<p begin="00:51:08.799" end="00:51:14.280" style="s2">electa Claudia</p>
+<p begin="00:51:10.480" end="00:51:15.760" style="s2">shb la confianza depositada en mí y en</p>
+<p begin="00:51:14.280" end="00:51:17.920" style="s2">el equipo que tengo el honor de</p>
+<p begin="00:51:15.760" end="00:51:20.640" style="s2">encabezar para formar parte de este</p>
+<p begin="00:51:17.920" end="00:51:23.240" style="s2">equipo tan extraordinario que Bajo su</p>
+<p begin="00:51:20.640" end="00:51:25.440" style="s2">liderazgo trabajará con todo el esfuerzo</p>
+<p begin="00:51:23.240" end="00:51:28.040" style="s2">y compromiso para consolidar la cuarta</p>
+<p begin="00:51:25.440" end="00:51:30.119" style="s2">transformación de nuestro país es un</p>
+<p begin="00:51:28.040" end="00:51:32.599" style="s2">verdadero honor ser parte de este</p>
+<p begin="00:51:30.119" end="00:51:35.200" style="s2">momento histórico donde México tendrá la</p>
+<p begin="00:51:32.599" end="00:51:37.920" style="s2">primera mujer presidenta en 200 años de</p>
+<p begin="00:51:35.200" end="00:51:40.319" style="s2">vida independiente cuenta con la</p>
+<p begin="00:51:37.920" end="00:51:42.319" style="s2">legitimidad y el respaldo de más de 35</p>
+<p begin="00:51:40.319" end="00:51:45.040" style="s2">millones de votos de mexicanas y</p>
+<p begin="00:51:42.319" end="00:51:47.720" style="s2">mexicanos que eligieron la esperanza por</p>
+<p begin="00:51:45.040" end="00:51:51.040" style="s2">encima de una campaña que promovía el</p>
+<p begin="00:51:47.720" end="00:51:53.960" style="s2">miedo vamos a responder a esa confianza</p>
+<p begin="00:51:51.040" end="00:51:55.960" style="s2">que nos brindaron con trabajo absoluto y</p>
+<p begin="00:51:53.960" end="00:51:58.760" style="s2">con resultados por encima de cualquier</p>
+<p begin="00:51:55.960" end="00:52:00.760" style="s2">interés personal tenemos una misión</p>
+<p begin="00:51:58.760" end="00:52:02.440" style="s2">crucial que es acompañar a nuestra</p>
+<p begin="00:52:00.760" end="00:52:04.559" style="s2">futura presidenta y trabajar</p>
+<p begin="00:52:02.440" end="00:52:07.640" style="s2">incansablemente para construir juntas y</p>
+<p begin="00:52:04.559" end="00:52:10.680" style="s2">juntos un México más fuerte más seguro</p>
+<p begin="00:52:07.640" end="00:52:13.400" style="s2">más justo más próspero para</p>
+<p begin="00:52:10.680" end="00:52:15.720" style="s2">todos trabajaremos en equipo y en</p>
+<p begin="00:52:13.400" end="00:52:17.880" style="s2">coordinación absoluta con la secretaría</p>
+<p begin="00:52:15.720" end="00:52:18.520" style="s2">de la defensa nacional con la Secretaría</p>
+<p begin="00:52:17.880" end="00:52:21.000" style="s2">de</p>
+<p begin="00:52:18.520" end="00:52:23.760" style="s2">Marina la instrucción de nuestra</p>
+<p begin="00:52:21.000" end="00:52:26.520" style="s2">presidenta electa es Clara el</p>
+<p begin="00:52:23.760" end="00:52:28.119" style="s2">fortalecimiento de la guardia nacional</p>
+<p begin="00:52:26.520" end="00:52:31.440" style="s2">que creó el presidente Andrés Manuel</p>
+<p begin="00:52:28.119" end="00:52:34.680" style="s2">López Obrador dentro de la secretaría de</p>
+<p begin="00:52:31.440" end="00:52:36.720" style="s2">la defensa nacional en coordinación con</p>
+<p begin="00:52:34.680" end="00:52:39.040" style="s2">la secretaría de la defensa nacional y</p>
+<p begin="00:52:36.720" end="00:52:41.040" style="s2">la Secretaría de Marina instituciones</p>
+<p begin="00:52:39.040" end="00:52:43.520" style="s2">que siempre siempre han velado por el</p>
+<p begin="00:52:41.040" end="00:52:46.000" style="s2">bienestar de los mexicanos trabajaremos</p>
+<p begin="00:52:43.520" end="00:52:49.200" style="s2">incansablemente por la seguridad de</p>
+<p begin="00:52:46.000" end="00:52:50.960" style="s2">nuestro país pero también con las 32</p>
+<p begin="00:52:49.200" end="00:52:52.480" style="s2">entidades federativas ya que la</p>
+<p begin="00:52:50.960" end="00:52:54.599" style="s2">seguridad de nuestro país es una</p>
+<p begin="00:52:52.480" end="00:52:57.040" style="s2">responsabilidad compartida y así la</p>
+<p begin="00:52:54.599" end="00:53:00.359" style="s2">debemos de asumir todos trabajaremos en</p>
+<p begin="00:52:57.040" end="00:53:03.440" style="s2">absoluta coordinación con los estados</p>
+<p begin="00:53:00.359" end="00:53:05.559" style="s2">con la defensa con la Marina también</p>
+<p begin="00:53:03.440" end="00:53:07.359" style="s2">fortaleceremos las capacidades de</p>
+<p begin="00:53:05.559" end="00:53:09.760" style="s2">inteligencia e investigación del estado</p>
+<p begin="00:53:07.359" end="00:53:11.839" style="s2">mexicano principalmente a través del</p>
+<p begin="00:53:09.760" end="00:53:14.280" style="s2">Centro Nacional de inteligencia bajo la</p>
+<p begin="00:53:11.839" end="00:53:16.559" style="s2">conducción de la secretaria de</p>
+<p begin="00:53:14.280" end="00:53:18.839" style="s2">seguridad agradezco nuevamente a la</p>
+<p begin="00:53:16.559" end="00:53:21.280" style="s2">presidenta electa por esta oportunidad</p>
+<p begin="00:53:18.839" end="00:53:23.720" style="s2">de servir a mi país estamos listos para</p>
+<p begin="00:53:21.280" end="00:53:26.559" style="s2">asumir esta responsabilidad es muy grato</p>
+<p begin="00:53:23.720" end="00:53:28.280" style="s2">además contar con el apoyo y respaldo de</p>
+<p begin="00:53:26.559" end="00:53:30.079" style="s2">mis compañeras y compañeros con quien ya</p>
+<p begin="00:53:28.280" end="00:53:33.160" style="s2">he tenido el honor de trabajar en otras</p>
+<p begin="00:53:30.079" end="00:53:35.240" style="s2">ocasiones Muchas gracias muchas gracias</p>
+<p begin="00:53:33.160" end="00:53:37.119" style="s2">vamos a cerrar este evento de</p>
+<p begin="00:53:35.240" end="00:53:41.280" style="s2">presentación con la fotografía</p>
+<p begin="00:53:37.119" end="00:53:41.280" style="s2">conmemorativa de este anuncio</p>
+<p begin="00:54:10.960" end="00:54:15.440" style="s2">Esa es la imagen de estas nuevas</p>
+<p begin="00:54:13.119" end="00:54:19.000" style="s2">designaciones del equipo de gobierno</p>
+<p begin="00:54:15.440" end="00:54:22.119" style="s2">2024 2030 de la doctora Claudia shinba</p>
+<p begin="00:54:19.000" end="00:54:22.119" style="s2">un Pardo</p>
+<p begin="00:54:24.710" end="00:54:28.130" style="s2">[Aplausos]</p>
+<p begin="00:54:30.160" end="00:54:34.760" style="s2">agradecemos a todas y a todos su</p>
+<p begin="00:54:31.839" end="00:54:38.040" style="s2">presencia y su difusión sigamos haciendo</p>
+<p begin="00:54:34.760" end="00:54:41.760" style="s2">historia Claudia shb presidenta buen día</p>
+<p begin="00:54:38.040" end="00:54:41.760" style="s2">y hasta la próxima</p>
+</div>
+</body>
+</tt>

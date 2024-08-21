@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="es" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:03.000" style="s2">al</p>
+<p begin="00:00:50.199" end="00:00:56.239" style="s2">presentación del equipo de gobierno 2024</p>
+<p begin="00:00:53.239" end="00:00:56.239" style="s2">2030</p>
+<p begin="00:01:02.320" end="00:01:06.960" style="s2">en este momento</p>
+<p begin="00:01:04.560" end="00:01:09.840" style="s2">recibimos damos la bienvenida y el uso</p>
+<p begin="00:01:06.960" end="00:01:14.479" style="s2">de la palabra a la presidenta electa de</p>
+<p begin="00:01:09.840" end="00:01:14.479" style="s2">México con ustedes la doctora Claudia</p>
+<p begin="00:01:17.040" end="00:01:23.560" style="s2">shardo Buenos</p>
+<p begin="00:01:19.600" end="00:01:24.400" style="s2">días Este es jueves de gabinete y el día</p>
+<p begin="00:01:23.560" end="00:01:29.040" style="s2">de</p>
+<p begin="00:01:24.400" end="00:01:31.360" style="s2">hoy presento a tres jóvenes brillantes</p>
+<p begin="00:01:29.040" end="00:01:34.960" style="s2">mujeres y hombres</p>
+<p begin="00:01:31.360" end="00:01:39.280" style="s2">eh y voy a leer en este momento</p>
+<p begin="00:01:34.960" end="00:01:41.159" style="s2">su currículum Quiénes son y en qué</p>
+<p begin="00:01:39.280" end="00:01:43.640" style="s2">secretaría van a estar como lo hemos</p>
+<p begin="00:01:41.159" end="00:01:46.399" style="s2">hecho en los jueves</p>
+<p begin="00:01:43.640" end="00:01:50.640" style="s2">anteriores Bueno tengo mucho gusto en</p>
+<p begin="00:01:46.399" end="00:01:52.320" style="s2">presentar a Claudia Curiel de icaza como</p>
+<p begin="00:01:50.640" end="00:01:55.640" style="s2">secretaria de</p>
+<p begin="00:01:52.320" end="00:01:57.600" style="s2">cultura ella es licenciada en historia</p>
+<p begin="00:01:55.640" end="00:02:00.680" style="s2">por la Universidad Nacional Autónoma de</p>
+<p begin="00:01:57.600" end="00:02:04.479" style="s2">México y cuenta con un especialidad en</p>
+<p begin="00:02:00.680" end="00:02:08.840" style="s2">educación para las artes con el programa</p>
+<p begin="00:02:04.479" end="00:02:13.879" style="s2">líderes globales impartido por diversas</p>
+<p begin="00:02:08.840" end="00:02:17.560" style="s2">universidades entre ellas mcgill enu y</p>
+<p begin="00:02:13.879" end="00:02:20.200" style="s2">Harvard a partir de febrero de 2022 como</p>
+<p begin="00:02:17.560" end="00:02:22.440" style="s2">ustedes saben ella me acompañó en el</p>
+<p begin="00:02:20.200" end="00:02:25.040" style="s2">gabinete del gobierno de la Ciudad de</p>
+<p begin="00:02:22.440" end="00:02:27.080" style="s2">México como secretaria de cultura del</p>
+<p begin="00:02:25.040" end="00:02:30.560" style="s2">gobierno de la</p>
+<p begin="00:02:27.080" end="00:02:32.800" style="s2">ciudad ella es programadora productora y</p>
+<p begin="00:02:30.560" end="00:02:34.560" style="s2">gestora cultural con 20 años de</p>
+<p begin="00:02:32.800" end="00:02:37.959" style="s2">experiencia Aunque es muy joven pero con</p>
+<p begin="00:02:34.560" end="00:02:40.319" style="s2">20 años de experiencia y en el gobierno</p>
+<p begin="00:02:37.959" end="00:02:42.519" style="s2">de la ciudad desarrolló una serie de</p>
+<p begin="00:02:40.319" end="00:02:46.159" style="s2">acciones que tienen que ver desde</p>
+<p begin="00:02:42.519" end="00:02:48.239" style="s2">cultura comunitaria hasta apoyo a</p>
+<p begin="00:02:46.159" end="00:02:50.840" style="s2">creadoras y creadores implementó</p>
+<p begin="00:02:48.239" end="00:02:55.080" style="s2">acciones de cultura comunitaria a través</p>
+<p begin="00:02:50.840" end="00:02:56.720" style="s2">de los 298 Pilares impulsó la cultura</p>
+<p begin="00:02:55.080" end="00:02:59.319" style="s2">popular y alternativa mediante</p>
+<p begin="00:02:56.720" end="00:03:01.760" style="s2">declaratorias de patrimonio cultural</p>
+<p begin="00:02:59.319" end="00:03:03.480" style="s2">como por ejemplo la cultura sonidera</p>
+<p begin="00:03:01.760" end="00:03:05.599" style="s2">carnavales de pueblos y barrios</p>
+<p begin="00:03:03.480" end="00:03:08.040" style="s2">originarios de la Ciudad de México entre</p>
+<p begin="00:03:05.599" end="00:03:10.120" style="s2">otros colaboró con la comisión de</p>
+<p begin="00:03:08.040" end="00:03:13.000" style="s2">derechos culturales del Congreso de la</p>
+<p begin="00:03:10.120" end="00:03:14.879" style="s2">ciudad de México para la expedición del</p>
+<p begin="00:03:13.000" end="00:03:17.080" style="s2">reglamento de la ley de espacios</p>
+<p begin="00:03:14.879" end="00:03:20.599" style="s2">culturales independentes y la ley de la</p>
+<p begin="00:03:17.080" end="00:03:23.360" style="s2">memoria también le dio relevancia y</p>
+<p begin="00:03:20.599" end="00:03:25.959" style="s2">apoyo a la orquesta filarmónica de la</p>
+<p begin="00:03:23.360" end="00:03:28.120" style="s2">Ciudad de México por primera vez y</p>
+<p begin="00:03:25.959" end="00:03:32.360" style="s2">gracias a su impulso</p>
+<p begin="00:03:28.120" end="00:03:34.959" style="s2">eh se hizo y permanece un programa de</p>
+<p begin="00:03:32.360" end="00:03:36.799" style="s2">retiro voluntario de tal manera que</p>
+<p begin="00:03:34.959" end="00:03:39.400" style="s2">pueden llegar a tener</p>
+<p begin="00:03:36.799" end="00:03:42.760" style="s2">pensiones encabezó el proyecto del museo</p>
+<p begin="00:03:39.400" end="00:03:44.599" style="s2">Jan quick y muchas otros desarrollos y</p>
+<p begin="00:03:42.760" end="00:03:47.920" style="s2">ha colaborado por supuesto en festivales</p>
+<p begin="00:03:44.599" end="00:03:50.200" style="s2">de cine música y artes escénicas como el</p>
+<p begin="00:03:47.920" end="00:03:53.040" style="s2">Festival Internacional de Cine</p>
+<p begin="00:03:50.200" end="00:03:56.120" style="s2">contemporáneo de la Ciudad de México</p>
+<p begin="00:03:53.040" end="00:03:59.319" style="s2">Claudia corriel casa secretaria de</p>
+<p begin="00:03:56.120" end="00:04:02.840" style="s2">cultura Josefina Rodríguez Zamora ella</p>
+<p begin="00:03:59.319" end="00:04:05.640" style="s2">es joven brillante originaria de</p>
+<p begin="00:04:02.840" end="00:04:07.040" style="s2">tlascala es licenciada en administración</p>
+<p begin="00:04:05.640" end="00:04:09.760" style="s2">de empresas por la universidad</p>
+<p begin="00:04:07.040" end="00:04:13.439" style="s2">iberoamericana de Puebla y cuenta con</p>
+<p begin="00:04:09.760" end="00:04:16.440" style="s2">una maestría en alta dirección desde el</p>
+<p begin="00:04:13.439" end="00:04:19.239" style="s2">2021 colaboró con nuestra compañera</p>
+<p begin="00:04:16.440" end="00:04:22.919" style="s2">Lorena Cuellar gobernadora de tlazcala</p>
+<p begin="00:04:19.239" end="00:04:24.479" style="s2">como secretaria de turismo y ahí si</p>
+<p begin="00:04:22.919" end="00:04:26.320" style="s2">ustedes le preguntan a cualquier</p>
+<p begin="00:04:24.479" end="00:04:29.759" style="s2">secretario secretaria de turismo del</p>
+<p begin="00:04:26.320" end="00:04:33.759" style="s2">país eh recomiendan ampliamente a</p>
+<p begin="00:04:29.759" end="00:04:35.680" style="s2">Josefina es una joven creativa hoy es</p>
+<p begin="00:04:33.759" end="00:04:38.320" style="s2">vicepresidenta de la zona centro de</p>
+<p begin="00:04:35.680" end="00:04:40.440" style="s2">asociación de secretarios de turismo de</p>
+<p begin="00:04:38.320" end="00:04:44.280" style="s2">nuestro país creadora de la marca</p>
+<p begin="00:04:40.440" end="00:04:46.360" style="s2">destino de tlascala tlascala sí existe</p>
+<p begin="00:04:44.280" end="00:04:49.880" style="s2">creadora de plataforma de tlascala</p>
+<p begin="00:04:46.360" end="00:04:52.120" style="s2">brilla gestora para la obtención del</p>
+<p begin="00:04:49.880" end="00:04:55.120" style="s2">récord guines del tapete más largo del</p>
+<p begin="00:04:52.120" end="00:04:57.919" style="s2">mundo gestora de alianzas estratégicas</p>
+<p begin="00:04:55.120" end="00:05:00.240" style="s2">con la secretaria de turismo impulsora</p>
+<p begin="00:04:57.919" end="00:05:01.960" style="s2">de políticas turísticas</p>
+<p begin="00:05:00.240" end="00:05:05.400" style="s2">exitosas</p>
+<p begin="00:05:01.960" end="00:05:08.240" style="s2">e ha desarrollado distintos mecanismos</p>
+<p begin="00:05:05.400" end="00:05:11.199" style="s2">de turismo alternativo así que me da</p>
+<p begin="00:05:08.240" end="00:05:14.840" style="s2">muchísimo gusto presentar a la más joven</p>
+<p begin="00:05:11.199" end="00:05:19.000" style="s2">del gabinete a Josefina Rodríguez Zamora</p>
+<p begin="00:05:14.840" end="00:05:22.840" style="s2">secretaria de turismo y marat baruch</p>
+<p begin="00:05:19.000" end="00:05:25.199" style="s2">Bolaños López que ustedes lo conocen él</p>
+<p begin="00:05:22.840" end="00:05:27.280" style="s2">va a continuar en la Secretaría del</p>
+<p begin="00:05:25.199" end="00:05:30.280" style="s2">trabajo y previsión social del gobierno</p>
+<p begin="00:05:27.280" end="00:05:32.800" style="s2">de México eh nos conocemos desde hace</p>
+<p begin="00:05:30.280" end="00:05:35.840" style="s2">tiempo es un joven brillante también que</p>
+<p begin="00:05:32.800" end="00:05:38.639" style="s2">ha desempeñado su papel de manera muy</p>
+<p begin="00:05:35.840" end="00:05:41.080" style="s2">importante además de llevar el programa</p>
+<p begin="00:05:38.639" end="00:05:44.680" style="s2">jóvenes construyendo el futuro que ha</p>
+<p begin="00:05:41.080" end="00:05:48.039" style="s2">desempeñado un papel fundamental en esta</p>
+<p begin="00:05:44.680" end="00:05:49.919" style="s2">secretaría el 22 de junio bueno él es</p>
+<p begin="00:05:48.039" end="00:05:52.280" style="s2">licenciado en relaciones internacionales</p>
+<p begin="00:05:49.919" end="00:05:54.280" style="s2">por la facultad de ciencias políticas y</p>
+<p begin="00:05:52.280" end="00:05:57.120" style="s2">sociales de la UNAM y tiene estudios de</p>
+<p begin="00:05:54.280" end="00:05:59.840" style="s2">maestría en estudios latinoamericanos</p>
+<p begin="00:05:57.120" end="00:06:02.240" style="s2">por la Facultad de filosofía y letras</p>
+<p begin="00:05:59.840" end="00:06:05.919" style="s2">desde el 22 de junio del 23 es</p>
+<p begin="00:06:02.240" end="00:06:09.520" style="s2">secretario eh del trabajo en el gobierno</p>
+<p begin="00:06:05.919" end="00:06:11.720" style="s2">de México y tiene una amplia trayectoria</p>
+<p begin="00:06:09.520" end="00:06:14.240" style="s2">también académica ha sido profesor</p>
+<p begin="00:06:11.720" end="00:06:18.039" style="s2">titular en la facultad de ciencias</p>
+<p begin="00:06:14.240" end="00:06:20.599" style="s2">políticas y sociales de la UNAM</p>
+<p begin="00:06:18.039" end="00:06:23.160" style="s2">pues este es el</p>
+<p begin="00:06:20.599" end="00:06:25.960" style="s2">gabinete del gobierno de México que</p>
+<p begin="00:06:23.160" end="00:06:29.240" style="s2">entrará en funciones a partir del</p>
+<p begin="00:06:25.960" end="00:06:30.440" style="s2">primero de octubre por supuesto vamos a</p>
+<p begin="00:06:29.240" end="00:06:33.440" style="s2">seguir ir</p>
+<p begin="00:06:30.440" end="00:06:34.840" style="s2">haciendo anuncios sobre el gabinete</p>
+<p begin="00:06:33.440" end="00:06:38.479" style="s2">ampliado</p>
+<p begin="00:06:34.840" end="00:06:41.919" style="s2">de tareas fundamentales del gobierno de</p>
+<p begin="00:06:38.479" end="00:06:43.520" style="s2">México y le voy a pasar la palabra a</p>
+<p begin="00:06:41.919" end="00:06:47.560" style="s2">nuestros tres compañeros para que</p>
+<p begin="00:06:43.520" end="00:06:47.560" style="s2">ustedes los puedan conocer Muchas</p>
+<p begin="00:06:54.919" end="00:07:00.440" style="s2">gracias muy buenos</p>
+<p begin="00:06:57.120" end="00:07:03.479" style="s2">días Saludo a la doctora Claudia shinba</p>
+<p begin="00:07:00.440" end="00:07:07.280" style="s2">un pardo virtual presidenta electa de</p>
+<p begin="00:07:03.479" end="00:07:09.879" style="s2">México a mis compañeras y compañeros de</p>
+<p begin="00:07:07.280" end="00:07:12.520" style="s2">gabinete así como a las comunidades</p>
+<p begin="00:07:09.879" end="00:07:15.319" style="s2">culturales que nos acompañan y a las que</p>
+<p begin="00:07:12.520" end="00:07:17.199" style="s2">siguen esta transmisión invitados y</p>
+<p begin="00:07:15.319" end="00:07:21.000" style="s2">medios de</p>
+<p begin="00:07:17.199" end="00:07:23.680" style="s2">comunicación me siento muy agradecida y</p>
+<p begin="00:07:21.000" end="00:07:25.319" style="s2">honrada con recibir esta</p>
+<p begin="00:07:23.680" end="00:07:28.240" style="s2">responsabilidad</p>
+<p begin="00:07:25.319" end="00:07:30.720" style="s2">eh A mí me tocó como a muchos crecer en</p>
+<p begin="00:07:28.240" end="00:07:33.360" style="s2">un país donde no había pluralidad ni</p>
+<p begin="00:07:30.720" end="00:07:35.479" style="s2">democracia donde mandaban los de arriba</p>
+<p begin="00:07:33.360" end="00:07:38.840" style="s2">y se sacrificaban los de</p>
+<p begin="00:07:35.479" end="00:07:40.879" style="s2">Abajo por eso ser parte de este</p>
+<p begin="00:07:38.840" end="00:07:43.840" style="s2">movimiento que invierte el orden de las</p>
+<p begin="00:07:40.879" end="00:07:46.919" style="s2">cosas que pone a la gente primero que a</p>
+<p begin="00:07:43.840" end="00:07:49.960" style="s2">los intereses particulares no solo me</p>
+<p begin="00:07:46.919" end="00:07:52.639" style="s2">llena de orgullo sino que me sino que</p>
+<p begin="00:07:49.960" end="00:07:54.960" style="s2">comprueba que los cambios y las</p>
+<p begin="00:07:52.639" end="00:08:00.360" style="s2">transformaciones a través de la voluntad</p>
+<p begin="00:07:54.960" end="00:08:02.199" style="s2">popular so son hoy posibles y necesarias</p>
+<p begin="00:08:00.360" end="00:08:06.000" style="s2">este momento en la historia en que las</p>
+<p begin="00:08:02.199" end="00:08:08.159" style="s2">mujeres tenemos voz y liderazgo gracias</p>
+<p begin="00:08:06.000" end="00:08:09.639" style="s2">a múltiples luchas de mujeres y hombres</p>
+<p begin="00:08:08.159" end="00:08:13.120" style="s2">que nos antecedieron</p>
+<p begin="00:08:09.639" end="00:08:16.720" style="s2">lleva hoy por delante a una científica</p>
+<p begin="00:08:13.120" end="00:08:19.039" style="s2">humanista a una mujer convocación social</p>
+<p begin="00:08:16.720" end="00:08:21.000" style="s2">inagotable que todos los días nos</p>
+<p begin="00:08:19.039" end="00:08:23.560" style="s2">inspira con su compromiso por la</p>
+<p begin="00:08:21.000" end="00:08:28.440" style="s2">igualdad y la justicia</p>
+<p begin="00:08:23.560" end="00:08:30.560" style="s2">social por eso Gracias señora presidenta</p>
+<p begin="00:08:28.440" end="00:08:33.320" style="s2">electa entiendo y acepto la</p>
+<p begin="00:08:30.560" end="00:08:35.719" style="s2">responsabilidad que me</p>
+<p begin="00:08:33.320" end="00:08:37.959" style="s2">confiere yo estoy convencida que la</p>
+<p begin="00:08:35.719" end="00:08:40.240" style="s2">cultura es el lenguaje de las</p>
+<p begin="00:08:37.959" end="00:08:43.039" style="s2">identidades que permite comprender</p>
+<p begin="00:08:40.240" end="00:08:46.839" style="s2">Quiénes somos dónde estamos Cuál es</p>
+<p begin="00:08:43.039" end="00:08:49.160" style="s2">nuestro tiempo y qué queremos construir</p>
+<p begin="00:08:46.839" end="00:08:51.680" style="s2">ninguna respuesta a esto Sería posible</p>
+<p begin="00:08:49.160" end="00:08:54.399" style="s2">sin saber cómo llegamos hasta aquí sin</p>
+<p begin="00:08:51.680" end="00:08:56.760" style="s2">observar sin observar Quiénes cambiaron</p>
+<p begin="00:08:54.399" end="00:08:58.880" style="s2">por estas tierras caminaron por estas</p>
+<p begin="00:08:56.760" end="00:09:01.160" style="s2">tierras antes que nosotros y sin</p>
+<p begin="00:08:58.880" end="00:09:03.160" style="s2">escuchar todas las historias que nos dan</p>
+<p begin="00:09:01.160" end="00:09:07.040" style="s2">sentido y nos</p>
+<p begin="00:09:03.160" end="00:09:08.519" style="s2">enorgullecen somos hijas hijos hijes de</p>
+<p begin="00:09:07.040" end="00:09:11.120" style="s2">una cultura</p>
+<p begin="00:09:08.519" end="00:09:13.760" style="s2">prodigiosa una cultura que nos enseñó a</p>
+<p begin="00:09:11.120" end="00:09:17.040" style="s2">descifrar el cielo que entendía el</p>
+<p begin="00:09:13.760" end="00:09:19.320" style="s2">lenguaje de las plantas la poesía la</p>
+<p begin="00:09:17.040" end="00:09:21.720" style="s2">música y la</p>
+<p begin="00:09:19.320" end="00:09:24.360" style="s2">pintura entre las muchas cosas que</p>
+<p begin="00:09:21.720" end="00:09:27.320" style="s2">nuestros ancestros nos heredaron está la</p>
+<p begin="00:09:24.360" end="00:09:31.000" style="s2">idea de que las cosas son en comunidad o</p>
+<p begin="00:09:27.320" end="00:09:34.640" style="s2">no son los pueblos originarios piensan y</p>
+<p begin="00:09:31.000" end="00:09:36.800" style="s2">actúan desde nosotros y su resiliencia</p>
+<p begin="00:09:34.640" end="00:09:40.519" style="s2">nos enseña que en este sentido que este</p>
+<p begin="00:09:36.800" end="00:09:43.120" style="s2">sentido de colectividad y solidaridad es</p>
+<p begin="00:09:40.519" end="00:09:46.600" style="s2">necesario más que nunca en una sociedad</p>
+<p begin="00:09:43.120" end="00:09:46.600" style="s2">que se vio afectada por el</p>
+<p begin="00:09:46.640" end="00:09:51.399" style="s2">individualismo vamos por el mundo juntas</p>
+<p begin="00:09:49.200" end="00:09:54.200" style="s2">juntos juntes y la expresión de este</p>
+<p begin="00:09:51.399" end="00:09:56.959" style="s2">andar es lo que entendemos como</p>
+<p begin="00:09:54.200" end="00:10:00.680" style="s2">cultura es imprescindible comprender que</p>
+<p begin="00:09:56.959" end="00:10:03.760" style="s2">en México hay más de 68 y más de 300</p>
+<p begin="00:10:00.680" end="00:10:06.079" style="s2">variaciones que nos representan cada una</p>
+<p begin="00:10:03.760" end="00:10:09.040" style="s2">de ellas tiene una visión particular de</p>
+<p begin="00:10:06.079" end="00:10:11.600" style="s2">su andar por el mundo y en ese sentido</p>
+<p begin="00:10:09.040" end="00:10:13.839" style="s2">tenemos la misión y la</p>
+<p begin="00:10:11.600" end="00:10:15.959" style="s2">responsabilidad de dar un espacio</p>
+<p begin="00:10:13.839" end="00:10:19.440" style="s2">central a todas</p>
+<p begin="00:10:15.959" end="00:10:23.360" style="s2">ellas al mismo tiempo somos una nación</p>
+<p begin="00:10:19.440" end="00:10:25.519" style="s2">moderna pródiga en Talento podemos</p>
+<p begin="00:10:23.360" end="00:10:28.160" style="s2">aprender tanto de nuestros ancestros</p>
+<p begin="00:10:25.519" end="00:10:31.320" style="s2">como de nuestros jóvenes hay espacio</p>
+<p begin="00:10:28.160" end="00:10:34.959" style="s2">para verles arles a todes y será esta</p>
+<p begin="00:10:31.320" end="00:10:37.200" style="s2">nuestra visión la cultura como un lugar</p>
+<p begin="00:10:34.959" end="00:10:39.720" style="s2">de arraigo de</p>
+<p begin="00:10:37.200" end="00:10:42.560" style="s2">reconocimiento descubrimiento y</p>
+<p begin="00:10:39.720" end="00:10:45.880" style="s2">encuentro de especial promoción de lo</p>
+<p begin="00:10:42.560" end="00:10:48.519" style="s2">colectivo que abre espacios y brinda la</p>
+<p begin="00:10:45.880" end="00:10:51.040" style="s2">posibilidad a las voces singulares que</p>
+<p begin="00:10:48.519" end="00:10:53.839" style="s2">conforman este país tan</p>
+<p begin="00:10:51.040" end="00:10:55.040" style="s2">maravilloso la cultura también Es una</p>
+<p begin="00:10:53.839" end="00:10:57.560" style="s2">herramienta de</p>
+<p begin="00:10:55.040" end="00:11:01.040" style="s2">transformación refleja nuestra realidad</p>
+<p begin="00:10:57.560" end="00:11:04.480" style="s2">y nos ofrece una promesa hacia el futuro</p>
+<p begin="00:11:01.040" end="00:11:07.360" style="s2">por ello el humanismo mexicano como ha</p>
+<p begin="00:11:04.480" end="00:11:08.360" style="s2">cuñado nuestro presidente Andrés Manuel</p>
+<p begin="00:11:07.360" end="00:11:12.480" style="s2">López</p>
+<p begin="00:11:08.360" end="00:11:15.279" style="s2">Obrador es historia es cultura es</p>
+<p begin="00:11:12.480" end="00:11:18.959" style="s2">política Porque nada humano nos puede</p>
+<p begin="00:11:15.279" end="00:11:21.600" style="s2">ser ajeno es una expresión antigua y</p>
+<p begin="00:11:18.959" end="00:11:24.600" style="s2">viva un lenguaje que nos habla desde el</p>
+<p begin="00:11:21.600" end="00:11:26.920" style="s2">pasado pero se expresa el futuro y desde</p>
+<p begin="00:11:24.600" end="00:11:29.519" style="s2">el cual construiremos el segundo piso de</p>
+<p begin="00:11:26.920" end="00:11:31.839" style="s2">la transformación porque en este este</p>
+<p begin="00:11:29.519" end="00:11:34.360" style="s2">país donde nuestros ancestros forjaron</p>
+<p begin="00:11:31.839" end="00:11:37.240" style="s2">la identidad de sus culturas en relación</p>
+<p begin="00:11:34.360" end="00:11:39.480" style="s2">con la tierra y el agua tenemos un</p>
+<p begin="00:11:37.240" end="00:11:42.320" style="s2">pasado que alumbra nuestro</p>
+<p begin="00:11:39.480" end="00:11:44.240" style="s2">Porvenir miraremos esa luz y</p>
+<p begin="00:11:42.320" end="00:11:46.480" style="s2">escucharemos también el paso de quienes</p>
+<p begin="00:11:44.240" end="00:11:50.000" style="s2">tenemos la fortuna de caminar por esta</p>
+<p begin="00:11:46.480" end="00:11:52.920" style="s2">tierra seremos plurales incluyentes Y</p>
+<p begin="00:11:50.000" end="00:11:55.279" style="s2">propositivos seremos tradicionales y</p>
+<p begin="00:11:52.920" end="00:11:59.399" style="s2">contemporáneos seremos osadas y</p>
+<p begin="00:11:55.279" end="00:12:02.639" style="s2">responsables haremos un programa qué</p>
+<p begin="00:11:59.399" end="00:12:05.279" style="s2">Como dijo s Juana Inés de la Cruz ponga</p>
+<p begin="00:12:02.639" end="00:12:08.800" style="s2">bellezas en mi entendimiento y no mi</p>
+<p begin="00:12:05.279" end="00:12:08.800" style="s2">entendimiento En las</p>
+<p begin="00:12:09.839" end="00:12:15.839" style="s2">bellezas con nuestras convicciones al</p>
+<p begin="00:12:12.680" end="00:12:19.079" style="s2">frente escucharemos el sonido trazaremos</p>
+<p begin="00:12:15.839" end="00:12:22.680" style="s2">la imagen y haremos resonar la grandeza</p>
+<p begin="00:12:19.079" end="00:12:24.800" style="s2">cultural de México juntas haremos</p>
+<p begin="00:12:22.680" end="00:12:27.320" style="s2">historia juntos haremos historia</p>
+<p begin="00:12:24.800" end="00:12:27.320" style="s2">Muchísimas</p>
+<p begin="00:12:28.160" end="00:12:33.160" style="s2">gracias Muchas gracias a continuación</p>
+<p begin="00:12:31.079" end="00:12:36.839" style="s2">escucharemos a la próxima secretaria de</p>
+<p begin="00:12:33.160" end="00:12:36.839" style="s2">turismo Josefina Rodríguez</p>
+<p begin="00:12:39.240" end="00:12:44.760" style="s2">Zamora con su permiso señora presidenta</p>
+<p begin="00:12:42.199" end="00:12:47.639" style="s2">electa compañeros compañeros de este</p>
+<p begin="00:12:44.760" end="00:12:50.600" style="s2">gabinete invitados especiales y medios</p>
+<p begin="00:12:47.639" end="00:12:53.399" style="s2">de comunicación buenos días a todos</p>
+<p begin="00:12:50.600" end="00:12:55.600" style="s2">Gracias doctora Claudia por depositar su</p>
+<p begin="00:12:53.399" end="00:12:58.760" style="s2">confianza en mí es un honor y un</p>
+<p begin="00:12:55.600" end="00:13:01.199" style="s2">privilegio servirle a México y poder dar</p>
+<p begin="00:12:58.760" end="00:13:03.000" style="s2">continuidad la transformación que inició</p>
+<p begin="00:13:01.199" end="00:13:06.199" style="s2">nuestro presidente Andrés Manuel López</p>
+<p begin="00:13:03.000" end="00:13:09.240" style="s2">Obrador y que usted hoye encabeza donde</p>
+<p begin="00:13:06.199" end="00:13:11.760" style="s2">pondré todo mi compromiso lealtad y</p>
+<p begin="00:13:09.240" end="00:13:15.240" style="s2">creatividad para desarrollar el turismo</p>
+<p begin="00:13:11.760" end="00:13:17.959" style="s2">para todos donde los pueblos indígenas</p>
+<p begin="00:13:15.240" end="00:13:21.079" style="s2">artesanos y comunidades enteras de los</p>
+<p begin="00:13:17.959" end="00:13:25.079" style="s2">32 estados se vean beneficiadas por esta</p>
+<p begin="00:13:21.079" end="00:13:27.720" style="s2">noble industria México es el sexto país</p>
+<p begin="00:13:25.079" end="00:13:29.959" style="s2">más visitado del mundo esto derivado de</p>
+<p begin="00:13:27.720" end="00:13:31.399" style="s2">la cohesión y sinergias que han que</p>
+<p begin="00:13:29.959" end="00:13:34.360" style="s2">permitido que gracias a nuestro</p>
+<p begin="00:13:31.399" end="00:13:36.600" style="s2">patrimonio cultural histórico y natural</p>
+<p begin="00:13:34.360" end="00:13:40.160" style="s2">nuestro país pueda posicionarse como un</p>
+<p begin="00:13:36.600" end="00:13:42.560" style="s2">destino único en el mundo 11,000 km de</p>
+<p begin="00:13:40.160" end="00:13:46.279" style="s2">litoral la octava biodiversidad del</p>
+<p begin="00:13:42.560" end="00:13:48.920" style="s2">mundo y por supuesto nuestra gente quién</p>
+<p begin="00:13:46.279" end="00:13:51.880" style="s2">mejor que un mexicano para consentir a</p>
+<p begin="00:13:48.920" end="00:13:54.519" style="s2">nuestros viajeros ahí en nuestra gente</p>
+<p begin="00:13:51.880" end="00:13:57.440" style="s2">está nuestra verdadera fortaleza el</p>
+<p begin="00:13:54.519" end="00:13:59.800" style="s2">turismo es el primer sector empleador de</p>
+<p begin="00:13:57.440" end="00:14:03.759" style="s2">jóvenes y el segundo empleador de</p>
+<p begin="00:13:59.800" end="00:14:08.720" style="s2">mujeres en el país me honra representar</p>
+<p begin="00:14:03.759" end="00:14:11.320" style="s2">al 44 por de jóvenes y al 58 por de</p>
+<p begin="00:14:08.720" end="00:14:13.040" style="s2">mujeres que trabajan en el sector</p>
+<p begin="00:14:11.320" end="00:14:16.040" style="s2">turístico continuaremos con el</p>
+<p begin="00:14:13.040" end="00:14:18.079" style="s2">desarrollo Regional de nuestros destinos</p>
+<p begin="00:14:16.040" end="00:14:20.720" style="s2">a partir de las obras de infraestructura</p>
+<p begin="00:14:18.079" end="00:14:24.279" style="s2">de turismo de alto impacto que la cuarta</p>
+<p begin="00:14:20.720" end="00:14:26.920" style="s2">transformación Ha logrado hoy le reitero</p>
+<p begin="00:14:24.279" end="00:14:30.440" style="s2">mi agradecimiento por permitirme ser</p>
+<p begin="00:14:26.920" end="00:14:32.800" style="s2">portavoz de la invaluable bza natural</p>
+<p begin="00:14:30.440" end="00:14:35.680" style="s2">cultural gastronómica y artesanal de</p>
+<p begin="00:14:32.800" end="00:14:38.279" style="s2">nuestro México no tengan duda que</p>
+<p begin="00:14:35.680" end="00:14:42.079" style="s2">llevaremos las bellezas naturales</p>
+<p begin="00:14:38.279" end="00:14:44.480" style="s2">texturas olores colores y sabores de</p>
+<p begin="00:14:42.079" end="00:14:47.680" style="s2">nuestro pueblo al mundo marcaremos la</p>
+<p begin="00:14:44.480" end="00:14:50.320" style="s2">Nueva Era del turismo donde México se</p>
+<p begin="00:14:47.680" end="00:14:53.000" style="s2">posicionará de manera competitiva a</p>
+<p begin="00:14:50.320" end="00:14:56.040" style="s2">través de herramientas innovadoras de</p>
+<p begin="00:14:53.000" end="00:14:58.240" style="s2">promoción impulsaremos políticas que</p>
+<p begin="00:14:56.040" end="00:15:00.720" style="s2">propicien el desarrollo sostenible y</p>
+<p begin="00:14:58.240" end="00:15:04.279" style="s2">sustentable en cada uno de nuestros</p>
+<p begin="00:15:00.720" end="00:15:07.000" style="s2">destinos y lograremos llevar bienestar a</p>
+<p begin="00:15:04.279" end="00:15:09.880" style="s2">millones de familias que forman parte de</p>
+<p begin="00:15:07.000" end="00:15:12.680" style="s2">la cadena de valor que genera el turismo</p>
+<p begin="00:15:09.880" end="00:15:15.720" style="s2">nuestro firme compromiso con usted y el</p>
+<p begin="00:15:12.680" end="00:15:18.279" style="s2">pueblo de México será consolidar un</p>
+<p begin="00:15:15.720" end="00:15:20.480" style="s2">éxito turístico de nuestra nación y</p>
+<p begin="00:15:18.279" end="00:15:23.839" style="s2">transformarlo en una prosperidad</p>
+<p begin="00:15:20.480" end="00:15:23.839" style="s2">compartida Muchísimas</p>
+<p begin="00:15:25.519" end="00:15:29.120" style="s2">gracias muchas gracias finalmente</p>
+<p begin="00:15:27.639" end="00:15:31.040" style="s2">escucharemos</p>
+<p begin="00:15:29.120" end="00:15:33.120" style="s2">a quien ha sido designado para continuar</p>
+<p begin="00:15:31.040" end="00:15:36.000" style="s2">como Secretario del trabajo marat</p>
+<p begin="00:15:33.120" end="00:15:36.000" style="s2">Bolaños</p>
+<p begin="00:15:37.480" end="00:15:42.519" style="s2">López Muy buenos días a todos con su</p>
+<p begin="00:15:41.240" end="00:15:45.680" style="s2">permiso</p>
+<p begin="00:15:42.519" end="00:15:47.680" style="s2">doctora Antes que nada quisiera</p>
+<p begin="00:15:45.680" end="00:15:50.240" style="s2">agradecer nuevamente a la doctora</p>
+<p begin="00:15:47.680" end="00:15:52.639" style="s2">Claudia sh por la confianza y la</p>
+<p begin="00:15:50.240" end="00:15:56.000" style="s2">consideración para formar parte de su</p>
+<p begin="00:15:52.639" end="00:15:58.040" style="s2">equipo y de su gabinete la secretaría de</p>
+<p begin="00:15:56.000" end="00:15:59.839" style="s2">trabajo ha coordinado la política</p>
+<p begin="00:15:58.040" end="00:16:01.440" style="s2">laboral planteada por el presidente</p>
+<p begin="00:15:59.839" end="00:16:03.120" style="s2">Andrés Manuel López Obrador desde</p>
+<p begin="00:16:01.440" end="00:16:06.199" style="s2">inicios del año</p>
+<p begin="00:16:03.120" end="00:16:08.880" style="s2">2018 esta política se ha traducido en</p>
+<p begin="00:16:06.199" end="00:16:11.120" style="s2">una Primavera de los Derechos laborales</p>
+<p begin="00:16:08.880" end="00:16:14.040" style="s2">a través de diversas acciones que han</p>
+<p begin="00:16:11.120" end="00:16:16.160" style="s2">beneficiado a millones de mexicanas y</p>
+<p begin="00:16:14.040" end="00:16:19.759" style="s2">mexicanos trabajadoras y trabajadores en</p>
+<p begin="00:16:16.160" end="00:16:21.959" style="s2">nuestro país como toda acción del</p>
+<p begin="00:16:19.759" end="00:16:24.279" style="s2">gobierno de la transformación también</p>
+<p begin="00:16:21.959" end="00:16:26.639" style="s2">dentro de la agenda laboral se puso en</p>
+<p begin="00:16:24.279" end="00:16:29.399" style="s2">el centro de las decisiones el bienestar</p>
+<p begin="00:16:26.639" end="00:16:31.000" style="s2">del pueblo de México a a través del</p>
+<p begin="00:16:29.399" end="00:16:33.199" style="s2">equilibrio de los factores de la</p>
+<p begin="00:16:31.000" end="00:16:35.240" style="s2">producción del diálogo entre los</p>
+<p begin="00:16:33.199" end="00:16:37.839" style="s2">diversos sectores y también de los</p>
+<p begin="00:16:35.240" end="00:16:39.839" style="s2">diversos actores se ha mejorado</p>
+<p begin="00:16:37.839" end="00:16:43.199" style="s2">sustancialmente las condiciones de vida</p>
+<p begin="00:16:39.839" end="00:16:45.120" style="s2">de millones de mexicanas y mexicanos la</p>
+<p begin="00:16:43.199" end="00:16:49.160" style="s2">recuperación del valor del salario</p>
+<p begin="00:16:45.120" end="00:16:51.519" style="s2">mínimo esto en cerca de 116 por en</p>
+<p begin="00:16:49.160" end="00:16:55.680" style="s2">términos reales en el grueso del país</p>
+<p begin="00:16:51.519" end="00:16:58.920" style="s2">200 por en la frontera norte también la</p>
+<p begin="00:16:55.680" end="00:17:00.839" style="s2">reforma de pensiones justamente para</p>
+<p begin="00:16:58.920" end="00:17:03.559" style="s2">poder corregir los agravios causados por</p>
+<p begin="00:17:00.839" end="00:17:05.959" style="s2">las modificaciones del año de</p>
+<p begin="00:17:03.559" end="00:17:09.039" style="s2">1997 y del año</p>
+<p begin="00:17:05.959" end="00:17:11.120" style="s2">2007 La regulación de la subcontratación</p>
+<p begin="00:17:09.039" end="00:17:13.720" style="s2">para el reconocimiento de las y los</p>
+<p begin="00:17:11.120" end="00:17:16.679" style="s2">trabajadores el fomento y resguardo de</p>
+<p begin="00:17:13.720" end="00:17:18.799" style="s2">la democracia sindical y de su libertad</p>
+<p begin="00:17:16.679" end="00:17:21.679" style="s2">también para poder organizarse</p>
+<p begin="00:17:18.799" end="00:17:24.640" style="s2">justamente así de manera libre y</p>
+<p begin="00:17:21.679" end="00:17:26.439" style="s2">propiciar la negociación auténtica la</p>
+<p begin="00:17:24.640" end="00:17:28.919" style="s2">coordinación de un programa sin</p>
+<p begin="00:17:26.439" end="00:17:31.640" style="s2">precedentes en la historia de México</p>
+<p begin="00:17:28.919" end="00:17:34.480" style="s2">para dar trabajo a las y los jóvenes</p>
+<p begin="00:17:31.640" end="00:17:36.919" style="s2">jóvenes construyendo el futuro entre</p>
+<p begin="00:17:34.480" end="00:17:38.679" style="s2">muchas otras acciones que se han tenido</p>
+<p begin="00:17:36.919" end="00:17:40.160" style="s2">justamente a implementar en el gobierno</p>
+<p begin="00:17:38.679" end="00:17:43.880" style="s2">del presidente Andrés Manuel López</p>
+<p begin="00:17:40.160" end="00:17:46.080" style="s2">Obrador en suma estamos viviendo una</p>
+<p begin="00:17:43.880" end="00:17:48.520" style="s2">auténtica Revolución en el mundo del</p>
+<p begin="00:17:46.080" end="00:17:51.000" style="s2">trabajo por eso también quiero</p>
+<p begin="00:17:48.520" end="00:17:52.679" style="s2">aprovechar el espacio para agradecer al</p>
+<p begin="00:17:51.000" end="00:17:54.280" style="s2">presidente Andrés Manuel López Obrador</p>
+<p begin="00:17:52.679" end="00:17:56.960" style="s2">por su confianza en su momento para</p>
+<p begin="00:17:54.280" end="00:17:59.000" style="s2">formar parte de esta tarea histórica lo</p>
+<p begin="00:17:56.960" end="00:18:00.960" style="s2">que es el primer piso de la</p>
+<p begin="00:17:59.000" end="00:18:03.200" style="s2">transformación del país en su momento</p>
+<p begin="00:18:00.960" end="00:18:05.640" style="s2">como subsecretario y ahora como</p>
+<p begin="00:18:03.200" end="00:18:07.919" style="s2">Secretario del trabajo Quiero reiterar</p>
+<p begin="00:18:05.640" end="00:18:09.760" style="s2">el agradecimiento por la invitación la</p>
+<p begin="00:18:07.919" end="00:18:13.080" style="s2">confianza que me está brindando también</p>
+<p begin="00:18:09.760" end="00:18:15.120" style="s2">la doctora Claudia shb para poder así</p>
+<p begin="00:18:13.080" end="00:18:17.720" style="s2">seguir trabajando en la transformación</p>
+<p begin="00:18:15.120" end="00:18:20.240" style="s2">del país la Secretaría del trabajo tiene</p>
+<p begin="00:18:17.720" end="00:18:23.559" style="s2">muchísimo que aportar para seguir</p>
+<p begin="00:18:20.240" end="00:18:26.000" style="s2">beneficiando a las y los trabajadores en</p>
+<p begin="00:18:23.559" end="00:18:29.200" style="s2">todo el territorio nacional Seguiremos</p>
+<p begin="00:18:26.000" end="00:18:31.720" style="s2">adelante conocemos el camino tenemos la</p>
+<p begin="00:18:29.200" end="00:18:34.280" style="s2">brújula bien puesta aquella que apunta</p>
+<p begin="00:18:31.720" end="00:18:36.320" style="s2">en la dirección en donde por el bien de</p>
+<p begin="00:18:34.280" end="00:18:39.120" style="s2">todos primero las y los pobres</p>
+<p begin="00:18:36.320" end="00:18:39.120" style="s2">Muchísimas gracias</p>
+<p begin="00:18:39.440" end="00:18:45.960" style="s2">doctora Muchas gracias vamos a cerrar</p>
+<p begin="00:18:43.240" end="00:18:48.200" style="s2">estos anuncios con la fotografía será en</p>
+<p begin="00:18:45.960" end="00:18:51.039" style="s2">dos momentos en primer lugar con la</p>
+<p begin="00:18:48.200" end="00:18:55.240" style="s2">vista hacia el centro para la fotografía</p>
+<p begin="00:18:51.039" end="00:18:55.240" style="s2">oficial por favor</p>
+<p begin="00:19:18.840" end="00:19:24.520" style="s2">la fotografía oficial con vista al</p>
+<p begin="00:19:20.840" end="00:19:24.520" style="s2">centro ahí está</p>
+<p begin="00:19:29.760" end="00:19:35.080" style="s2">y ahora</p>
+<p begin="00:19:31.760" end="00:19:35.080" style="s2">sí muchas</p>
+<p begin="00:19:37.159" end="00:19:41.799" style="s2">gracias gracias por su presencia por su</p>
+<p begin="00:19:39.640" end="00:19:45.080" style="s2">participación a todas y todos los</p>
+<p begin="00:19:41.799" end="00:19:45.080" style="s2">representantes de los medios de</p>
+<p begin="00:19:46.360" end="00:19:51.840" style="s2">comunicación sigamos haciendo historia</p>
+<p begin="00:19:48.520" end="00:19:54.039" style="s2">Claudia shinba presidenta 2024 2030 que</p>
+<p begin="00:19:51.840" end="00:19:57.000" style="s2">tengan todas y todos muy buen día y</p>
+<p begin="00:19:54.039" end="00:19:57.000" style="s2">hasta la próxima</p>
+</div>
+</body>
+</tt>

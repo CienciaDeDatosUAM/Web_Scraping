@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="es" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:28.960" end="00:00:31.960" style="s2">al</p>
+<p begin="00:00:58.920" end="00:01:01.920" style="s2">al</p>
+<p begin="00:01:28.920" end="00:01:31.920" style="s2">al</p>
+<p begin="00:01:58.840" end="00:02:01.840" style="s2">al</p>
+<p begin="00:02:28.840" end="00:02:31.840" style="s2">al</p>
+<p begin="00:02:58.840" end="00:03:01.840" style="s2">al</p>
+<p begin="00:03:28.760" end="00:03:31.760" style="s2">al</p>
+<p begin="00:03:58.720" end="00:04:01.720" style="s2">al</p>
+<p begin="00:04:28.720" end="00:04:31.720" style="s2">al</p>
+<p begin="00:04:58.639" end="00:05:01.639" style="s2">al</p>
+<p begin="00:05:28.639" end="00:05:31.639" style="s2">al</p>
+<p begin="00:05:58.639" end="00:06:01.639" style="s2">al</p>
+<p begin="00:06:28.560" end="00:06:31.560" style="s2">al</p>
+<p begin="00:06:58.520" end="00:07:01.520" style="s2">al</p>
+<p begin="00:07:28.520" end="00:07:31.520" style="s2">al</p>
+<p begin="00:07:58.440" end="00:08:01.440" style="s2">al</p>
+<p begin="00:08:28.440" end="00:08:31.440" style="s2">al</p>
+<p begin="00:08:58.440" end="00:09:01.440" style="s2">al</p>
+<p begin="00:09:28.360" end="00:09:31.360" style="s2">al</p>
+<p begin="00:09:58.320" end="00:10:01.320" style="s2">al</p>
+<p begin="00:10:28.320" end="00:10:31.320" style="s2">al</p>
+<p begin="00:10:58.240" end="00:11:01.240" style="s2">al</p>
+<p begin="00:11:28.240" end="00:11:31.240" style="s2">al</p>
+<p begin="00:11:58.240" end="00:12:01.240" style="s2">al</p>
+<p begin="00:12:28.160" end="00:12:31.160" style="s2">al</p>
+<p begin="00:12:58.120" end="00:13:01.120" style="s2">al</p>
+<p begin="00:13:28.120" end="00:13:31.120" style="s2">al</p>
+<p begin="00:13:58.040" end="00:14:01.040" style="s2">al</p>
+<p begin="00:14:28.040" end="00:14:32.079" style="s2">al al</p>
+<p begin="00:15:14.320" end="00:15:19.560" style="s2">no solamente</p>
+<p begin="00:15:15.839" end="00:15:22.600" style="s2">eh somos compañeros amigos sino</p>
+<p begin="00:15:19.560" end="00:15:25.240" style="s2">que ha desempeñado cargos pues</p>
+<p begin="00:15:22.600" end="00:15:28.000" style="s2">importantísimos que le permiten</p>
+<p begin="00:15:25.240" end="00:15:31.240" style="s2">coordinar nuestra oficina su trabajo</p>
+<p begin="00:15:28.000" end="00:15:34.800" style="s2">pues será ayudarme en el seguimiento de</p>
+<p begin="00:15:31.240" end="00:15:37.600" style="s2">los temas estratégicos del gobierno y al</p>
+<p begin="00:15:34.800" end="00:15:41.240" style="s2">mismo tiempo eh relaciones con distintos</p>
+<p begin="00:15:37.600" end="00:15:45.440" style="s2">sectores eh Lázaro</p>
+<p begin="00:15:41.240" end="00:15:47.720" style="s2">eh su último encargo o cargo fue asesor</p>
+<p begin="00:15:45.440" end="00:15:49.560" style="s2">especial de la presidencia del</p>
+<p begin="00:15:47.720" end="00:15:51.040" style="s2">presidente Andrés Manuel López Obrador</p>
+<p begin="00:15:49.560" end="00:15:54.399" style="s2">para la comunidad de Estados</p>
+<p begin="00:15:51.040" end="00:15:56.800" style="s2">latinoamericanos y caribeños celac</p>
+<p begin="00:15:54.399" end="00:16:00.160" style="s2">coordinador de asesores del presidente</p>
+<p begin="00:15:56.800" end="00:16:04.279" style="s2">López Obrador del 2018 al</p>
+<p begin="00:16:00.160" end="00:16:05.959" style="s2">2023 miembro del Consejo directivo de la</p>
+<p begin="00:16:04.279" end="00:16:10.079" style="s2">oficina</p>
+<p begin="00:16:05.959" end="00:16:11.959" style="s2">eh en Washington de latinoamérica de la</p>
+<p begin="00:16:10.079" end="00:16:14.279" style="s2">organización no gubernamental dedicada a</p>
+<p begin="00:16:11.959" end="00:16:16.240" style="s2">la protección de los Derechos Humanos</p>
+<p begin="00:16:14.279" end="00:16:18.240" style="s2">integrante del grupo de análisis</p>
+<p begin="00:16:16.240" end="00:16:21.519" style="s2">político de la secretaría general de la</p>
+<p begin="00:16:18.240" end="00:16:23.759" style="s2">Organización de Estados Americanos jefe</p>
+<p begin="00:16:21.519" end="00:16:27.199" style="s2">de misión de observación electoral de la</p>
+<p begin="00:16:23.759" end="00:16:31.120" style="s2">oea en Nicaragua Ecuador y Uruguay</p>
+<p begin="00:16:27.199" end="00:16:33.319" style="s2">miembro de el diálogo interamericano</p>
+<p begin="00:16:31.120" end="00:16:35.639" style="s2">miembro del Consejo directivo del</p>
+<p begin="00:16:33.319" end="00:16:39.079" style="s2">programa latinoamericano del woodrow</p>
+<p begin="00:16:35.639" end="00:16:43.880" style="s2">Wilson International Center investigador</p>
+<p begin="00:16:39.079" end="00:16:47.240" style="s2">en el instituto también buro Wilson</p>
+<p begin="00:16:43.880" end="00:16:50.000" style="s2">eh gobernador constitucional del Estado</p>
+<p begin="00:16:47.240" end="00:16:52.319" style="s2">de Michoacán y diputado senador de la</p>
+<p begin="00:16:50.000" end="00:16:55.600" style="s2">República y diputado federal así que</p>
+<p begin="00:16:52.319" end="00:16:58.360" style="s2">pues son grandes credenciales de Lázaro</p>
+<p begin="00:16:55.600" end="00:16:59.440" style="s2">Cárdenas batel y estoy pues muy contenta</p>
+<p begin="00:16:58.360" end="00:17:02.759" style="s2">que haya</p>
+<p begin="00:16:59.440" end="00:17:06.199" style="s2">aceptado coordinar la oficina de la</p>
+<p begin="00:17:02.759" end="00:17:06.199" style="s2">presidencia de la República</p>
+<p begin="00:17:11.199" end="00:17:16.360" style="s2">Lázaro Muy buenos días a todas y a todos</p>
+<p begin="00:17:15.160" end="00:17:19.240" style="s2">estimada</p>
+<p begin="00:17:16.360" end="00:17:22.199" style="s2">presidenta agradezco profundamente la</p>
+<p begin="00:17:19.240" end="00:17:24.280" style="s2">confianza con que me distingue al</p>
+<p begin="00:17:22.199" end="00:17:27.640" style="s2">invitarme a ocupar el cargo de jefe de</p>
+<p begin="00:17:24.280" end="00:17:29.360" style="s2">oficina de la presidencia será un honor</p>
+<p begin="00:17:27.640" end="00:17:31.520" style="s2">acompañar de cerca</p>
+<p begin="00:17:29.360" end="00:17:34.480" style="s2">a la primera jefa de estado en la</p>
+<p begin="00:17:31.520" end="00:17:36.679" style="s2">historia de México un gran honor por</p>
+<p begin="00:17:34.480" end="00:17:39.400" style="s2">todo lo que ya la elección de una mujer</p>
+<p begin="00:17:36.679" end="00:17:42.520" style="s2">significa y por todo lo que su gestión</p>
+<p begin="00:17:39.400" end="00:17:45.600" style="s2">puede significar para nuestro país No</p>
+<p begin="00:17:42.520" end="00:17:48.559" style="s2">solo para las mujeres y no solo para la</p>
+<p begin="00:17:45.600" end="00:17:52.000" style="s2">para la política ya por esa sola razón</p>
+<p begin="00:17:48.559" end="00:17:55.080" style="s2">será un privilegio colaborar con nuestra</p>
+<p begin="00:17:52.000" end="00:17:57.000" style="s2">presidenta una mujer comprometida desde</p>
+<p begin="00:17:55.080" end="00:18:00.200" style="s2">muy joven con las mejores causas de</p>
+<p begin="00:17:57.000" end="00:18:03.240" style="s2">México a quien tengo la fortuna de</p>
+<p begin="00:18:00.200" end="00:18:05.520" style="s2">conocer hace mucho tiempo y con quien he</p>
+<p begin="00:18:03.240" end="00:18:10.960" style="s2">coincidido en la lucha política desde</p>
+<p begin="00:18:05.520" end="00:18:14.039" style="s2">hace ya 36 o 37 años cuando ella era</p>
+<p begin="00:18:10.960" end="00:18:16.159" style="s2">además de muy joven parte del movimiento</p>
+<p begin="00:18:14.039" end="00:18:18.720" style="s2">estudiantil que entonces defendía la</p>
+<p begin="00:18:16.159" end="00:18:21.000" style="s2">esencia de nuestra Universidad Nacional</p>
+<p begin="00:18:18.720" end="00:18:23.400" style="s2">y cuyos liderazgos más</p>
+<p begin="00:18:21.000" end="00:18:25.200" style="s2">importantes se sumaron al Gran</p>
+<p begin="00:18:23.400" end="00:18:29.039" style="s2">movimiento que en</p>
+<p begin="00:18:25.200" end="00:18:31.720" style="s2">1988 sacudió a México y abrió la puerta</p>
+<p begin="00:18:29.039" end="00:18:34.559" style="s2">para su transformación democrática me</p>
+<p begin="00:18:31.720" end="00:18:37.440" style="s2">honra participar en en el equipo de la</p>
+<p begin="00:18:34.559" end="00:18:39.440" style="s2">doctora shba seguro que habrá de estar a</p>
+<p begin="00:18:37.440" end="00:18:42.440" style="s2">la altura de la gran responsabilidad que</p>
+<p begin="00:18:39.440" end="00:18:45.240" style="s2">le corresponde no tengo duda que el</p>
+<p begin="00:18:42.440" end="00:18:47.720" style="s2">próximo gobierno será congruente con la</p>
+<p begin="00:18:45.240" end="00:18:50.280" style="s2">trayectoria de Claudia shb y con las</p>
+<p begin="00:18:47.720" end="00:18:51.760" style="s2">causas que ella ha impulsado Y defendido</p>
+<p begin="00:18:50.280" end="00:18:54.600" style="s2">a lo largo de su</p>
+<p begin="00:18:51.760" end="00:18:57.480" style="s2">vida en la universidad en la</p>
+<p begin="00:18:54.600" end="00:19:01.200" style="s2">investigación científica en el activismo</p>
+<p begin="00:18:57.480" end="00:19:03.640" style="s2">y la militancia ía en el compromiso con</p>
+<p begin="00:19:01.200" end="00:19:06.240" style="s2">una visión incluyente y sustentable del</p>
+<p begin="00:19:03.640" end="00:19:09.559" style="s2">desarrollo en las labores de gobierno en</p>
+<p begin="00:19:06.240" end="00:19:13.280" style="s2">la Ciudad de México un México para todas</p>
+<p begin="00:19:09.559" end="00:19:15.840" style="s2">y todos plural y democrático seguro</p>
+<p begin="00:19:13.280" end="00:19:18.640" style="s2">soberano próspero y</p>
+<p begin="00:19:15.840" end="00:19:20.840" style="s2">justo Gracias doctora por la oportunidad</p>
+<p begin="00:19:18.640" end="00:19:24.960" style="s2">de colaborar junto a las compañeras y</p>
+<p begin="00:19:20.840" end="00:19:27.440" style="s2">compañeros que la apoyan en su oficina y</p>
+<p begin="00:19:24.960" end="00:19:29.280" style="s2">junto a quienes formarán su gabinete con</p>
+<p begin="00:19:27.440" end="00:19:31.760" style="s2">varios de ellos compartimos el</p>
+<p begin="00:19:29.280" end="00:19:34.360" style="s2">privilegio de haber participado en el</p>
+<p begin="00:19:31.760" end="00:19:36.799" style="s2">gobierno del presidente López Obrador</p>
+<p begin="00:19:34.360" end="00:19:39.799" style="s2">con todos habremos de mantener siempre</p>
+<p begin="00:19:36.799" end="00:19:42.640" style="s2">coordinación y diálogo efectivos Y</p>
+<p begin="00:19:39.799" end="00:19:45.640" style="s2">respetuosos al igual que con autoridades</p>
+<p begin="00:19:42.640" end="00:19:48.320" style="s2">locales miembros de otros poderes y con</p>
+<p begin="00:19:45.640" end="00:19:50.200" style="s2">los distintos sectores de la sociedad en</p>
+<p begin="00:19:48.320" end="00:19:53.120" style="s2">cumplimiento de los objetivos de su</p>
+<p begin="00:19:50.200" end="00:19:56.240" style="s2">gobierno sus programas y proyectos y</p>
+<p begin="00:19:53.120" end="00:19:58.720" style="s2">aquellas t tareas que usted nos indique</p>
+<p begin="00:19:56.240" end="00:20:01.240" style="s2">para servir a la gente y al país</p>
+<p begin="00:19:58.720" end="00:20:03.320" style="s2">agradezco nuevamente la distinción y la</p>
+<p begin="00:20:01.240" end="00:20:06.120" style="s2">confianza Muchas</p>
+<p begin="00:20:03.320" end="00:20:08.520" style="s2">gracias muchas gracias vamos a contestar</p>
+<p begin="00:20:06.120" end="00:20:10.840" style="s2">preguntas y comenzamos con el heraldo</p>
+<p begin="00:20:08.520" end="00:20:13.720" style="s2">Carlos</p>
+<p begin="00:20:10.840" end="00:20:16.159" style="s2">Navarro Buenas tardes a todas y todos</p>
+<p begin="00:20:13.720" end="00:20:18.520" style="s2">preguntarle a Lázaro Cárdenas batel Qué</p>
+<p begin="00:20:16.159" end="00:20:21.360" style="s2">representa para él ocupar este este</p>
+<p begin="00:20:18.520" end="00:20:23.039" style="s2">cargo y qué aporta usted al movimiento y</p>
+<p begin="00:20:21.360" end="00:20:24.880" style="s2">también preguntarle a la doctora Claudia</p>
+<p begin="00:20:23.039" end="00:20:26.400" style="s2">shon Por qué no se hicieron los otros</p>
+<p begin="00:20:24.880" end="00:20:29.480" style="s2">nombramientos que estaban presupuestados</p>
+<p begin="00:20:26.400" end="00:20:32.159" style="s2">en la semana gracias</p>
+<p begin="00:20:29.480" end="00:20:34.400" style="s2">bueno como como ya lo decía para mí</p>
+<p begin="00:20:32.159" end="00:20:38.200" style="s2">representa un honor</p>
+<p begin="00:20:34.400" end="00:20:42.880" style="s2">altísimo porque el nombramiento viene de</p>
+<p begin="00:20:38.200" end="00:20:44.600" style="s2">quien viene porque es un espacio cercano</p>
+<p begin="00:20:42.880" end="00:20:47.520" style="s2">un espacio</p>
+<p begin="00:20:44.600" end="00:20:50.559" style="s2">que implica</p>
+<p begin="00:20:47.520" end="00:20:53.080" style="s2">confianza y un espacio desde donde creo</p>
+<p begin="00:20:50.559" end="00:20:56.000" style="s2">podemos seguir aportando al país las</p>
+<p begin="00:20:53.080" end="00:20:59.240" style="s2">razones del nombramiento pues quien</p>
+<p begin="00:20:56.000" end="00:21:01.600" style="s2">puede darlas es la señora presidenta Le</p>
+<p begin="00:20:59.240" end="00:21:04.120" style="s2">agradezco nuevamente muchísimo esta esta</p>
+<p begin="00:21:01.600" end="00:21:04.120" style="s2">muestra de</p>
+<p begin="00:21:06.559" end="00:21:14.039" style="s2">confianza pues como Comenta Lázaro nos</p>
+<p begin="00:21:10.919" end="00:21:17.840" style="s2">tenemos mucha confianza</p>
+<p begin="00:21:14.039" end="00:21:21.120" style="s2">y pues Lázaro ya fue gobernador fue</p>
+<p begin="00:21:17.840" end="00:21:24.960" style="s2">diputado senador y ha ocupado distintos</p>
+<p begin="00:21:21.120" end="00:21:27.440" style="s2">espacios en la política internacional</p>
+<p begin="00:21:24.960" end="00:21:30.080" style="s2">también entonces me va a ayudar al</p>
+<p begin="00:21:27.440" end="00:21:33.440" style="s2">seguimiento de los proyectos</p>
+<p begin="00:21:30.080" end="00:21:34.679" style="s2">estratégicos y al mismo tiempo ayudar</p>
+<p begin="00:21:33.440" end="00:21:38.360" style="s2">también pues</p>
+<p begin="00:21:34.679" end="00:21:41.039" style="s2">eh hablando con muchos sectores en</p>
+<p begin="00:21:38.360" end="00:21:42.720" style="s2">México en otros lugares del mundo que a</p>
+<p begin="00:21:41.039" end="00:21:46.480" style="s2">lo mejor no pueda atender de manera</p>
+<p begin="00:21:42.720" end="00:21:48.720" style="s2">directa como presidenta pero que eh</p>
+<p begin="00:21:46.480" end="00:21:51.520" style="s2">Lázaro puede atender con toda la</p>
+<p begin="00:21:48.720" end="00:21:53.360" style="s2">confianza y por qué no se hicieron los</p>
+<p begin="00:21:51.520" end="00:21:54.240" style="s2">nombramientos est porque nos toca el</p>
+<p begin="00:21:53.360" end="00:21:56.840" style="s2">próximo</p>
+<p begin="00:21:54.240" end="00:21:59.120" style="s2">jueves alguna razón en especial Ah nos</p>
+<p begin="00:21:56.840" end="00:22:00.960" style="s2">toca el próximo jueves gracias</p>
+<p begin="00:21:59.120" end="00:22:02.880" style="s2">Muchas gracias seguimos con la jornada</p>
+<p begin="00:22:00.960" end="00:22:04.760" style="s2">alma</p>
+<p begin="00:22:02.880" end="00:22:07.880" style="s2">Muñoz</p>
+<p begin="00:22:04.760" end="00:22:10.240" style="s2">entonces Lázaro será el interlocutor por</p>
+<p begin="00:22:07.880" end="00:22:12.480" style="s2">ejemplo ante los partidos de</p>
+<p begin="00:22:10.240" end="00:22:15.240" style="s2">oposición puede llegar a hacerlo por</p>
+<p begin="00:22:12.480" end="00:22:17.000" style="s2">supuesto como lo hemos dicho está la</p>
+<p begin="00:22:15.240" end="00:22:19.159" style="s2">secretaria de gobernación que es su</p>
+<p begin="00:22:17.000" end="00:22:22.039" style="s2">función</p>
+<p begin="00:22:19.159" end="00:22:24.760" style="s2">eh No solo la gobernabilidad sino el</p>
+<p begin="00:22:22.039" end="00:22:26.400" style="s2">diálogo con los distintos sectores Por</p>
+<p begin="00:22:24.760" end="00:22:28.679" style="s2">supuesto que está en las cámaras para</p>
+<p begin="00:22:26.400" end="00:22:30.720" style="s2">hablar en términos de partidos pero</p>
+<p begin="00:22:28.679" end="00:22:35.880" style="s2">Lázaro pues tiene la capacidad de hablar</p>
+<p begin="00:22:30.720" end="00:22:40.520" style="s2">con empresarios con organizaciones con</p>
+<p begin="00:22:35.880" end="00:22:42.960" style="s2">eh personas de cualquier sector social</p>
+<p begin="00:22:40.520" end="00:22:46.000" style="s2">de nuestro país te lo pregunto</p>
+<p begin="00:22:42.960" end="00:22:48.799" style="s2">porque no sé en algunos quedó la idea la</p>
+<p begin="00:22:46.000" end="00:22:50.200" style="s2">vez que se le preguntó sobre se reuniría</p>
+<p begin="00:22:48.799" end="00:22:52.640" style="s2">con Los líderes de los partidos de</p>
+<p begin="00:22:50.200" end="00:22:55.600" style="s2">oposición que</p>
+<p begin="00:22:52.640" end="00:22:59.080" style="s2">habría esa tarea es principalmente de la</p>
+<p begin="00:22:55.600" end="00:23:01.360" style="s2">secretaría de gobernación eh pero Lázaro</p>
+<p begin="00:22:59.080" end="00:23:04.520" style="s2">pues le tengo toda la confianza para que</p>
+<p begin="00:23:01.360" end="00:23:06.799" style="s2">en caso de que yo no pueda atender algo</p>
+<p begin="00:23:04.520" end="00:23:10.320" style="s2">haya alguna reunión importante Pues él</p>
+<p begin="00:23:06.799" end="00:23:12.640" style="s2">pueda atender desde organizaciones hasta</p>
+<p begin="00:23:10.320" end="00:23:14.880" style="s2">personas y la otra pregunta en otro tema</p>
+<p begin="00:23:12.640" end="00:23:16.640" style="s2">Perdón ayer mor nos dijo que habrá</p>
+<p begin="00:23:14.880" end="00:23:18.760" style="s2">candados para la elección de jueces</p>
+<p begin="00:23:16.640" end="00:23:21.559" style="s2">ministros y magistrados nos diría usted</p>
+<p begin="00:23:18.760" end="00:23:24.120" style="s2">si está de acuerdo con que ha o sea son</p>
+<p begin="00:23:21.559" end="00:23:25.279" style="s2">cambios a la reforma o A qué se refieren</p>
+<p begin="00:23:24.120" end="00:23:29.440" style="s2">esos</p>
+<p begin="00:23:25.279" end="00:23:31.960" style="s2">cados No sé exactamente qué planteó</p>
+<p begin="00:23:29.440" end="00:23:32.720" style="s2">Ricardo esencialmente es la propuesta</p>
+<p begin="00:23:31.960" end="00:23:36.000" style="s2">que</p>
+<p begin="00:23:32.720" end="00:23:39.120" style="s2">está en la propuesta con la que estamos</p>
+<p begin="00:23:36.000" end="00:23:41.640" style="s2">de acuerdo es la propuesta que envió el</p>
+<p begin="00:23:39.120" end="00:23:43.559" style="s2">presidente a partir de los diálogos de</p>
+<p begin="00:23:41.640" end="00:23:46.000" style="s2">hecho lo mencionó hoy el presidente a</p>
+<p begin="00:23:43.559" end="00:23:48.840" style="s2">una pregunta se abre esta posibilidad de</p>
+<p begin="00:23:46.000" end="00:23:51.520" style="s2">que no todos sean electos en el mismo</p>
+<p begin="00:23:48.840" end="00:23:54.679" style="s2">momento que es algo pues que tendrán que</p>
+<p begin="00:23:51.520" end="00:23:57.400" style="s2">definir el congreso que tendría que</p>
+<p begin="00:23:54.679" end="00:23:59.520" style="s2">verse pues la viabilidad también porque</p>
+<p begin="00:23:57.400" end="00:24:02.159" style="s2">cada elecciónes también tiene un costo</p>
+<p begin="00:23:59.520" end="00:24:04.799" style="s2">para el Instituto Nacional electoral</p>
+<p begin="00:24:02.159" end="00:24:06.440" style="s2">entonces Habría que ver esa viabilidad</p>
+<p begin="00:24:04.799" end="00:24:09.159" style="s2">hoy el presidente por ejemplo la</p>
+<p begin="00:24:06.440" end="00:24:12.039" style="s2">mañanera dijo si fuera por partes hay</p>
+<p begin="00:24:09.159" end="00:24:14.400" style="s2">que empezar desde abajo probablemente es</p>
+<p begin="00:24:12.039" end="00:24:17.240" style="s2">algo que tiene que decidir el congreso</p>
+<p begin="00:24:14.400" end="00:24:20.760" style="s2">nuestra posición pues es la propuesta</p>
+<p begin="00:24:17.240" end="00:24:23.360" style="s2">que se envió desde un inicio al congreso</p>
+<p begin="00:24:20.760" end="00:24:25.240" style="s2">y al mismo tiempo pues ver qué</p>
+<p begin="00:24:23.360" end="00:24:27.600" style="s2">alternativas hay si es que se hace</p>
+<p begin="00:24:25.240" end="00:24:28.919" style="s2">gradual la última pregunta de mi parte</p>
+<p begin="00:24:27.600" end="00:24:30.919" style="s2">también</p>
+<p begin="00:24:28.919" end="00:24:34.120" style="s2">no ayer la posibilidad de que si la</p>
+<p begin="00:24:30.919" end="00:24:36.520" style="s2">ministra norma piña se acercara a los</p>
+<p begin="00:24:34.120" end="00:24:39.120" style="s2">organizadores del foros probablemente</p>
+<p begin="00:24:36.520" end="00:24:42.000" style="s2">podría darse por esa vía el</p>
+<p begin="00:24:39.120" end="00:24:44.919" style="s2">diálogo pues ya se dio ese diálogo ella</p>
+<p begin="00:24:42.000" end="00:24:44.919" style="s2">asistió al primer</p>
+<p begin="00:24:45.559" end="00:24:53.720" style="s2">foro ella asistió al primer foro ella</p>
+<p begin="00:24:49.600" end="00:24:54.520" style="s2">planteó su Pues que la presente ahí al</p>
+<p begin="00:24:53.720" end="00:24:58.440" style="s2">al</p>
+<p begin="00:24:54.520" end="00:25:00.640" style="s2">congreso Pues sí o que se le haga llegar</p>
+<p begin="00:24:58.440" end="00:25:03.240" style="s2">partido que ella elija y si no</p>
+<p begin="00:25:00.640" end="00:25:04.679" style="s2">formalmente a la comisión de puntos</p>
+<p begin="00:25:03.240" end="00:25:07.080" style="s2">constitucionales de la cámara de</p>
+<p begin="00:25:04.679" end="00:25:10.120" style="s2">diputados que en que está llevando a</p>
+<p begin="00:25:07.080" end="00:25:13.159" style="s2">cabo pero el diálogo sobre la reforma</p>
+<p begin="00:25:10.120" end="00:25:13.159" style="s2">judicial está en el</p>
+<p begin="00:25:14.120" end="00:25:19.799" style="s2">congreso Muchas gracias Salvador Corona</p>
+<p begin="00:25:16.679" end="00:25:24.480" style="s2">del universal Buenas tardes para Lázaro</p>
+<p begin="00:25:19.799" end="00:25:27.520" style="s2">batel preguntarle en el 2000 23 pues</p>
+<p begin="00:25:24.480" end="00:25:29.520" style="s2">renunció al la coordinación de asesores</p>
+<p begin="00:25:27.520" end="00:25:31.760" style="s2">Por qué se dio esta renuncia Y por qué</p>
+<p begin="00:25:29.520" end="00:25:34.559" style="s2">regresar porque en ese momento se</p>
+<p begin="00:25:31.760" end="00:25:36.799" style="s2">hablaba que había eh roto con la cuarta</p>
+<p begin="00:25:34.559" end="00:25:39.159" style="s2">transformación o o había ha habido</p>
+<p begin="00:25:36.799" end="00:25:41.880" style="s2">pleito no en ese tema con el presidente</p>
+<p begin="00:25:39.159" end="00:25:44.360" style="s2">eh qué lo convenció ahora a regresar con</p>
+<p begin="00:25:41.880" end="00:25:46.919" style="s2">la futura presidenta no a ver yo no</p>
+<p begin="00:25:44.360" end="00:25:49.840" style="s2">nunca me he ido simplemente cumplí un</p>
+<p begin="00:25:46.919" end="00:25:52.559" style="s2">ciclo en la posición que ocupaba como</p>
+<p begin="00:25:49.840" end="00:25:55.320" style="s2">coordinador de asesores se abrió una</p>
+<p begin="00:25:52.559" end="00:25:58.360" style="s2">oportunidad que yo en lo personal</p>
+<p begin="00:25:55.320" end="00:26:01.000" style="s2">consideré muy interesante de participar</p>
+<p begin="00:25:58.360" end="00:26:02.919" style="s2">como asesor de la presidencia de celac</p>
+<p begin="00:26:01.000" end="00:26:06.919" style="s2">que es la comunidad de Estados</p>
+<p begin="00:26:02.919" end="00:26:09.399" style="s2">latinoamericanos y del Caribe que es una</p>
+<p begin="00:26:06.919" end="00:26:12.640" style="s2">instancia muy importante es el foro</p>
+<p begin="00:26:09.399" end="00:26:15.159" style="s2">donde estamos todos los países de de</p>
+<p begin="00:26:12.640" end="00:26:17.960" style="s2">América Latina y el Caribe reunidos es</p>
+<p begin="00:26:15.159" end="00:26:21.080" style="s2">es el foro específico de América Latina</p>
+<p begin="00:26:17.960" end="00:26:24.600" style="s2">y el Caribe que creo que es muy</p>
+<p begin="00:26:21.080" end="00:26:26.799" style="s2">importante fortalecer me invitó el</p>
+<p begin="00:26:24.600" end="00:26:29.760" style="s2">Primer Ministro de San Vicente y Las</p>
+<p begin="00:26:26.799" end="00:26:32.960" style="s2">Granadinas Ralph gonzal que ocupaba la</p>
+<p begin="00:26:29.760" end="00:26:37.600" style="s2">presidencia protempore que un un amigo</p>
+<p begin="00:26:32.960" end="00:26:40.799" style="s2">También de muchos años decidí eh</p>
+<p begin="00:26:37.600" end="00:26:43.320" style="s2">aceptar estuve trabajando en la en la</p>
+<p begin="00:26:40.799" end="00:26:46.000" style="s2">celac con el Primer Ministro gonzálvez</p>
+<p begin="00:26:43.320" end="00:26:47.240" style="s2">eh alrededor de un año lo que duró su</p>
+<p begin="00:26:46.000" end="00:26:49.840" style="s2">presidencia</p>
+<p begin="00:26:47.240" end="00:26:52.600" style="s2">protempore y nada pero yo nunca me he</p>
+<p begin="00:26:49.840" end="00:26:54.600" style="s2">cambiado de trinchera ni muchísimo menos</p>
+<p begin="00:26:52.600" end="00:26:57.159" style="s2">ni Pienso hacerlo eh la presidenta en</p>
+<p begin="00:26:54.600" end="00:26:59.679" style="s2">este momento había comentado que si si</p>
+<p begin="00:26:57.159" end="00:27:03.440" style="s2">usted eh si ella no puede atender</p>
+<p begin="00:26:59.679" end="00:27:05.600" style="s2">reuniones estaría abierto no Entonces a</p>
+<p begin="00:27:03.440" end="00:27:07.799" style="s2">a recibir incluso a la oposición es</p>
+<p begin="00:27:05.600" end="00:27:10.399" style="s2">correcto es así Bueno lo que ella</p>
+<p begin="00:27:07.799" end="00:27:12.440" style="s2">indique y cuando sea necesario Okay y</p>
+<p begin="00:27:10.399" end="00:27:15.840" style="s2">finalmente doctora en el tema nada más</p>
+<p begin="00:27:12.440" end="00:27:17.399" style="s2">de agenda cómo está vislumbrando esta</p>
+<p begin="00:27:15.840" end="00:27:20.559" style="s2">recorridos por la ciudad con el</p>
+<p begin="00:27:17.399" end="00:27:23.279" style="s2">presidente A dónde irían O cuál sería la</p>
+<p begin="00:27:20.559" end="00:27:23.279" style="s2">agenda de fin de</p>
+<p begin="00:27:24.200" end="00:27:29.480" style="s2">semana vamos a ir</p>
+<p begin="00:27:26.440" end="00:27:34.039" style="s2">a Ciudad de México</p>
+<p begin="00:27:29.480" end="00:27:37.240" style="s2">con el insurgente el tren</p>
+<p begin="00:27:34.039" end="00:27:40.399" style="s2">insurgente vamos a ir a revisar la obra</p>
+<p begin="00:27:37.240" end="00:27:46.600" style="s2">de Chalco el trolebús</p>
+<p begin="00:27:40.399" end="00:27:48.519" style="s2">elevado vamos a ir a Tula y Atlas cala o</p>
+<p begin="00:27:46.600" end="00:27:52.159" style="s2">sea Hidalgo y Atlas</p>
+<p begin="00:27:48.519" end="00:27:54.720" style="s2">cala mañana iniciamos exactamente y ya</p>
+<p begin="00:27:52.159" end="00:27:58.480" style="s2">exactamente los días ahora se los</p>
+<p begin="00:27:54.720" end="00:28:00.159" style="s2">informamos Y si hay eventos públicos</p>
+<p begin="00:27:58.480" end="00:28:04.240" style="s2">muy bien tenemos Una última pregunta que</p>
+<p begin="00:28:00.159" end="00:28:04.240" style="s2">es en inglés del newspaper de</p>
+<p begin="00:28:25.480" end="00:28:29.480" style="s2">Atenas voyar</p>
+<p begin="00:28:31.519" end="00:28:35.240" style="s2">es un</p>
+<p begin="00:28:32.600" end="00:28:38.919" style="s2">símbolo para América</p>
+<p begin="00:28:35.240" end="00:28:43.279" style="s2">Latina para nuestro continente para toda</p>
+<p begin="00:28:38.919" end="00:28:46.880" style="s2">la América para Europa y para el</p>
+<p begin="00:28:43.279" end="00:28:50.519" style="s2">mundo es un símbolo que un país que</p>
+<p begin="00:28:46.880" end="00:28:52.760" style="s2">durante 200 años de República no ha</p>
+<p begin="00:28:50.519" end="00:28:54.440" style="s2">tenido una mujer presidenta por primera</p>
+<p begin="00:28:52.760" end="00:28:57.240" style="s2">vez lo</p>
+<p begin="00:28:54.440" end="00:28:59.559" style="s2">tenga y al mismo tiempo como mujer</p>
+<p begin="00:28:57.240" end="00:29:04.600" style="s2">presidenta pues tenemos que impulsar la</p>
+<p begin="00:28:59.559" end="00:29:06.840" style="s2">agenda de las mujeres en en México en</p>
+<p begin="00:29:04.600" end="00:29:10.360" style="s2">contra de la violencia y a favor de sus</p>
+<p begin="00:29:06.840" end="00:29:12.919" style="s2">derechos Entonces es es un gran</p>
+<p begin="00:29:10.360" end="00:29:15.080" style="s2">privilegio decimos que en México es</p>
+<p begin="00:29:12.919" end="00:29:17.960" style="s2">tiempo de</p>
+<p begin="00:29:15.080" end="00:29:19.760" style="s2">mujeres ahora lo digo en inglés a ver si</p>
+<p begin="00:29:17.960" end="00:29:23.880" style="s2">me</p>
+<p begin="00:29:19.760" end="00:29:23.880" style="s2">sale a symbol</p>
+<p begin="00:29:29.480" end="00:29:35.159" style="s2">the presidency of</p>
+<p begin="00:29:31.760" end="00:29:38.440" style="s2">Mexico It&#39;s a symb for the whole</p>
+<p begin="00:29:35.159" end="00:29:43.000" style="s2">world that in a country in Mexico that</p>
+<p begin="00:29:38.440" end="00:29:45.880" style="s2">for 200 years of Republic didn&#39;t have a</p>
+<p begin="00:29:43.000" end="00:29:49.320" style="s2">woman as a President for the First time</p>
+<p begin="00:29:45.880" end="00:29:53.240" style="s2">in 200 years we&#39;re Going To Have a woman</p>
+<p begin="00:29:49.320" end="00:29:56.559" style="s2">President I said That I don&#39;t arrive by</p>
+<p begin="00:29:53.240" end="00:30:00.039" style="s2">Myself all The mexican women we</p>
+<p begin="00:29:56.559" end="00:30:00.039" style="s2">arrive Together</p>
+<p begin="00:30:20.640" end="00:30:24.399" style="s2">muy bien muchas gracias vamos a ver</p>
+<p begin="00:30:22.440" end="00:30:26.720" style="s2">alguna más vamos</p>
+<p begin="00:30:24.399" end="00:30:29.159" style="s2">escuch puede llegar a ser no nos</p>
+<p begin="00:30:26.720" end="00:30:29.159" style="s2">adelantemos</p>
+<p begin="00:30:33.679" end="00:30:36.679" style="s2">oportunidad de</p>
+<p begin="00:30:40.159" end="00:30:44.799" style="s2">cons bueno los dos ya somos adultos yo</p>
+<p begin="00:30:42.880" end="00:30:47.640" style="s2">creo que no tenemos que consultar con</p>
+<p begin="00:30:44.799" end="00:30:50.039" style="s2">nuestros mamás y</p>
+<p begin="00:30:47.640" end="00:30:53.080" style="s2">papás</p>
+<p begin="00:30:50.039" end="00:30:54.880" style="s2">pero a ver lo contesto personalmente</p>
+<p begin="00:30:53.080" end="00:30:56.919" style="s2">pues obviamente Lazaro tiene muy buena</p>
+<p begin="00:30:54.880" end="00:30:59.360" style="s2">relación con su padre pero yo también</p>
+<p begin="00:30:56.919" end="00:31:01.880" style="s2">tengo muy buena con el ingeniero</p>
+<p begin="00:30:59.360" end="00:31:07.080" style="s2">Cárdenas el ingeniero Cárdenas también</p>
+<p begin="00:31:01.880" end="00:31:07.080" style="s2">es un símbolo en nuestro país en</p>
+<p begin="00:31:07.919" end="00:31:14.679" style="s2">1988 yo tenía 26 años</p>
+<p begin="00:31:11.639" end="00:31:16.600" style="s2">e apoyamos al ingeniero Cárdenas porque</p>
+<p begin="00:31:14.679" end="00:31:19.399" style="s2">fue una ruptura muy importante la</p>
+<p begin="00:31:16.600" end="00:31:22.120" style="s2">corriente democrática y su postulación</p>
+<p begin="00:31:19.399" end="00:31:25.760" style="s2">como presidente nosotros veníamos del</p>
+<p begin="00:31:22.120" end="00:31:28.159" style="s2">movimiento estudiantil y lo apoyamos a</p>
+<p begin="00:31:25.760" end="00:31:30.720" style="s2">la presidencia de la República y Y</p>
+<p begin="00:31:28.159" end="00:31:34.399" style="s2">entonces ya nos conocíamos con Lázaro</p>
+<p begin="00:31:30.720" end="00:31:37.159" style="s2">desde antes por razones</p>
+<p begin="00:31:34.399" end="00:31:40.240" style="s2">casi familiares</p>
+<p begin="00:31:37.159" end="00:31:43.519" style="s2">e pero pues con el ingeniero Cárdenas</p>
+<p begin="00:31:40.240" end="00:31:46.480" style="s2">fue una decisión política de apoyarlo y</p>
+<p begin="00:31:43.519" end="00:31:49.080" style="s2">ahora en campaña pues me reuní con él</p>
+<p begin="00:31:46.480" end="00:31:50.760" style="s2">con sus hijos con quien guardo muy buena</p>
+<p begin="00:31:49.080" end="00:31:54.080" style="s2">relación y también tuve la oportunidad</p>
+<p begin="00:31:50.760" end="00:31:56.200" style="s2">de estar en Jiquilpan eh con él se lo</p>
+<p begin="00:31:54.080" end="00:31:59.720" style="s2">pregunto doctora porque ciertamente el</p>
+<p begin="00:31:56.200" end="00:32:02.440" style="s2">ingeniero fue ha sido crítico en algunas</p>
+<p begin="00:31:59.720" end="00:32:05.399" style="s2">partes contra de la actual</p>
+<p begin="00:32:02.440" end="00:32:08.240" style="s2">administración en ese sentido pues es su</p>
+<p begin="00:32:05.399" end="00:32:09.679" style="s2">posición él tiene todo el derecho a ser</p>
+<p begin="00:32:08.240" end="00:32:12.159" style="s2">crítico frente a algunas cosas</p>
+<p begin="00:32:09.679" end="00:32:15.039" style="s2">probablemente A lo mejor también tenga</p>
+<p begin="00:32:12.159" end="00:32:18.120" style="s2">en su momento alguna crítica al gobierno</p>
+<p begin="00:32:15.039" end="00:32:20.240" style="s2">Pero tenemos una buena relación y</p>
+<p begin="00:32:18.120" end="00:32:22.600" style="s2">reconocemos el papel histórico que ha</p>
+<p begin="00:32:20.240" end="00:32:25.480" style="s2">jugado el ingeniero Cárdenas en nuestro</p>
+<p begin="00:32:22.600" end="00:32:28.039" style="s2">país más allá Pues de Lázaro que sí es</p>
+<p begin="00:32:25.480" end="00:32:31.799" style="s2">su hijo pero Lázaro tiene su propia</p>
+<p begin="00:32:28.039" end="00:32:34.519" style="s2">carrera y su propia formación eh Y</p>
+<p begin="00:32:31.799" end="00:32:37.519" style="s2">tenemos pues una relación Más allá de la</p>
+<p begin="00:32:34.519" end="00:32:37.519" style="s2">relación con el ingeniero</p>
+<p begin="00:32:44.880" end="00:32:51.200" style="s2">caral la historia</p>
+<p begin="00:32:48.200" end="00:32:51.200" style="s2">se</p>
+<p begin="00:32:51.279" end="00:32:58.320" style="s2">dientes Permítame hacer una referencia</p>
+<p begin="00:32:54.000" end="00:32:58.320" style="s2">histórica porque Laura</p>
+<p begin="00:33:08.720" end="00:33:15.320" style="s2">no bueno es que son las</p>
+<p begin="00:33:12.840" end="00:33:18.760" style="s2">personas y los</p>
+<p begin="00:33:15.320" end="00:33:20.960" style="s2">intereses O sea la presidencia de Carlos</p>
+<p begin="00:33:18.760" end="00:33:22.399" style="s2">Salinas de Gortari hizo un daño terrible</p>
+<p begin="00:33:20.960" end="00:33:26.559" style="s2">a nuestro</p>
+<p begin="00:33:22.399" end="00:33:29.080" style="s2">país ahí inició la venta del patrimonio</p>
+<p begin="00:33:26.559" end="00:33:30.799" style="s2">de la nación</p>
+<p begin="00:33:29.080" end="00:33:33.039" style="s2">lo hemos manifestado en múltiples</p>
+<p begin="00:33:30.799" end="00:33:36.240" style="s2">ocasiones Entonces no tiene</p>
+<p begin="00:33:33.039" end="00:33:39.799" style="s2">absolutamente nada que ver Lázaro pues</p>
+<p begin="00:33:36.240" end="00:33:44.080" style="s2">es no solamente una persona proba sino</p>
+<p begin="00:33:39.799" end="00:33:44.080" style="s2">que siempre ha estado en el proyecto de</p>
+<p begin="00:33:44.279" end="00:33:48.559" style="s2">transformación Muchas gracias a todos y</p>
+<p begin="00:33:46.480" end="00:33:48.559" style="s2">a</p>
+<p begin="00:33:53.320" end="00:34:01.240" style="s2">todas era Bueno más de</p>
+<p begin="00:33:58.639" end="00:34:03.720" style="s2">de Protección Civil Entonces nos dejaron</p>
+<p begin="00:34:01.240" end="00:34:06.080" style="s2">ingresar hasta el último momento</p>
+<p begin="00:34:03.720" end="00:34:08.919" style="s2">trayéndonos corriendo de lado a lado y</p>
+<p begin="00:34:06.080" end="00:34:10.480" style="s2">queríamos preguntarle cuál es la razón</p>
+<p begin="00:34:08.919" end="00:34:12.639" style="s2">por qué no nos</p>
+<p begin="00:34:10.480" end="00:34:14.560" style="s2">dejar porque varios compañeros se</p>
+<p begin="00:34:12.639" end="00:34:17.639" style="s2">quedaron afuera llegamos desde las 5 de</p>
+<p begin="00:34:14.560" end="00:34:20.359" style="s2">la mañana porque la invitación decía que</p>
+<p begin="00:34:17.639" end="00:34:23.760" style="s2">habí a la hora de la entrada dijeron que</p>
+<p begin="00:34:20.359" end="00:34:23.760" style="s2">los fotógrafos no tenían</p>
+<p begin="00:34:24.720" end="00:34:31.240" style="s2">acceso pues no conozco exactamente la</p>
+<p begin="00:34:28.280" end="00:34:33.879" style="s2">el planteamiento Cómo se hizo pero como</p>
+<p begin="00:34:31.240" end="00:34:35.839" style="s2">ven es un espacio pequeño pero vamos a</p>
+<p begin="00:34:33.879" end="00:34:41.440" style="s2">hacer todo lo posible para que siempre</p>
+<p begin="00:34:35.839" end="00:34:41.440" style="s2">esté abierto a todo el que quiera entrar</p>
+<p begin="00:34:43.399" end="00:34:48.000" style="s2">gracias Sí el el jueves ya nos quedan</p>
+<p begin="00:34:46.760" end="00:34:52.839" style="s2">tres</p>
+<p begin="00:34:48.000" end="00:34:52.839" style="s2">secretarías turismo trabajo y</p>
+<p begin="00:34:54.520" end="00:35:00.079" style="s2">cultura hay</p>
+<p begin="00:34:58.000" end="00:35:03.240" style="s2">diversas reuniones internas con</p>
+<p begin="00:35:00.079" end="00:35:06.800" style="s2">distintas personas viernes trolebus</p>
+<p begin="00:35:03.240" end="00:35:09.680" style="s2">Chalco Santa Marta tren el insurgente y</p>
+<p begin="00:35:06.800" end="00:35:11.480" style="s2">tren suburbano porque Recuerden que</p>
+<p begin="00:35:09.680" end="00:35:16.720" style="s2">llega hasta</p>
+<p begin="00:35:11.480" end="00:35:20.880" style="s2">aifa el sábado plan hídrico de Tula y</p>
+<p begin="00:35:16.720" end="00:35:24.200" style="s2">vamos ir a una a un al proyecto</p>
+<p begin="00:35:20.880" end="00:35:27.760" style="s2">sembrando vida en Puebla y el domingo</p>
+<p begin="00:35:24.200" end="00:35:29.520" style="s2">educación y deporte en tlazcala</p>
+<p begin="00:35:27.760" end="00:35:31.040" style="s2">gracias gracias a todos muy bien muchas</p>
+<p begin="00:35:29.520" end="00:35:34.400" style="s2">gracias vamos a cerrar con la fotografía</p>
+<p begin="00:35:31.040" end="00:35:34.400" style="s2">oficial de esta</p>
+<p begin="00:35:56.640" end="00:35:59.640" style="s2">designación</p>
+<p begin="00:36:26.560" end="00:36:30.560" style="s2">al an</p>
+</div>
+</body>
+</tt>
