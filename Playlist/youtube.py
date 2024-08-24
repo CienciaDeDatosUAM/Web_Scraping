@@ -11,27 +11,11 @@ import calendar
 API_KEY = None
 
 def leer_token_actual(ruta_json):
-    """
-    Lee y devuelve el valor del token actual almacenado en el archivo JSON especificado. Si el token no existe, devuelve una cadena vacía.
-
-    Args:
-        ruta_json (str): La ruta al archivo JSON de donde leer el token.
-
-    Returns:
-        str: El valor del token actual. Devuelve una cadena vacía si el token no está presente.
-    """
     with open(ruta_json, 'r') as archivo_json:
         data = json.load(archivo_json)
         return data.get("tokenActual", "")
 
 def guardar_token_actual(ruta_json, token):
-    """
-    Guarda o actualiza el valor del token actual en el archivo JSON especificado. Si el archivo ya contiene un token, este se reemplaza con el nuevo valor.
-
-    Args:
-        ruta_json (str): La ruta al archivo JSON donde se guardará el token.
-        token (str): El valor del token a guardar.
-    """
     with open(ruta_json, 'r+') as archivo_json:
         data = json.load(archivo_json)
         archivo_json.seek(0)
@@ -40,39 +24,10 @@ def guardar_token_actual(ruta_json, token):
         archivo_json.truncate() 
         
 def verificar_token(ruta_json):
-    """
-    Verifica si existe un token actual en el archivo JSON especificado. Devuelve verdadero si hay un token, falso si el token está vacío o no existe.
-
-    Args:
-        ruta_json (str): La ruta al archivo JSON que contiene el token a verificar.
-
-    Returns:
-        bool: Verdadero si existe un token, falso en caso contrario.
-    """
     token_actual = leer_token_actual(ruta_json)
     return bool(token_actual)
 
 def buscar_videos_playlist(playlistID: str, fecha_inicio: str, fecha_fin: str, ruta_json: str, max_results: int = 20):
-    """
-    Realiza una búsqueda de videos dentro de una lista de reproducción de YouTube especificada, filtrando los resultados por 
-    un rango de fechas dado. Guarda el token de la próxima página para permitir la continuación de la búsqueda en solicitudes 
-    futuras. Retorna un diccionario con información detallada de los videos que coinciden con el criterio de búsqueda, 
-    incluyendo la fecha de publicación y el ID del video.
-
-    Args:
-        playlistID (str): El ID de la lista de reproducción de YouTube de la cual obtener los videos.
-        fecha_inicio (str): La fecha de inicio del intervalo de búsqueda, en formato ISO.
-        fecha_fin (str): La fecha de fin del intervalo de búsqueda, en formato ISO.
-        ruta_json (str): La ruta al archivo JSON donde se guarda el token de la página actual de resultados.
-        max_results (int, opcional): El número máximo de resultados que se deben retornar por página. Por defecto, es 20.
-
-    Raises:
-        ValueError: Se lanza si hay un problema en la solicitud a la API de YouTube, detallando el mensaje de error y la razón.
-
-    Returns:
-        dict: Un diccionario con los videos encontrados que cumplen con el criterio de búsqueda, donde cada entrada contiene la 
-        fecha de publicación del video y su ID. El orden de los videos se basa en su posición en la lista de reproducción.
-    """
     fecha_inicio_datetime = datetime.fromisoformat(fecha_inicio.rstrip('Z'))
     fecha_fin_datetime = datetime.fromisoformat(fecha_fin.rstrip('Z'))
     info_videos = {}
@@ -120,20 +75,6 @@ def buscar_videos_playlist(playlistID: str, fecha_inicio: str, fecha_fin: str, r
     return info_videos
 
 def obtener_comentarios(video_ids: list[dict], out_dir: str):
-    """
-    Recupera y guarda en formato JSON los comentarios de múltiples videos de YouTube, utilizando una lista de diccionarios que contienen 
-    los IDs de los videos y sus fechas de publicación. Los archivos se organizan en directorios nombrados según la fecha de publicación 
-    de cada video, bajo un directorio principal comentarios. Si la información del video no se puede obtener o si hay un fallo en la 
-    solicitud de comentarios, se interrumpe el proceso para ese video y se lanza un ValueError.
-
-    Args:
-        video_ids (list[dict]): Lista de diccionarios con el ID de cada video y su fecha de publicación.
-        out_dir (str): Directorio base donde se guardarán los archivos de comentarios.
-
-    Raises:
-        ValueError: Se lanza si no se puede obtener la información de un video o si hay un error en la solicitud de comentarios, indicando 
-        el ID del video y el error específico.
-    """
     comentarios_dir = os.path.join(out_dir, "comentarios")
     os.makedirs(comentarios_dir, exist_ok=True)
 
@@ -178,23 +119,8 @@ def obtener_comentarios(video_ids: list[dict], out_dir: str):
 
         with open(json_file_path, 'w', encoding='utf-8') as json_file:
             json.dump(info_json, json_file, ensure_ascii=False, indent=4)
-            
-            
-
+                       
 def descargar_subtitulos(video_ids: list[dict], out_dir: str):
-    """
-    Descarga subtítulos automáticos en español para una lista de videos de YouTube, almacenando los archivos en un 
-    directorio organizado por la fecha de publicación de cada video. Crea los directorios necesarios si no existen y 
-    configura las opciones para obtener solo subtítulos en formato TTML y en español, sin descargar los videos. 
-    Lanza un ValueError si ocurre un error durante la descarga de algún subtítulo.
-
-    Args:
-        video_ids (list[dict]): Lista de diccionarios, cada uno conteniendo el ID del video y su fecha de publicación.
-        out_dir (str): Ruta base para los directorios de salida, donde se guardarán los subtítulos.
-
-    Raises:
-        ValueError: Informa fallos en la descarga de subtítulos, indicando el video específico y el error ocurrido.
-    """
     raw_output = os.path.join(out_dir, "raw")
     if not os.path.exists(raw_output):
         os.makedirs(raw_output)
@@ -222,22 +148,7 @@ def descargar_subtitulos(video_ids: list[dict], out_dir: str):
             except Exception as e:
                 raise ValueError(f"No se pudo descargar el video {value}: {e}")
 
-
 def limpiar_subtitulos(video_ids: list[dict], out_dir: str):
-    """
-    Itera sobre la lista de IDs para procesar y limpiar subtítulos basándose en sus fechas de publicación, 
-    guardando los resultados en formato JSON dentro de directorios organizados por fecha en el directorio 
-    proporcionado. Cada subtítulo limpio se almacena junto con metadatos del video correspondiente. Si falla 
-    al obtener información del video o al procesar subtítulos, lanza ValueError.
-
-    Args:
-        video_ids (list[dict]): Información de los videos, incluidos IDs y fechas de publicación.
-        out_dir (str): Ruta base para directorios de entrada y salida.
-    
-    Raises:
-        ValueError: Por problemas al obtener información de videos o al procesar subtítulos.
-    """
-    
     raw_output = os.path.join(out_dir, "raw")
 
     for key, value in video_ids.items():
@@ -272,24 +183,8 @@ def limpiar_subtitulos(video_ids: list[dict], out_dir: str):
                     json.dump(info_json, json_file, ensure_ascii=False, indent=4)
             else:
                 raise ValueError(f"No se pudo obtener la información para el video {video_id}.")
-
-
         
 def obtener_info_fechas_video(video_id: str):
-    """
-    Obtiene la fecha de publicación y el nombre del canal de un video de YouTube por su ID. 
-    Registra también la fecha y hora de la consulta. Si no se encuentra el video, retorna None. 
-    Si hay un error en el procesamiento de la fecha, lanza ValueError.
-
-    Args:
-        video_id (str): El ID del video de YouTube.
-
-    Raises:
-        ValueError: Si hay un problema al procesar la fecha de publicación.
-    
-    Returns:
-        dict | None: Diccionario con fecha y hora de publicación y recolección, y nombre del canal, o None si el video no existe.
-    """
     youtube = build('youtube', 'v3', developerKey=API_KEY)
     response = youtube.videos().list(
         part='snippet',
@@ -321,25 +216,8 @@ def obtener_info_fechas_video(video_id: str):
     } 
     
     return info_json
- 
 
 def crear_ruta_playlist(playlistID: str):
-    """
-    Crea un directorio específico basado en el título de una lista de reproducción y su canal correspondiente en YouTube. 
-    Realiza una solicitud a la API de YouTube utilizando el ID de la lista de reproducción para obtener estos títulos y, 
-    con ellos, estructura y crea un directorio donde se puede almacenar información relevante. Si la solicitud a la API 
-    falla por cualquier razón o si la respuesta no contiene los datos esperados, lanza un error indicando el problema específico.
-
-    Args:
-        playlistID (str): El ID único de la lista de reproducción de YouTube.
-
-    Raises:
-        ValueError: Se lanza si la solicitud a la API de YouTube falla, indicando el código de estado de la respuesta, 
-                    o si la respuesta no contiene datos de la lista de reproducción, indicando que no se encontraron datos.
-    
-    Returns:
-        str: La ruta del directorio creado para almacenar información del canal y de la lista de reproducción.
-    """
     params = {
         "key": API_KEY,
         "part": "snippet",
@@ -369,18 +247,7 @@ def crear_ruta_playlist(playlistID: str):
     else:
         raise ValueError("No se encontraron datos para la lista de reproducción proporcionada.")
 
-
 def construir_ruta_fecha(fecha_publicacion, base_dir):
-    """
-    Construye una ruta de directorio a partir de una fecha de publicación y un directorio base, organizando la estructura por año y mes.
-
-    Args:
-        fecha_publicacion (datetime): La fecha de publicación del contenido.
-        base_dir (str): El directorio base para construir la ruta.
-
-    Returns:
-        str: La ruta completa construida con la fecha de publicación.
-    """
     año = fecha_publicacion.strftime('%Y')
     mes_nombre = calendar.month_name[int(fecha_publicacion.strftime('%m'))]
     ruta_año_mes = os.path.join(base_dir, año, mes_nombre)
@@ -388,21 +255,6 @@ def construir_ruta_fecha(fecha_publicacion, base_dir):
     return ruta_fecha_completa
 
 def leer_playlists_desde_json(ruta_archivo, ids_playlist):
-    """
-    Carga y filtra datos de videos desde un archivo JSON según IDs específicos. Retorna todos los videos si se especifica 'All'; 
-    en caso contrario, aplica el filtro por los IDs dados. No admite la combinación de 'All' con otros IDs. Requiere que el JSON 
-    contenga una 'llave' global y una lista de videos bajo 'campos'.
-
-    Args:
-        ruta_archivo (str): Ruta al archivo JSON.
-        ids_videos (list[str] | str): IDs de videos a filtrar o "All" para todos.
-
-    Raises:
-        ValueError: Si "All" se combina con otros IDs o si la 'llave' en el archivo JSON está ausente o es inválida.
-
-    Returns:
-        tuple: (llave, videos_filtrados) donde `llave` es una cadena y `videos_filtrados` es una lista de diccionarios.
-    """
     with open(ruta_archivo, 'r', encoding='utf-8') as archivo:
         data = json.load(archivo)
 
@@ -423,19 +275,7 @@ def leer_playlists_desde_json(ruta_archivo, ids_playlist):
         playlists_filtradas = [playlist for playlist in playlists if playlist["idPlaylist"] in ids_playlist]
         return llave, playlists_filtradas
 
-
 def validar_y_ajustar_fechas(fecha_inicio_str, fecha_fin_str):
-    """
-    Valida y ajusta las fechas de inicio y fin para asegurar que la diferencia entre ellas no sea mayor de 7 días. Si la 
-    fecha de inicio es posterior a la fecha de fin, devuelve `None` para ambas fechas.
-
-    Args:
-        fecha_inicio_str (str): Fecha de inicio en formato ISO.
-        fecha_fin_str (str): Fecha de fin en formato ISO.
-
-    Returns:
-        tuple: Fechas ajustadas en formato ISO o `None` para ambas si la fecha de inicio es posterior a la fecha de fin.
-    """
     fecha_inicio = datetime.fromisoformat(fecha_inicio_str.rstrip('Z'))
     fecha_fin = datetime.fromisoformat(fecha_fin_str.rstrip('Z'))
 
@@ -452,18 +292,6 @@ def validar_y_ajustar_fechas(fecha_inicio_str, fecha_fin_str):
         return fecha_inicio_str, fecha_fin_str
 
 def obtener_fechas(fecha_inicio_str, fecha_fin_str, fecha_unica_str):
-    """
-    Determina y ajusta las fechas de inicio y fin basándose en los parámetros proporcionados. Gestiona casos para un 
-    rango de fechas, una fecha única, o fechas predeterminadas basadas en la fecha actual.
-
-    Args:
-        fecha_inicio_str (str): Fecha de inicio en formato ISO.
-        fecha_fin_str (str): Fecha de fin en formato ISO.
-        fecha_unica_str (str): Una única fecha en formato ISO.
-
-    Returns:
-        tuple: Las fechas de inicio y fin ajustadas según la lógica de validación y ajuste en formato ISO.
-    """
     global fechaInicio, fechaFin
 
     if fecha_inicio_str is not None and fecha_fin_str is not None and fecha_unica_str is None:
@@ -526,8 +354,6 @@ def main():
 
     except ValueError as e:
         print(e)
-
-    
 
 if __name__ == "__main__":
     main()

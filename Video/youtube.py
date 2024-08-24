@@ -10,20 +10,6 @@ from datetime import datetime  # Para trabajar con fechas y horas
 API_KEY = None  # Clave API, por ejemplo, para utilizar las APIs de Google
 
 def obtener_comentarios(video_id, out_dir):
-    """
-    Recupera los comentarios de un video de YouTube y los guarda en formato JSON en el directorio especificado, organizándolos 
-    bajo un subdirectorio comentarios. El nombre del archivo JSON se deriva del título del video, limpiado para asegurar compatibilidad 
-    de nombres de archivo. Si no puede obtenerse la información del video o falla la solicitud de comentarios, se lanza un ValueError 
-    con detalles del problema.
-
-    Args:
-        video_id (str): El ID único del video de YouTube cuyos comentarios se quieren obtener.
-        out_dir (str): Ruta base para los archivos de salida.
-
-    Raises:
-        ValueError: Indica fallos al obtener la información del video con el ID proporcionado o errores en la solicitud a la API de 
-        YouTube para obtener los comentarios de un video.
-    """
     comentarios_dir = os.path.join(out_dir, "comentarios")
     os.makedirs(comentarios_dir, exist_ok=True)
 
@@ -64,20 +50,7 @@ def obtener_comentarios(video_id, out_dir):
     with open(json_file_path, 'w', encoding='utf-8') as json_file:
         json.dump(info_json, json_file, ensure_ascii=False, indent=4)
 
-
 def descargar_subtitulos(video_id, out_dir):
-    """
-    Descarga subtítulos automáticos en español de un video de YouTube, almacenándolos en el directorio proporcionado 
-    bajo un subdirectorio raw. Crea el directorio si no existe. Actualiza las opciones de descarga para incluir solo 
-    subtítulos automáticos en formato TTML y lenguaje español, sin descargar el video. Genera un error si la descarga falla.
-
-    Args:
-        ID del video (str): Identificador único de YouTube para el video objetivo.
-        Directorio proporcionado (str): Ruta base para almacenar los subtítulos descargados.
-
-    Raises:
-        ValueError: Se lanza si la descarga de subtítulos falla, proporcionando el ID del video y detalles del error.
-    """
 
     raw_output = os.path.join(out_dir, "raw")
     if not os.path.exists(raw_output):
@@ -100,21 +73,7 @@ def descargar_subtitulos(video_id, out_dir):
         except Exception as e:
             raise ValueError(f"No se pudo descargar el video {video_id}: {e}")
 
-
 def limpiar_subtitulos(video_id, out_dir):
-    """
-    Encuentra y procesa el subtítulo con extensión `es.ttml` del ID especificado dentro del directorio 
-    proporcionado, extrayendo el texto limpio y los metadatos relevantes. El resultado se almacena en un 
-    archivo JSON dentro de un subdirectorio clean del directorio proporcionado. Genera un error ValueError 
-    si no encuentra exactamente un archivo correspondiente o si ocurre un error durante el procesamiento.
-
-    Args:
-        video_id (str): Identificador del video.
-        out_dir (str): Directorio proporcionado para los archivos de entrada y salida.
-    
-    Raises:
-        ValueError: Se produce por archivo no encontrado o error en el procesamiento.
-    """
     raw_output = os.path.join(out_dir, "raw")
     clean_output = os.path.join(out_dir, "clean")
 
@@ -152,20 +111,6 @@ def limpiar_subtitulos(video_id, out_dir):
         raise ValueError(f"Ocurrió un error al procesar el archivo: {e}")
         
 def obtener_info_fechas_video(video_id: str):
-    """
-    Obtiene la fecha de publicación y el nombre del canal de un video de YouTube por su ID. 
-    Registra también la fecha y hora de la consulta. Si no se encuentra el video, retorna None. 
-    Si hay un error en el procesamiento de la fecha, lanza ValueError.
-
-    Args:
-        video_id (str): El ID del video de YouTube.
-
-    Returns:
-        dict | None: Diccionario con fecha y hora de publicación y recolección, y nombre del canal, o None si el video no existe.
-
-    Raises:
-        ValueError: Si hay un problema al procesar la fecha de publicación.
-    """
     youtube = build('youtube', 'v3', developerKey=API_KEY)
     response = youtube.videos().list(
         part='snippet',
@@ -199,21 +144,7 @@ def obtener_info_fechas_video(video_id: str):
     return info_json
 
 def leer_lista_videos_desde_json(ruta_archivo, ids_videos):
-    """
-    Carga y filtra datos de videos desde un archivo JSON según IDs específicos. Retorna todos los videos si se especifica 'All'; 
-    en caso contrario, aplica el filtro por los IDs dados. No admite la combinación de 'All' con otros IDs. Requiere que el JSON 
-    contenga una 'llave' global y una lista de videos bajo 'campos'.
 
-    Args:
-        ruta_archivo (str): Ruta al archivo JSON.
-        ids_videos (list[str] | str): IDs de videos a filtrar o "All" para todos.
-
-    Raises:
-        ValueError: Si "All" se combina con otros IDs o si la 'llave' en el archivo JSON está ausente o es inválida.
-
-    Returns:
-        tuple: (llave, videos_filtrados) donde `llave` es una cadena y `videos_filtrados` es una lista de diccionarios.
-    """
     with open(ruta_archivo, 'r', encoding='utf-8') as archivo:
         data = json.load(archivo)
 
@@ -235,7 +166,6 @@ def leer_lista_videos_desde_json(ruta_archivo, ids_videos):
 
         return llave, videos_filtrados
 
-
 def main():
     global API_KEY
     ruta_archivo_json = './videos.json'
@@ -251,9 +181,7 @@ def main():
             obtener_comentarios(video["idVideo"], "./Youtube")
 
     except ValueError as e:
-        print(e)
-
-    
+        print(e)   
 
 if __name__ == "__main__":
     main()
