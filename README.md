@@ -63,17 +63,10 @@ Antes de ejecutar el proyecto, es necesario instalar **Docker**. Docker permite 
      - Una vez conectado, puedes utilizar la terminal dentro de VSCode para ejecutar comandos dentro del contenedor, como si estuvieras trabajando directamente en el entorno del contenedor.
 
 
-5. **Navegar Dentro del Contenedor**:
-   - Dentro de la terminal de VSCode, utiliza el comando `cd` para moverte a la carpeta que contenga el script que deseas ejecutar. Esto podría ser una de las siguientes: `Canal`, `Playlist`, o `Video`.
-   - Ejemplo:
+5. **Ejecutar el Script**:
+   - Una vez en la carpeta correcta, ejecuta el archivo `video.py` , `playlist.py` o `canal.py`con el siguiente comando:
      ```bash
-     cd Video
-     ```
-
-6. **Ejecutar el Script**:
-   - Una vez en la carpeta correcta, ejecuta el archivo `youtube.py` con el siguiente comando:
-     ```bash
-     python3 youtube.py
+     python3 video.py
      ```
    - Este comando iniciará la ejecución del script, y deberías comenzar a ver resultados en la terminal.
 
