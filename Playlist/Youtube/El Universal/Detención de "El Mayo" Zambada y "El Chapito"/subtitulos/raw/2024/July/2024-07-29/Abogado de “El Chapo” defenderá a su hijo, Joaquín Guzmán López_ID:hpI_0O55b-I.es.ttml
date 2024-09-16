@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="es" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:04.120" style="s2">Jeffrey lichman conocido como el abogado</p>
+<p begin="00:00:02.280" end="00:00:06.080" style="s2">de la familia del Chapo es quien</p>
+<p begin="00:00:04.120" end="00:00:08.360" style="s2">defenderá en la corte a Joaquín Guzmán</p>
+<p begin="00:00:06.080" end="00:00:09.960" style="s2">López hijo de Joaquín Guzmán Loera y</p>
+<p begin="00:00:08.360" end="00:00:12.080" style="s2">detenido el pasado jueves en el</p>
+<p begin="00:00:09.960" end="00:00:14.400" style="s2">aeropuerto de Santa Teresa Nuevo México</p>
+<p begin="00:00:12.080" end="00:00:16.320" style="s2">cerca del Paso Texas lichman confirmó a</p>
+<p begin="00:00:14.400" end="00:00:17.920" style="s2">medios estadounidenses que estará con él</p>
+<p begin="00:00:16.320" end="00:00:19.320" style="s2">en la corte el martes en Chicago</p>
+<p begin="00:00:17.920" end="00:00:21.240" style="s2">aludiendo a la comparecencia que</p>
+<p begin="00:00:19.320" end="00:00:23.720" style="s2">sostendrá Joaquín Guzmán programada para</p>
+<p begin="00:00:21.240" end="00:00:25.680" style="s2">las 11 horas locales Guzmán fue detenido</p>
+<p begin="00:00:23.720" end="00:00:27.480" style="s2">junto a Ismael El Mayo Zambada quien</p>
+<p begin="00:00:25.680" end="00:00:30.119" style="s2">hasta ahora había eludido a las</p>
+<p begin="00:00:27.480" end="00:00:32.320" style="s2">autoridades de acuerdo con el abogado de</p>
+<p begin="00:00:30.119" end="00:00:34.399" style="s2">mayo Frank Pérez Guzmán traicionó a</p>
+<p begin="00:00:32.320" end="00:00:36.399" style="s2">Zambada aseguró que su Cliente no se</p>
+<p begin="00:00:34.399" end="00:00:38.280" style="s2">entregó ni negoció ninguna condición con</p>
+<p begin="00:00:36.399" end="00:00:40.320" style="s2">el gobierno de Estados Unidos sino que</p>
+<p begin="00:00:38.280" end="00:00:42.000" style="s2">Joaquín Guzmán López lo secuestró el</p>
+<p begin="00:00:40.320" end="00:00:44.559" style="s2">abogado detalló que Zambada quien</p>
+<p begin="00:00:42.000" end="00:00:46.160" style="s2">actualmente tiene 76 años fue arrojado a</p>
+<p begin="00:00:44.559" end="00:00:48.160" style="s2">la parte trasera de una camioneta</p>
+<p begin="00:00:46.160" end="00:00:50.239" style="s2">obligado a subir a un avión y atado al</p>
+<p begin="00:00:48.160" end="00:00:52.640" style="s2">asiento por el mismo Guzmán López</p>
+<p begin="00:00:50.239" end="00:00:55.840" style="s2">consultado al respecto lichman dijo al</p>
+<p begin="00:00:52.640" end="00:00:57.840" style="s2">diario usa today que Zambada es libre de</p>
+<p begin="00:00:55.840" end="00:01:00.000" style="s2">emplear cualquier defensa que considere</p>
+<p begin="00:00:57.840" end="00:01:02.039" style="s2">oportuna para defenderse de los cargos</p>
+<p begin="00:01:00.000" end="00:01:03.920" style="s2">el diario detalló Cómo transcurrió el</p>
+<p begin="00:01:02.039" end="00:01:06.080" style="s2">arresto de los líderes del Cártel de</p>
+<p begin="00:01:03.920" end="00:01:07.799" style="s2">Sinaloa citando a un piloto cuyo nombre</p>
+<p begin="00:01:06.080" end="00:01:09.000" style="s2">prefirió no dar a conocer pero que</p>
+<p begin="00:01:07.799" end="00:01:10.799" style="s2">estaba en el aeropuerto cuando</p>
+<p begin="00:01:09.000" end="00:01:12.880" style="s2">ocurrieron las detenciones en el</p>
+<p begin="00:01:10.799" end="00:01:15.080" style="s2">interior de la aeronave se encontraron</p>
+<p begin="00:01:12.880" end="00:01:17.520" style="s2">papas fritas gansitos y cinchos de</p>
+<p begin="00:01:15.080" end="00:01:20.159" style="s2">plástico sin usar en una</p>
+<p begin="00:01:17.520" end="00:01:25.479" style="s2">bolsa mantente informado con El</p>
+<p begin="00:01:20.159" end="00:01:25.479" style="s2">Universal y suscríbete a nuestro canal</p>
+</div>
+</body>
+</tt>

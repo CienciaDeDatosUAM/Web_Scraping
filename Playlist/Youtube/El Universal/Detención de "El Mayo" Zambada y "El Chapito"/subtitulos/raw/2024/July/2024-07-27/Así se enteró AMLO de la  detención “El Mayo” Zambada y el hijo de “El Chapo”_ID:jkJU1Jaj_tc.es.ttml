@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="es" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.040" end="00:00:04.120" style="s2">Rosa Isela Rodríguez titular de la</p>
+<p begin="00:00:02.080" end="00:00:06.200" style="s2">secretaria de seguridad informó la</p>
+<p begin="00:00:04.120" end="00:00:08.000" style="s2">cronología de cómo el gobierno mexicano</p>
+<p begin="00:00:06.200" end="00:00:09.719" style="s2">se enteró de la entrega o captura de</p>
+<p begin="00:00:08.000" end="00:00:11.679" style="s2">Ismael el mayayo Zambada y Joaquín</p>
+<p begin="00:00:09.719" end="00:00:13.880" style="s2">Guzmán López en Estados Unidos y</p>
+<p begin="00:00:11.679" end="00:00:17.680" style="s2">difundió imágenes inéditas de estos dos</p>
+<p begin="00:00:13.880" end="00:00:22.680" style="s2">líderes del Cártel de Sinaloa sobre las</p>
+<p begin="00:00:17.680" end="00:00:25.679" style="s2">detenciones de Ismael El Mayo Zambada y</p>
+<p begin="00:00:22.680" end="00:00:30.880" style="s2">Joaquín Guzmán</p>
+<p begin="00:00:25.679" end="00:00:32.279" style="s2">López ayer a las 15:30 horas Se recibió</p>
+<p begin="00:00:30.880" end="00:00:35.719" style="s2">en la Secretaría de Seguridad y</p>
+<p begin="00:00:32.279" end="00:00:39.239" style="s2">protección ciudadana una una llamada de</p>
+<p begin="00:00:35.719" end="00:00:43.879" style="s2">la embajada de los Estados Unidos en</p>
+<p begin="00:00:39.239" end="00:00:47.879" style="s2">México donde se informó que Ismael El</p>
+<p begin="00:00:43.879" end="00:00:50.800" style="s2">Mayo Zambada y Joaquín Guzmán López se</p>
+<p begin="00:00:47.879" end="00:00:55.120" style="s2">encontraban bajo custodia de las</p>
+<p begin="00:00:50.800" end="00:00:57.359" style="s2">autoridades en El Paso Texas en una</p>
+<p begin="00:00:55.120" end="00:01:00.559" style="s2">segunda llamada indicó la funcionaria a</p>
+<p begin="00:00:57.359" end="00:01:02.440" style="s2">las 15:45 horas la embajada confirmó la</p>
+<p begin="00:01:00.559" end="00:01:04.880" style="s2">información y se reiteró que se tenía</p>
+<p begin="00:01:02.440" end="00:01:07.320" style="s2">comprobada la identidad de las dos</p>
+<p begin="00:01:04.880" end="00:01:10.280" style="s2">personas desde la Secretaría de</p>
+<p begin="00:01:07.320" end="00:01:12.799" style="s2">Seguridad se solicitó una</p>
+<p begin="00:01:10.280" end="00:01:14.119" style="s2">fotografía para informar a la</p>
+<p begin="00:01:12.799" end="00:01:17.880" style="s2">superioridad</p>
+<p begin="00:01:14.119" end="00:01:21.560" style="s2">eh A lo que la embajada comentó haber</p>
+<p begin="00:01:17.880" end="00:01:23.960" style="s2">visto ya las imágenes de ambas personas</p>
+<p begin="00:01:21.560" end="00:01:27.490" style="s2">mediante un video</p>
+<p begin="00:01:23.960" end="00:01:28.560" style="s2">tomado en las oficinas del gobierno</p>
+<p begin="00:01:27.490" end="00:01:31.960" style="s2">[Música]</p>
+<p begin="00:01:28.560" end="00:01:35.200" style="s2">estadounidense se se pidió la imagen</p>
+<p begin="00:01:31.960" end="00:01:39.280" style="s2">para dar el reporte completo y la</p>
+<p begin="00:01:35.200" end="00:01:43.399" style="s2">información completa y se comentó ahí</p>
+<p begin="00:01:39.280" end="00:01:45.479" style="s2">que se pediría el apoyo al FBI y a las</p>
+<p begin="00:01:43.399" end="00:01:48.600" style="s2">otras agencias que estaban interviniendo</p>
+<p begin="00:01:45.479" end="00:01:50.600" style="s2">en el caso Rosa Isela Rodríguez señaló</p>
+<p begin="00:01:48.600" end="00:01:52.079" style="s2">que tras recibir la información se tuvo</p>
+<p begin="00:01:50.600" end="00:01:54.240" style="s2">comunicación con los secretarios de</p>
+<p begin="00:01:52.079" end="00:01:56.119" style="s2">Marina y defensa coincidiendo en que los</p>
+<p begin="00:01:54.240" end="00:01:58.119" style="s2">tres Ya habían sido informados que los</p>
+<p begin="00:01:56.119" end="00:02:00.039" style="s2">dos integrantes del Cártel de Sinaloa se</p>
+<p begin="00:01:58.119" end="00:02:02.719" style="s2">encontraban bajo custodia del gobierno</p>
+<p begin="00:02:00.039" end="00:02:06.079" style="s2">de Estados Unidos inmediatamente se</p>
+<p begin="00:02:02.719" end="00:02:08.520" style="s2">informó al presidente de México sobre lo</p>
+<p begin="00:02:06.079" end="00:02:12.120" style="s2">confirmado por la Embajada de Estados</p>
+<p begin="00:02:08.520" end="00:02:16.360" style="s2">Unidos y con las fotos</p>
+<p begin="00:02:12.120" end="00:02:19.760" style="s2">respectivas que habían eh proporcionado</p>
+<p begin="00:02:16.360" end="00:02:23.080" style="s2">al gobierno de México a las</p>
+<p begin="00:02:19.760" end="00:02:26.599" style="s2">eh más tarde la Embajada de Estados</p>
+<p begin="00:02:23.080" end="00:02:28.840" style="s2">Unidos confirmó la información y señaló</p>
+<p begin="00:02:26.599" end="00:02:32.319" style="s2">que ya se había hecho incluso la</p>
+<p begin="00:02:28.840" end="00:02:34.760" style="s2">verificación de eh huellas dactilares</p>
+<p begin="00:02:32.319" end="00:02:37.319" style="s2">mismas que dieron positivo a la</p>
+<p begin="00:02:34.760" end="00:02:40.200" style="s2">identidad de ambas personas señaladas</p>
+<p begin="00:02:37.319" end="00:02:42.519" style="s2">como líderes de esta organización</p>
+<p begin="00:02:40.200" end="00:02:45.360" style="s2">delictiva del Cártel de</p>
+<p begin="00:02:42.519" end="00:02:47.159" style="s2">Sinaloa hasta las 18 horas el gobierno</p>
+<p begin="00:02:45.360" end="00:02:49.319" style="s2">de México recibió imágenes de los</p>
+<p begin="00:02:47.159" end="00:02:51.879" style="s2">narcotraficantes que se encontraban bajo</p>
+<p begin="00:02:49.319" end="00:02:54.879" style="s2">custodia en El Paso Texas el fiscal</p>
+<p begin="00:02:51.879" end="00:02:58.400" style="s2">general de Estados Unidos merry Garland</p>
+<p begin="00:02:54.879" end="00:03:02.840" style="s2">emitió un comunicado en el que destacó</p>
+<p begin="00:02:58.400" end="00:03:08.319" style="s2">el arresto de eh Ismael Zambada y de</p>
+<p begin="00:03:02.840" end="00:03:13.239" style="s2">Joaquín Guzmán López eh conocido</p>
+<p begin="00:03:08.319" end="00:03:15.920" style="s2">el el comunicado e en la opinión pública</p>
+<p begin="00:03:13.239" end="00:03:18.599" style="s2">decir que en la comunicación con la</p>
+<p begin="00:03:15.920" end="00:03:23.040" style="s2">fiscalía general de la república</p>
+<p begin="00:03:18.599" end="00:03:26.519" style="s2">e solamente aquí no hemos aún nos falta</p>
+<p begin="00:03:23.040" end="00:03:31.560" style="s2">de ver las otras fiscalías estatales</p>
+<p begin="00:03:26.519" end="00:03:35.000" style="s2">eh el Señor Ismael el Zambada tiene</p>
+<p begin="00:03:31.560" end="00:03:37.159" style="s2">cuatro órdenes de pensión vigentes por</p>
+<p begin="00:03:35.000" end="00:03:42.000" style="s2">delincuencia organizada delitos contra</p>
+<p begin="00:03:37.159" end="00:03:44.640" style="s2">la salud y en materia de armas en</p>
+<p begin="00:03:42.000" end="00:03:50.040" style="s2">México mantente informado con El</p>
+<p begin="00:03:44.640" end="00:03:50.040" style="s2">Universal y suscríbete a nuestro canal</p>
+</div>
+</body>
+</tt>

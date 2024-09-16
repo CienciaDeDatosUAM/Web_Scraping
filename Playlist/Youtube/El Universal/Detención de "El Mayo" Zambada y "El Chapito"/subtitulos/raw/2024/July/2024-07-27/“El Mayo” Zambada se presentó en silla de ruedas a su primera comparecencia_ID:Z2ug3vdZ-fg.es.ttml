@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="es" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.040" end="00:00:04.880" style="s2">Ismael El Mayo Zambada cofundador del</p>
+<p begin="00:00:02.360" end="00:00:06.919" style="s2">Cártel de Sinaloa y detenido el 25 de</p>
+<p begin="00:00:04.880" end="00:00:09.080" style="s2">Julio tuvo que usar una silla de ruedas</p>
+<p begin="00:00:06.919" end="00:00:11.519" style="s2">en una parte de su primera comparecencia</p>
+<p begin="00:00:09.080" end="00:00:13.719" style="s2">en El Paso Texas en la que se declaró No</p>
+<p begin="00:00:11.519" end="00:00:16.000" style="s2">culpable de los cargos por narcotráfico</p>
+<p begin="00:00:13.719" end="00:00:18.199" style="s2">y lavado de dinero la jueza pidió poner</p>
+<p begin="00:00:16.000" end="00:00:19.960" style="s2">a Zambada en una silla y bajar del podio</p>
+<p begin="00:00:18.199" end="00:00:22.119" style="s2">en la que se transportaba por lo que el</p>
+<p begin="00:00:19.960" end="00:00:24.039" style="s2">abogado del Mayo explicó que su cliente</p>
+<p begin="00:00:22.119" end="00:00:25.920" style="s2">solo podía estar ahí un par de minutos</p>
+<p begin="00:00:24.039" end="00:00:28.039" style="s2">por su estado de salud la agencia</p>
+<p begin="00:00:25.920" end="00:00:30.160" style="s2">antidrogas de Estados Unidos ya había</p>
+<p begin="00:00:28.039" end="00:00:32.000" style="s2">explicado que el Mayo no gozaba de buen</p>
+<p begin="00:00:30.160" end="00:00:34.960" style="s2">salud y que el liderazgo de la facción</p>
+<p begin="00:00:32.000" end="00:00:37.040" style="s2">que encabezaba estaba en duda la jueza a</p>
+<p begin="00:00:34.960" end="00:00:38.879" style="s2">t Burton Indicó que no hay posibilidad</p>
+<p begin="00:00:37.040" end="00:00:40.600" style="s2">de fijar una fianza para el caso de</p>
+<p begin="00:00:38.879" end="00:00:42.800" style="s2">Zambada El Mayo uno de los</p>
+<p begin="00:00:40.600" end="00:00:44.760" style="s2">narcotraficantes más poderosos de México</p>
+<p begin="00:00:42.800" end="00:00:47.079" style="s2">continúa bajo la custodia de autoridades</p>
+<p begin="00:00:44.760" end="00:00:49.160" style="s2">estadounidenses en Texas y se declaró No</p>
+<p begin="00:00:47.079" end="00:00:51.079" style="s2">culpable de los delitos de narcotráfico</p>
+<p begin="00:00:49.160" end="00:00:53.520" style="s2">y lavado de dinero que le imputa la</p>
+<p begin="00:00:51.079" end="00:00:55.600" style="s2">justicia Federal de dicho estado El capo</p>
+<p begin="00:00:53.520" end="00:00:57.160" style="s2">comparecerá el próximo primero de agosto</p>
+<p begin="00:00:55.600" end="00:00:59.519" style="s2">ante la jueza Federal de distrito</p>
+<p begin="00:00:57.160" end="00:01:03.280" style="s2">caitlyn cardone que supervisará el caso</p>
+<p begin="00:00:59.519" end="00:01:03.280" style="s2">en tribunal Federal del</p>
+<p begin="00:01:03.680" end="00:01:11.640" style="s2">paso mantente informado con El Universal</p>
+<p begin="00:01:07.119" end="00:01:11.640" style="s2">y suscríbete a nuestro canal</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="es" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.080" end="00:00:03.600" style="s2">el departamento estadounidense de</p>
+<p begin="00:00:01.680" end="00:00:06.040" style="s2">Justicia confirmó la tarde de este</p>
+<p begin="00:00:03.600" end="00:00:08.360" style="s2">jueves 25 de Julio El arresto de los</p>
+<p begin="00:00:06.040" end="00:00:11.040" style="s2">presuntos líderes del Cártel de Sinaloa</p>
+<p begin="00:00:08.360" end="00:00:13.040" style="s2">Ismael Zambada García El Mayo y Joaquín</p>
+<p begin="00:00:11.040" end="00:00:15.280" style="s2">Guzmán López a través de un comunicado</p>
+<p begin="00:00:13.040" end="00:00:17.439" style="s2">el fiscal general de Estados Unidos Mary</p>
+<p begin="00:00:15.280" end="00:00:19.840" style="s2">carlan señaló que el departamento de</p>
+<p begin="00:00:17.439" end="00:00:21.680" style="s2">Justicia ha puesto bajo custodia a otros</p>
+<p begin="00:00:19.840" end="00:00:24.000" style="s2">dos presuntos líderes del Cártel de</p>
+<p begin="00:00:21.680" end="00:00:25.840" style="s2">Sinaloa una de las organizaciones de</p>
+<p begin="00:00:24.000" end="00:00:27.960" style="s2">narcotraficantes más violentas y</p>
+<p begin="00:00:25.840" end="00:00:30.439" style="s2">poderosas del mundo Ismael Zambada</p>
+<p begin="00:00:27.960" end="00:00:32.680" style="s2">García o el mayo cofundador de el cártel</p>
+<p begin="00:00:30.439" end="00:00:35.079" style="s2">y Joaquín Guzmán López hijo de su otro</p>
+<p begin="00:00:32.680" end="00:00:36.920" style="s2">cofundador detalló el comunicado también</p>
+<p begin="00:00:35.079" end="00:00:38.920" style="s2">detalla que la captura se produjo en El</p>
+<p begin="00:00:36.920" end="00:00:40.559" style="s2">Paso Texas E indica que ambos se</p>
+<p begin="00:00:38.920" end="00:00:42.239" style="s2">enfrentan a múltiples cargos en la</p>
+<p begin="00:00:40.559" end="00:00:44.280" style="s2">entidad Por dirigir las operaciones</p>
+<p begin="00:00:42.239" end="00:00:46.160" style="s2">delictivas del Cártel incluidas las</p>
+<p begin="00:00:44.280" end="00:00:48.559" style="s2">mortíferas redes de fabricación y</p>
+<p begin="00:00:46.160" end="00:00:50.600" style="s2">tráfico de fentanilo El Mayo y Guzmán</p>
+<p begin="00:00:48.559" end="00:00:52.480" style="s2">López se suman a una lista cada vez</p>
+<p begin="00:00:50.600" end="00:00:54.160" style="s2">mayor de dirigentes y Asociados del</p>
+<p begin="00:00:52.480" end="00:00:55.760" style="s2">Cártel de Sinaloa a los que el</p>
+<p begin="00:00:54.160" end="00:00:58.079" style="s2">departamento de Justicia reclama</p>
+<p begin="00:00:55.760" end="00:01:00.239" style="s2">responsabilidades en Estados Unidos esto</p>
+<p begin="00:00:58.079" end="00:01:02.519" style="s2">incluye al otro cofundador del car</p>
+<p begin="00:01:00.239" end="00:01:04.559" style="s2">Joaquín Guzmán lo era el chapo a su hijo</p>
+<p begin="00:01:02.519" end="00:01:06.880" style="s2">Ovidio Guzmán López y al presunto</p>
+<p begin="00:01:04.559" end="00:01:09.600" style="s2">sicario principal del Cártel Néstor</p>
+<p begin="00:01:06.880" end="00:01:11.360" style="s2">Isidro Pérez salas o el Nini de igual</p>
+<p begin="00:01:09.600" end="00:01:13.360" style="s2">manera el documento enfatiza en que el</p>
+<p begin="00:01:11.360" end="00:01:15.240" style="s2">fentanilo es la amenaza de drogas más</p>
+<p begin="00:01:13.360" end="00:01:17.040" style="s2">mortífera a la que se ha enfrentado la</p>
+<p begin="00:01:15.240" end="00:01:19.200" style="s2">Unión Americana y advierte que el</p>
+<p begin="00:01:17.040" end="00:01:20.840" style="s2">departamento de Justicia no descansará</p>
+<p begin="00:01:19.200" end="00:01:23.119" style="s2">hasta que todos y cada uno de los</p>
+<p begin="00:01:20.840" end="00:01:24.880" style="s2">líderes miembros y Asociados del Cártel</p>
+<p begin="00:01:23.119" end="00:01:27.880" style="s2">responsables de envenenar a nuestras</p>
+<p begin="00:01:24.880" end="00:01:31.320" style="s2">comunidades rindan</p>
+<p begin="00:01:27.880" end="00:01:35.840" style="s2">cuentas mantente inform con El Universal</p>
+<p begin="00:01:31.320" end="00:01:35.840" style="s2">y suscríbete a nuestro canal</p>
+</div>
+</body>
+</tt>

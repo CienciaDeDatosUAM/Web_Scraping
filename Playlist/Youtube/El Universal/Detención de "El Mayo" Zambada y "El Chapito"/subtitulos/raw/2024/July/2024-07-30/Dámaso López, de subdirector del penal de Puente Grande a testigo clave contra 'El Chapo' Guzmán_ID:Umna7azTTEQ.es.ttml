@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="es" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.240" end="00:00:04.200" style="s2">durante las últimas horas se ha hablado</p>
+<p begin="00:00:01.880" end="00:00:06.359" style="s2">sobre el allanamiento y vandalización de</p>
+<p begin="00:00:04.200" end="00:00:08.320" style="s2">la capilla de la familia Damaso López</p>
+<p begin="00:00:06.359" end="00:00:10.360" style="s2">algunos barajan la posibilidad de una</p>
+<p begin="00:00:08.320" end="00:00:12.080" style="s2">venganza en su contra el también llamado</p>
+<p begin="00:00:10.360" end="00:00:14.360" style="s2">licenciado Quien fuera considerado</p>
+<p begin="00:00:12.080" end="00:00:16.119" style="s2">posible sucesor del Chapo se encuentra</p>
+<p begin="00:00:14.360" end="00:00:17.960" style="s2">recluido en una prisión de Estados</p>
+<p begin="00:00:16.119" end="00:00:19.720" style="s2">Unidos cumpliendo cadena perpetua</p>
+<p begin="00:00:17.960" end="00:00:21.840" style="s2">estudió derecho y su trayectoria lo</p>
+<p begin="00:00:19.720" end="00:00:23.800" style="s2">llevó a convertirse en el subdirector de</p>
+<p begin="00:00:21.840" end="00:00:25.840" style="s2">seguridad y custodia del penal de Puente</p>
+<p begin="00:00:23.800" end="00:00:28.000" style="s2">gran de Jalisco donde más tarde Guzmán</p>
+<p begin="00:00:25.840" end="00:00:30.080" style="s2">Loera estaría recluido se convirtió en</p>
+<p begin="00:00:28.000" end="00:00:32.040" style="s2">compadre del Chapo luego de que lo ayudó</p>
+<p begin="00:00:30.080" end="00:00:34.040" style="s2">a fugarse del penal de máxima seguridad</p>
+<p begin="00:00:32.040" end="00:00:36.239" style="s2">en 2001 de acuerdo con las autoridades</p>
+<p begin="00:00:34.040" end="00:00:38.000" style="s2">Damaso había hecho una red de guardias</p>
+<p begin="00:00:36.239" end="00:00:40.000" style="s2">corruptos lo que le permitió organizar</p>
+<p begin="00:00:38.000" end="00:00:41.920" style="s2">la fuga de la hora ex líder del Cártel</p>
+<p begin="00:00:40.000" end="00:00:44.239" style="s2">fue lugar Teniente y mano derecha de</p>
+<p begin="00:00:41.920" end="00:00:46.320" style="s2">Guzmán Loera y tan cercano al entonces</p>
+<p begin="00:00:44.239" end="00:00:48.960" style="s2">líder del Cártel de Sinaloa que tras su</p>
+<p begin="00:00:46.320" end="00:00:51.239" style="s2">recaptura en 2014 se creyó que elck</p>
+<p begin="00:00:48.960" end="00:00:53.039" style="s2">podría ser su sucesor sin embargo eso no</p>
+<p begin="00:00:51.239" end="00:00:54.920" style="s2">pasó pues tras la detención entró en</p>
+<p begin="00:00:53.039" end="00:00:56.520" style="s2">conflicto con los hijos del chapo los</p>
+<p begin="00:00:54.920" end="00:00:58.600" style="s2">chapitos en este También estuvo</p>
+<p begin="00:00:56.520" end="00:01:00.840" style="s2">involucrado su hijo damas López Serrano</p>
+<p begin="00:00:58.600" end="00:01:03.000" style="s2">el miniak lo que que desató uno de los</p>
+<p begin="00:01:00.840" end="00:01:05.000" style="s2">conflictos más sangrientos en Sinaloa el</p>
+<p begin="00:01:03.000" end="00:01:06.920" style="s2">cual cesó tras la captura de Damaso</p>
+<p begin="00:01:05.000" end="00:01:08.560" style="s2">López Núñez en la Colonia ansures en la</p>
+<p begin="00:01:06.920" end="00:01:10.360" style="s2">Ciudad de México y más tarde con la</p>
+<p begin="00:01:08.560" end="00:01:13.520" style="s2">entrega voluntaria de su hijo el min</p>
+<p begin="00:01:10.360" end="00:01:13.520" style="s2">leag a autoridades</p>
+<p begin="00:01:13.600" end="00:01:18.600" style="s2">estadounidenses mantente informado con</p>
+<p begin="00:01:16.119" end="00:01:21.600" style="s2">El Universal y suscríbete a nuestro</p>
+<p begin="00:01:18.600" end="00:01:21.600" style="s2">canal</p>
+</div>
+</body>
+</tt>

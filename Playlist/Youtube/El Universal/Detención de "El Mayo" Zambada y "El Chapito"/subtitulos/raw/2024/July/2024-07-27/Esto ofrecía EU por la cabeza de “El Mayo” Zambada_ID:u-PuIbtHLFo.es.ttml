@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="es" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.320" end="00:00:04.520" style="s2">el departamento de estado de la Unión</p>
+<p begin="00:00:02.040" end="00:00:06.759" style="s2">Americana estableció en 2021 una</p>
+<p begin="00:00:04.520" end="00:00:08.760" style="s2">recompensa de 15 millones de dólar para</p>
+<p begin="00:00:06.759" end="00:00:10.840" style="s2">lograr la captura de Ismael El Mayo</p>
+<p begin="00:00:08.760" end="00:00:13.040" style="s2">sambada García uno de los líderes del</p>
+<p begin="00:00:10.840" end="00:00:14.879" style="s2">Cártel de Sinaloa sambada García es</p>
+<p begin="00:00:13.040" end="00:00:16.760" style="s2">único en el sentido de que ha pasado</p>
+<p begin="00:00:14.879" end="00:00:18.880" style="s2">toda su vida adulta como un importante</p>
+<p begin="00:00:16.760" end="00:00:20.640" style="s2">narcotraficante internacional pero nunca</p>
+<p begin="00:00:18.880" end="00:00:23.000" style="s2">ha pasado un día en la cárcel con el</p>
+<p begin="00:00:20.640" end="00:00:25.080" style="s2">arresto extradición condena y sentencia</p>
+<p begin="00:00:23.000" end="00:00:27.480" style="s2">de su compañero líder de la facción del</p>
+<p begin="00:00:25.080" end="00:00:29.160" style="s2">Cártel de Sinaloa Joaquín Guzmán lo era</p>
+<p begin="00:00:27.480" end="00:00:31.240" style="s2">También conocido como El Chapo Guzmán</p>
+<p begin="00:00:29.160" end="00:00:33.320" style="s2">Zambada garcí es el líder indiscutible</p>
+<p begin="00:00:31.240" end="00:00:35.239" style="s2">del Cártel de Sinaloa señala la ficha</p>
+<p begin="00:00:33.320" end="00:00:36.920" style="s2">del presunto narcotraficante la ficha</p>
+<p begin="00:00:35.239" end="00:00:38.719" style="s2">del departamento de Estados Unidos</p>
+<p begin="00:00:36.920" end="00:00:40.200" style="s2">destaca que a lo largo de los años se</p>
+<p begin="00:00:38.719" end="00:00:42.760" style="s2">han presentado varios cargos contra</p>
+<p begin="00:00:40.200" end="00:00:45.000" style="s2">Zambada García el primero el 28 de enero</p>
+<p begin="00:00:42.760" end="00:00:47.360" style="s2">de 2013 en el distrito de Columbia el</p>
+<p begin="00:00:45.000" end="00:00:49.559" style="s2">segundo el 20 de agosto de 2009 en el</p>
+<p begin="00:00:47.360" end="00:00:52.079" style="s2">distrito norte de Illinois el tercero el</p>
+<p begin="00:00:49.559" end="00:00:54.800" style="s2">11 de abril de 2012 en el distrito oeste</p>
+<p begin="00:00:52.079" end="00:00:57.559" style="s2">de Texas el cuarto el 25 de julio de</p>
+<p begin="00:00:54.800" end="00:01:00.440" style="s2">2014 en el distrito Sur de California y</p>
+<p begin="00:00:57.559" end="00:01:02.480" style="s2">el quinto el 11 de mayo del 2016 en el</p>
+<p begin="00:01:00.440" end="00:01:04.320" style="s2">distrito oeste de Nueva York todos los</p>
+<p begin="00:01:02.480" end="00:01:06.119" style="s2">cargos implican una importante violación</p>
+<p begin="00:01:04.320" end="00:01:08.240" style="s2">de las leyes antinarcóticos de Estados</p>
+<p begin="00:01:06.119" end="00:01:10.320" style="s2">Unidos resalta que en la acusación</p>
+<p begin="00:01:08.240" end="00:01:12.439" style="s2">formal del distrito norte de Illinois</p>
+<p begin="00:01:10.320" end="00:01:14.759" style="s2">revelada en 2009 también fue acusado el</p>
+<p begin="00:01:12.439" end="00:01:16.520" style="s2">hijo de Zambada Vicente Zambada Niebla</p>
+<p begin="00:01:14.759" end="00:01:18.799" style="s2">quien fue arrestado por las autoridades</p>
+<p begin="00:01:16.520" end="00:01:20.600" style="s2">mexicanas ese mismo año y extraditado a</p>
+<p begin="00:01:18.799" end="00:01:23.400" style="s2">los Estados Unidos para enfrentar cargos</p>
+<p begin="00:01:20.600" end="00:01:23.400" style="s2">en chicagua en</p>
+<p begin="00:01:24.520" end="00:01:33.240" style="s2">2013 Aléjate de las fake news y mantente</p>
+<p begin="00:01:27.920" end="00:01:33.240" style="s2">informado suscríbete a nuestro canal</p>
+</div>
+</body>
+</tt>

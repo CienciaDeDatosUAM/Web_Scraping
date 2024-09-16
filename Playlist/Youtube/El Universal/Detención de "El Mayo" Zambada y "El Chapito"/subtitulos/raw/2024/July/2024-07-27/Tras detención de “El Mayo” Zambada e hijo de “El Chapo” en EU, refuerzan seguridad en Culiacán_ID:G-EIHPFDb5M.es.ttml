@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="es" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.040" end="00:00:04.040" style="s2">200 elementos de fuerzas especiales del</p>
+<p begin="00:00:02.080" end="00:00:05.960" style="s2">ejército arribaron a Culiacán en dos</p>
+<p begin="00:00:04.040" end="00:00:07.600" style="s2">aviones de la Fuerza Aérea Mexicana para</p>
+<p begin="00:00:05.960" end="00:00:09.280" style="s2">reforzar la seguridad derivado de la</p>
+<p begin="00:00:07.600" end="00:00:11.200" style="s2">reciente captura en Estados Unidos a</p>
+<p begin="00:00:09.280" end="00:00:13.200" style="s2">Ismael El Mayo Zambada y Joaquín Guzmán</p>
+<p begin="00:00:11.200" end="00:00:14.799" style="s2">López con el arribo de este contingente</p>
+<p begin="00:00:13.200" end="00:00:16.760" style="s2">se refuerza la presencia de las fuerzas</p>
+<p begin="00:00:14.799" end="00:00:18.400" style="s2">federales cuyas acciones en las últimas</p>
+<p begin="00:00:16.760" end="00:00:20.080" style="s2">semanas en la capital del Estado han</p>
+<p begin="00:00:18.400" end="00:00:21.880" style="s2">sido logros importantes con detenciones</p>
+<p begin="00:00:20.080" end="00:00:23.119" style="s2">de miembros del Cártel de Sinaloa y el</p>
+<p begin="00:00:21.880" end="00:00:24.640" style="s2">aseguramiento de Laboratorios</p>
+<p begin="00:00:23.119" end="00:00:26.400" style="s2">clandestinos ante una posible</p>
+<p begin="00:00:24.640" end="00:00:28.039" style="s2">reactivación de violencia autoridades</p>
+<p begin="00:00:26.400" end="00:00:29.720" style="s2">federales determinaron fortalecer su</p>
+<p begin="00:00:28.039" end="00:00:31.320" style="s2">presencia en Culiacán con la noticia de</p>
+<p begin="00:00:29.720" end="00:00:33.079" style="s2">la captura de estos dos personajes en</p>
+<p begin="00:00:31.320" end="00:00:34.840" style="s2">territorio estadounidense el ambiente en</p>
+<p begin="00:00:33.079" end="00:00:36.280" style="s2">la capital del Estado es de aparente</p>
+<p begin="00:00:34.840" end="00:00:38.000" style="s2">tranquilidad y no se percibe una</p>
+<p begin="00:00:36.280" end="00:00:39.440" style="s2">vigilancia extrema en las calles sin</p>
+<p begin="00:00:38.000" end="00:00:41.360" style="s2">embargo la llegada de estos 200</p>
+<p begin="00:00:39.440" end="00:00:43.200" style="s2">elementos de las fuerzas federales llamó</p>
+<p begin="00:00:41.360" end="00:00:45.800" style="s2">la</p>
+<p begin="00:00:43.200" end="00:00:51.199" style="s2">atención mantente informado con El</p>
+<p begin="00:00:45.800" end="00:00:51.199" style="s2">Universal y suscríbete a nuestro canal</p>
+</div>
+</body>
+</tt>

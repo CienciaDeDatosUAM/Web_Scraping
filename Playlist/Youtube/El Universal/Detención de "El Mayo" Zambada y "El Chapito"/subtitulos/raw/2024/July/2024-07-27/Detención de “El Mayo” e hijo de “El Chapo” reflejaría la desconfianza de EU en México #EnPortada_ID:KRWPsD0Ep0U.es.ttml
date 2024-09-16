@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="es" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.040" end="00:00:04.520" style="s2">luego de que Ismael El Mayo Zambada y</p>
+<p begin="00:00:02.200" end="00:00:06.720" style="s2">Joaquín Guzmán López líderes del Cártel</p>
+<p begin="00:00:04.520" end="00:00:08.960" style="s2">de Sinaloa quedaron bajo custodia de</p>
+<p begin="00:00:06.720" end="00:00:11.080" style="s2">Estados Unidos el gobierno de México</p>
+<p begin="00:00:08.960" end="00:00:13.240" style="s2">admitió no haber sido Enterado y aceptó</p>
+<p begin="00:00:11.080" end="00:00:15.719" style="s2">no saber si se trató de una entrega o</p>
+<p begin="00:00:13.240" end="00:00:17.840" style="s2">captura expertos afirman que esta acción</p>
+<p begin="00:00:15.719" end="00:00:19.880" style="s2">refleja la desconfianza de Estados</p>
+<p begin="00:00:17.840" end="00:00:21.640" style="s2">Unidos en nuestro país durante la</p>
+<p begin="00:00:19.880" end="00:00:23.439" style="s2">conferencia del presidente Andrés Manuel</p>
+<p begin="00:00:21.640" end="00:00:25.320" style="s2">López Obrador la secretaria de seguridad</p>
+<p begin="00:00:23.439" end="00:00:27.039" style="s2">y protección ciudadana Rosa iela</p>
+<p begin="00:00:25.320" end="00:00:29.080" style="s2">Rodríguez informó que el gobierno de</p>
+<p begin="00:00:27.039" end="00:00:31.920" style="s2">México no participó en la entrega o</p>
+<p begin="00:00:29.080" end="00:00:33.520" style="s2">detención de los capos y la pregunta es</p>
+<p begin="00:00:31.920" end="00:00:37.600" style="s2">si nosotros</p>
+<p begin="00:00:33.520" end="00:00:41.039" style="s2">eh participamos en esta detención del</p>
+<p begin="00:00:37.600" end="00:00:46.199" style="s2">día de ayer es no el gobierno de México</p>
+<p begin="00:00:41.039" end="00:00:51.600" style="s2">no participó en esta detención o entrega</p>
+<p begin="00:00:46.199" end="00:00:54.239" style="s2">Eh Esto no es así y pues vamos a seguir</p>
+<p begin="00:00:51.600" end="00:00:57.440" style="s2">colaborando con el gobierno de Estados</p>
+<p begin="00:00:54.239" end="00:01:00.719" style="s2">Unidos como lo hemos hecho hasta esta</p>
+<p begin="00:00:57.440" end="00:01:02.800" style="s2">ocasión rosel rodz talló el Plan de</p>
+<p begin="00:01:00.719" end="00:01:07.280" style="s2">vuelo que pudo haberse falsificado de</p>
+<p begin="00:01:02.800" end="00:01:09.600" style="s2">una avioneta cesna con matrícula n84 54z</p>
+<p begin="00:01:07.280" end="00:01:12.640" style="s2">del aeropuerto de Hermosillo Sonora el</p>
+<p begin="00:01:09.600" end="00:01:14.960" style="s2">jueves a las 7:55 de la mañana y donde</p>
+<p begin="00:01:12.640" end="00:01:16.880" style="s2">presuntamente habrían viajado los capos</p>
+<p begin="00:01:14.960" end="00:01:19.159" style="s2">a Estados Unidos dijo que cuando la</p>
+<p begin="00:01:16.880" end="00:01:20.439" style="s2">aeronave partió de Hermosillo solo era</p>
+<p begin="00:01:19.159" end="00:01:22.960" style="s2">tripulada por el ciudadano</p>
+<p begin="00:01:20.439" end="00:01:25.479" style="s2">estadounidense Larry Curtis Parker quien</p>
+<p begin="00:01:22.960" end="00:01:27.960" style="s2">es piloto con un destino a Santa Teresa</p>
+<p begin="00:01:25.479" end="00:01:30.520" style="s2">El Paso Texas pero deben corroborarlo</p>
+<p begin="00:01:27.960" end="00:01:32.119" style="s2">con las investigaciones rechazó que haya</p>
+<p begin="00:01:30.520" end="00:01:34.360" style="s2">mala relación con las agencias de</p>
+<p begin="00:01:32.119" end="00:01:36.520" style="s2">inteligencia de Estados Unidos y refirió</p>
+<p begin="00:01:34.360" end="00:01:38.720" style="s2">que El Mayo Zambada tiene en la fiscalía</p>
+<p begin="00:01:36.520" end="00:01:40.759" style="s2">general de la república cuatro órdenes</p>
+<p begin="00:01:38.720" end="00:01:43.000" style="s2">de aprensión vigentes por delincuencia</p>
+<p begin="00:01:40.759" end="00:01:44.840" style="s2">organizada delitos contra la salud y en</p>
+<p begin="00:01:43.000" end="00:01:46.880" style="s2">materia de armas por su parte el</p>
+<p begin="00:01:44.840" end="00:01:49.040" style="s2">presidente López Obrador aseguró que la</p>
+<p begin="00:01:46.880" end="00:01:51.000" style="s2">entrega o captura de El Mayo Zambada y</p>
+<p begin="00:01:49.040" end="00:01:52.960" style="s2">Joaquín Guzmán López se trata de un</p>
+<p begin="00:01:51.000" end="00:01:56.840" style="s2">avance importante en el combate al</p>
+<p begin="00:01:52.960" end="00:02:00.840" style="s2">narcotráfico es una muestra de</p>
+<p begin="00:01:56.840" end="00:02:00.840" style="s2">que existe</p>
+<p begin="00:02:00.920" end="00:02:07.880" style="s2">un trabajo conjunto aún</p>
+<p begin="00:02:04.000" end="00:02:11.120" style="s2">cuando en este caso en específico no</p>
+<p begin="00:02:07.880" end="00:02:13.959" style="s2">haya participado ni la secretaría de la</p>
+<p begin="00:02:11.120" end="00:02:17.640" style="s2">defensa ni la Secretaría de</p>
+<p begin="00:02:13.959" end="00:02:22.680" style="s2">Marina pero el</p>
+<p begin="00:02:17.640" end="00:02:26.280" style="s2">que él haya tomado la decisión de</p>
+<p begin="00:02:22.680" end="00:02:28.400" style="s2">entregarse o ir correr el riesgo de ir a</p>
+<p begin="00:02:26.280" end="00:02:30.560" style="s2">Estados Unidos y allá</p>
+<p begin="00:02:28.400" end="00:02:34.239" style="s2">capturarlo pues</p>
+<p begin="00:02:30.560" end="00:02:36.920" style="s2">este significa un un</p>
+<p begin="00:02:34.239" end="00:02:40.200" style="s2">avance importante</p>
+<p begin="00:02:36.920" end="00:02:42.720" style="s2">eh en el combate al</p>
+<p begin="00:02:40.200" end="00:02:45.159" style="s2">narcotráfico sobre el tema La virtual</p>
+<p begin="00:02:42.720" end="00:02:47.519" style="s2">presidenta electa Claudia shen ba paro</p>
+<p begin="00:02:45.159" end="00:02:49.120" style="s2">pidió en entrevista esperar a conocer la</p>
+<p begin="00:02:47.519" end="00:02:51.360" style="s2">información que manda el gobierno de</p>
+<p begin="00:02:49.120" end="00:02:53.159" style="s2">Estados Unidos para saber qué pasó en el</p>
+<p begin="00:02:51.360" end="00:02:55.519" style="s2">aseguramiento de estos líderes del</p>
+<p begin="00:02:53.159" end="00:02:57.800" style="s2">narcotráfico pero es positivo doctora la</p>
+<p begin="00:02:55.519" end="00:03:01.680" style="s2">detención de estos capos Pues sí estaban</p>
+<p begin="00:02:57.800" end="00:03:04.480" style="s2">este perseguidos ellos pero participó el</p>
+<p begin="00:03:01.680" end="00:03:06.680" style="s2">en este caso Parece que fue el FBI</p>
+<p begin="00:03:04.480" end="00:03:09.400" style="s2">entonces hay que esperar más informes</p>
+<p begin="00:03:06.680" end="00:03:11.480" style="s2">Gracias gracias gracias al respecto</p>
+<p begin="00:03:09.400" end="00:03:13.200" style="s2">politólogos y expertos en seguridad</p>
+<p begin="00:03:11.480" end="00:03:14.959" style="s2">afirman que no informar al gobierno de</p>
+<p begin="00:03:13.200" end="00:03:16.680" style="s2">México de la acción que llevó a la</p>
+<p begin="00:03:14.959" end="00:03:18.680" style="s2">aprensión de los líderes del Cártel de</p>
+<p begin="00:03:16.680" end="00:03:20.879" style="s2">Sinaloa refleja la desconfianza de</p>
+<p begin="00:03:18.680" end="00:03:23.200" style="s2">Estados Unidos a las instituciones y</p>
+<p begin="00:03:20.879" end="00:03:25.239" style="s2">corporaciones de nuestro país indican</p>
+<p begin="00:03:23.200" end="00:03:27.120" style="s2">que México queda exhibido y fue</p>
+<p begin="00:03:25.239" end="00:03:28.760" style="s2">ninguneado con la respuesta que dio la</p>
+<p begin="00:03:27.120" end="00:03:31.000" style="s2">titular de seguridad y protección</p>
+<p begin="00:03:28.760" end="00:03:33.120" style="s2">ciudadana Rosa Isela Rodríguez El</p>
+<p begin="00:03:31.000" end="00:03:35.280" style="s2">internacionalista y analista político</p>
+<p begin="00:03:33.120" end="00:03:36.959" style="s2">Leonardo curcio asegura que la captura</p>
+<p begin="00:03:35.280" end="00:03:39.080" style="s2">de los dos integrantes del Cártel de</p>
+<p begin="00:03:36.959" end="00:03:41.200" style="s2">Sinaloa fue reflejo de la desconfianza</p>
+<p begin="00:03:39.080" end="00:03:43.080" style="s2">que existe del vecino país hacia la</p>
+<p begin="00:03:41.200" end="00:03:45.200" style="s2">administración del presidente López</p>
+<p begin="00:03:43.080" end="00:03:46.879" style="s2">Obrador no fue un gesto particularmente</p>
+<p begin="00:03:45.200" end="00:03:49.239" style="s2">cordial Aunque el embajador</p>
+<p begin="00:03:46.879" end="00:03:51.080" style="s2">estadounidense Ken Salazar se empeña en</p>
+<p begin="00:03:49.239" end="00:03:53.760" style="s2">envolverlo en celofan diciendo que</p>
+<p begin="00:03:51.080" end="00:03:56.040" style="s2">agradece el esfuerzo que México ha hecho</p>
+<p begin="00:03:53.760" end="00:03:57.799" style="s2">que es por supuesto muy loable pero</p>
+<p begin="00:03:56.040" end="00:03:59.879" style="s2">naturalmente en este caso las</p>
+<p begin="00:03:57.799" end="00:04:01.760" style="s2">autoridades estadounidenses por la</p>
+<p begin="00:03:59.879" end="00:04:04.280" style="s2">importancia del objetivo prefirieron</p>
+<p begin="00:04:01.760" end="00:04:06.799" style="s2">dejar de lado y a obscuras al gobierno</p>
+<p begin="00:04:04.280" end="00:04:09.280" style="s2">mexicano no fue un gesto particularmente</p>
+<p begin="00:04:06.799" end="00:04:11.120" style="s2">cordial al denotar desconfianza en la</p>
+<p begin="00:04:09.280" end="00:04:13.280" style="s2">operación considera que Esta</p>
+<p begin="00:04:11.120" end="00:04:15.760" style="s2">desconfianza se profundizó aún más por</p>
+<p begin="00:04:13.280" end="00:04:18.040" style="s2">la fallida captura de Aureliano el guano</p>
+<p begin="00:04:15.760" end="00:04:21.600" style="s2">Guzmán lo era en la que se detuvo a Luis</p>
+<p begin="00:04:18.040" end="00:04:23.880" style="s2">n alias El r8 su jefe de seguridad</p>
+<p begin="00:04:21.600" end="00:04:28.479" style="s2">Estados Unidos quizá pensó mejor</p>
+<p begin="00:04:23.880" end="00:04:28.479" style="s2">Cerramos el pico y lo hacemos nosotros</p>
+<p begin="00:04:28.720" end="00:04:32.680" style="s2">dijo for</p>
+</div>
+</body>
+</tt>

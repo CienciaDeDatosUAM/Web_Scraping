@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="es" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.160" end="00:00:05.359" style="s2">difunden la primera fotografía de Ismael</p>
+<p begin="00:00:02.639" end="00:00:08.000" style="s2">El Mayo Zambada tras darse a conocer que</p>
+<p begin="00:00:05.359" end="00:00:10.280" style="s2">fue detenido este jueves 25 de abril en</p>
+<p begin="00:00:08.000" end="00:00:12.679" style="s2">Texas Estados Unidos en la imagen</p>
+<p begin="00:00:10.280" end="00:00:15.360" style="s2">compartida por el semanario río 12i</p>
+<p begin="00:00:12.679" end="00:00:18.000" style="s2">aparece el narcotraficante de 76 años</p>
+<p begin="00:00:15.360" end="00:00:19.760" style="s2">con una camisa cuadros y bigote El Mayo</p>
+<p begin="00:00:18.000" end="00:00:22.000" style="s2">Zambada Era uno de Los Capos del</p>
+<p begin="00:00:19.760" end="00:00:24.439" style="s2">narcotráfico más buscados por ser el</p>
+<p begin="00:00:22.000" end="00:00:26.800" style="s2">cofundador del Cártel de Sinaloa y se</p>
+<p begin="00:00:24.439" end="00:00:29.279" style="s2">ofrecía una recompensa de hasta 15</p>
+<p begin="00:00:26.800" end="00:00:31.720" style="s2">millones por información que condujera a</p>
+<p begin="00:00:29.279" end="00:00:33.520" style="s2">su arresto el gobierno de Estados Unidos</p>
+<p begin="00:00:31.720" end="00:00:35.920" style="s2">informó que fue detenido junto con</p>
+<p begin="00:00:33.520" end="00:00:38.200" style="s2">Joaquín Guzmán López que forma parte de</p>
+<p begin="00:00:35.920" end="00:00:41.239" style="s2">la facción de los chapitos hijos de</p>
+<p begin="00:00:38.200" end="00:00:43.840" style="s2">Joaquín Guzmán lo era el</p>
+<p begin="00:00:41.239" end="00:00:49.239" style="s2">chapo mantente informado con El</p>
+<p begin="00:00:43.840" end="00:00:49.239" style="s2">Universal y suscríbete a nuestro canal</p>
+</div>
+</body>
+</tt>

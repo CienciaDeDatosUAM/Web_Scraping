@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="es" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.080" end="00:00:04.759" style="s2">tras varios años de evadir la justicia</p>
+<p begin="00:00:02.159" end="00:00:07.120" style="s2">Ismael El Mayo Zambada y Joaquín Guzmán</p>
+<p begin="00:00:04.759" end="00:00:09.599" style="s2">López hijo del Chapo fueron detenidos en</p>
+<p begin="00:00:07.120" end="00:00:11.599" style="s2">Texas Estados Unidos así lo confirmaron</p>
+<p begin="00:00:09.599" end="00:00:14.440" style="s2">autoridades mexicanas la tarde de este</p>
+<p begin="00:00:11.599" end="00:00:16.199" style="s2">25 de Julio Por ese motivo resurgió en</p>
+<p begin="00:00:14.440" end="00:00:18.320" style="s2">redes sociales la última aparición</p>
+<p begin="00:00:16.199" end="00:00:20.560" style="s2">pública del capo al dejarse ver en una</p>
+<p begin="00:00:18.320" end="00:00:22.800" style="s2">foto junto al Afamado periodista Julio</p>
+<p begin="00:00:20.560" end="00:00:25.240" style="s2">sherer fundador de la revista Proceso</p>
+<p begin="00:00:22.800" end="00:00:26.880" style="s2">luego de entrevistarlo en el año 2010 el</p>
+<p begin="00:00:25.240" end="00:00:29.160" style="s2">escrito publicado por la revista en</p>
+<p begin="00:00:26.880" end="00:00:31.240" style="s2">abril del 2010 Data del mes de febrero</p>
+<p begin="00:00:29.160" end="00:00:33.480" style="s2">del mismo año cuando relató el fallecido</p>
+<p begin="00:00:31.240" end="00:00:35.200" style="s2">periodista que El capo le hizo llegar un</p>
+<p begin="00:00:33.480" end="00:00:38.079" style="s2">mensaje donde le fue anunciado que</p>
+<p begin="00:00:35.200" end="00:00:40.399" style="s2">Ismael Zambada deseaba conversar con él</p>
+<p begin="00:00:38.079" end="00:00:42.520" style="s2">acompañado del día lugar y hora a donde</p>
+<p begin="00:00:40.399" end="00:00:44.480" style="s2">debía acudir sherer se encargó de</p>
+<p begin="00:00:42.520" end="00:00:46.480" style="s2">relatar la travesía de una manera en la</p>
+<p begin="00:00:44.480" end="00:00:48.559" style="s2">que sus lectores pudieran acceder a un</p>
+<p begin="00:00:46.480" end="00:00:50.600" style="s2">mundo difícil de conocer donde la noche</p>
+<p begin="00:00:48.559" end="00:00:52.680" style="s2">la soledad y la angustia acompañaron en</p>
+<p begin="00:00:50.600" end="00:00:54.559" style="s2">su camino mientras fue transportado</p>
+<p begin="00:00:52.680" end="00:00:56.760" style="s2">durante dos días hasta dar con El</p>
+<p begin="00:00:54.559" end="00:00:58.719" style="s2">Refugio de uno de los narcotraficantes</p>
+<p begin="00:00:56.760" end="00:01:00.559" style="s2">más famosos de los últimos tiempos al</p>
+<p begin="00:00:58.719" end="00:01:02.440" style="s2">llegar al lugar el periodico mencionó</p>
+<p begin="00:01:00.559" end="00:01:04.439" style="s2">que el Mayo lo saludó con cortesía</p>
+<p begin="00:01:02.440" end="00:01:06.600" style="s2">extendiendo su mano mientras le decía</p>
+<p begin="00:01:04.439" end="00:01:08.560" style="s2">tenía mucho interés en conocerlo lo</p>
+<p begin="00:01:06.600" end="00:01:10.600" style="s2">esperaba para que almorcemos juntos</p>
+<p begin="00:01:08.560" end="00:01:13.200" style="s2">exaltando la altura del capo de más de</p>
+<p begin="00:01:10.600" end="00:01:15.520" style="s2">un0 y su figura llena de fortaleza en</p>
+<p begin="00:01:13.200" end="00:01:17.640" style="s2">aquel 2010 la controversial entrevista</p>
+<p begin="00:01:15.520" end="00:01:19.960" style="s2">abarcó temas familiares resaltando su</p>
+<p begin="00:01:17.640" end="00:01:22.360" style="s2">orgullo por sus hijos y lo difícil que</p>
+<p begin="00:01:19.960" end="00:01:24.920" style="s2">era para él mantenerse alejado de varios</p>
+<p begin="00:01:22.360" end="00:01:26.680" style="s2">de ellos como el vicentillo al ser</p>
+<p begin="00:01:24.920" end="00:01:28.759" style="s2">cuestionado sobre las veces que sintió</p>
+<p begin="00:01:26.680" end="00:01:30.400" style="s2">cerca al ejército Zambada respondió</p>
+<p begin="00:01:28.759" end="00:01:32.119" style="s2">contundentemente que que en cuatro</p>
+<p begin="00:01:30.400" end="00:01:34.600" style="s2">ocasiones los había sentido sobre su</p>
+<p begin="00:01:32.119" end="00:01:38.119" style="s2">cabeza huí por el monte del que conozco</p>
+<p begin="00:01:34.600" end="00:01:40.040" style="s2">los ramajes Los Arroyos las piedras todo</p>
+<p begin="00:01:38.119" end="00:01:42.520" style="s2">a mí me agarran si me estoy quieto o me</p>
+<p begin="00:01:40.040" end="00:01:44.439" style="s2">descuido como al chapo agregó incluso</p>
+<p begin="00:01:42.520" end="00:01:46.399" style="s2">admitió tener pánico de que en algún</p>
+<p begin="00:01:44.439" end="00:01:48.360" style="s2">momento pudiera ser arrestado a tal</p>
+<p begin="00:01:46.399" end="00:01:50.320" style="s2">grado de confesarle al periodista El</p>
+<p begin="00:01:48.360" end="00:01:52.960" style="s2">pensamiento de terminar con su vida si</p>
+<p begin="00:01:50.320" end="00:01:55.479" style="s2">eso sucediera Quiero pensar que sí que</p>
+<p begin="00:01:52.960" end="00:01:58.600" style="s2">sí me mataría señaló Zambada en aquel</p>
+<p begin="00:01:55.479" end="00:02:00.600" style="s2">2010 El capo tenía 60 años y en medio de</p>
+<p begin="00:01:58.600" end="00:02:03.000" style="s2">la charla confesó a ver entrado al mundo</p>
+<p begin="00:02:00.600" end="00:02:05.240" style="s2">del narcotráfico a los 16 años y que</p>
+<p begin="00:02:03.000" end="00:02:07.079" style="s2">gran parte de su trayectoria se la debe</p>
+<p begin="00:02:05.240" end="00:02:09.520" style="s2">a que tiene una ventaja sobre quienes lo</p>
+<p begin="00:02:07.079" end="00:02:11.440" style="s2">han acechado sabe cómo esconderse y</p>
+<p begin="00:02:09.520" end="00:02:13.440" style="s2">domina el arte de huír Además de que</p>
+<p begin="00:02:11.440" end="00:02:16.040" style="s2">sabe que es muy querido por la gente que</p>
+<p begin="00:02:13.440" end="00:02:16.040" style="s2">nunca lo ha</p>
+<p begin="00:02:16.200" end="00:02:24.160" style="s2">traicionado mantente informado con El</p>
+<p begin="00:02:18.800" end="00:02:24.160" style="s2">Universal y suscríbete a nuestro canal</p>
+</div>
+</body>
+</tt>

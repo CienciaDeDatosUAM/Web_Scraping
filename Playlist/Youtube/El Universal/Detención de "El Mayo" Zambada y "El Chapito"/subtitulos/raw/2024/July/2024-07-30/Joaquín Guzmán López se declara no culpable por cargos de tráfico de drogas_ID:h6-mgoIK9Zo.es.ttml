@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="es" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.040" end="00:00:04.600" style="s2">Joaquín Guzmán López otro de los hijos</p>
+<p begin="00:00:02.000" end="00:00:06.440" style="s2">de El Chapo Guzmán compareció este 30 de</p>
+<p begin="00:00:04.600" end="00:00:08.920" style="s2">julio ante la jueza Sharon Johnson</p>
+<p begin="00:00:06.440" end="00:00:10.800" style="s2">Coleman en un tribunal de Chicago y se</p>
+<p begin="00:00:08.920" end="00:00:13.280" style="s2">declaró No culpable de los delitos que</p>
+<p begin="00:00:10.800" end="00:00:15.559" style="s2">se le imputan Joaquín Guzmán compareció</p>
+<p begin="00:00:13.280" end="00:00:17.400" style="s2">acompañado de su abogado Jeffrey ligman</p>
+<p begin="00:00:15.559" end="00:00:19.640" style="s2">el mismo que defendió al chapo Y</p>
+<p begin="00:00:17.400" end="00:00:21.560" style="s2">actualmente defiende a Ovidio Guzmán</p>
+<p begin="00:00:19.640" end="00:00:24.720" style="s2">hermano de Joaquín y quien se encontraba</p>
+<p begin="00:00:21.560" end="00:00:26.599" style="s2">en la misma prisión mcc Chicago Guzmán</p>
+<p begin="00:00:24.720" end="00:00:28.599" style="s2">López escuchó los cargos que el gobierno</p>
+<p begin="00:00:26.599" end="00:00:30.920" style="s2">de Estados Unidos le imputa por tráfico</p>
+<p begin="00:00:28.599" end="00:00:33.239" style="s2">de drogas específicamente fentanilo</p>
+<p begin="00:00:30.920" end="00:00:36.040" style="s2">lavado de armas y posesión de drogas el</p>
+<p begin="00:00:33.239" end="00:00:38.280" style="s2">acusado Se declaró Entonces no culpable</p>
+<p begin="00:00:36.040" end="00:00:40.440" style="s2">de acuerdo con la DEA los chapitos como</p>
+<p begin="00:00:38.280" end="00:00:42.239" style="s2">se conoce a los hijos de El Chapo libran</p>
+<p begin="00:00:40.440" end="00:00:44.160" style="s2">una batalla interna contra Ismael El</p>
+<p begin="00:00:42.239" end="00:00:46.120" style="s2">Mayo Zambada quien no goza de buena</p>
+<p begin="00:00:44.160" end="00:00:48.280" style="s2">salud y habría perdido el poder en el</p>
+<p begin="00:00:46.120" end="00:00:50.079" style="s2">cártel de Sinaloa Guzmán López habría</p>
+<p begin="00:00:48.280" end="00:00:52.120" style="s2">traicionado a sambada al supuestamente</p>
+<p begin="00:00:50.079" end="00:00:54.039" style="s2">haberlo convencido de embarcarse en el</p>
+<p begin="00:00:52.120" end="00:00:56.079" style="s2">avión con destino al norte de México</p>
+<p begin="00:00:54.039" end="00:00:57.640" style="s2">pero que finalmente aterrizó en el país</p>
+<p begin="00:00:56.079" end="00:01:01.920" style="s2">vecino según algunos medios</p>
+<p begin="00:00:57.640" end="00:01:01.920" style="s2">estadounidenses basados en Fuentes jud</p>
+<p begin="00:01:03.960" end="00:01:10.640" style="s2">mantente informado con El Universal y</p>
+<p begin="00:01:06.479" end="00:01:10.640" style="s2">suscríbete a nuestro canal</p>
+</div>
+</body>
+</tt>

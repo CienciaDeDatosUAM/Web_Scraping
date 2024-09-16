@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="es" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.040" end="00:00:03.760" style="s2">Joaquín Guzmán López hijo de Joaquín El</p>
+<p begin="00:00:01.880" end="00:00:05.839" style="s2">Chapo Guzmán engañó a Ismael El Mayo</p>
+<p begin="00:00:03.760" end="00:00:07.439" style="s2">Zambada para después entregarse según</p>
+<p begin="00:00:05.839" end="00:00:09.240" style="s2">información de The Wall Street journal</p>
+<p begin="00:00:07.439" end="00:00:11.000" style="s2">de acuerdo con el medio Guzmán López</p>
+<p begin="00:00:09.240" end="00:00:12.360" style="s2">quería evitar un final violento Además</p>
+<p begin="00:00:11.000" end="00:00:14.000" style="s2">de que el hijo del Chapo quería</p>
+<p begin="00:00:12.360" end="00:00:15.519" style="s2">entregarse de acuerdo con The Wall</p>
+<p begin="00:00:14.000" end="00:00:17.199" style="s2">Street journal Guzmán López era el</p>
+<p begin="00:00:15.519" end="00:00:19.359" style="s2">cerebro financiero detrás del Cártel de</p>
+<p begin="00:00:17.199" end="00:00:21.160" style="s2">Sinaloa él y sus tres hermanos heredaron</p>
+<p begin="00:00:19.359" end="00:00:23.560" style="s2">el cártel luego de que el chapo fuera</p>
+<p begin="00:00:21.160" end="00:00:25.279" style="s2">capturado en 2016 menciona que el grupo</p>
+<p begin="00:00:23.560" end="00:00:27.039" style="s2">criminal mexicano fue responsable de</p>
+<p begin="00:00:25.279" end="00:00:28.439" style="s2">enviar miles de millones de dólares en</p>
+<p begin="00:00:27.039" end="00:00:30.359" style="s2">fentanilo a través de la frontera</p>
+<p begin="00:00:28.439" end="00:00:32.360" style="s2">estadounidense alimentando una adicción</p>
+<p begin="00:00:30.359" end="00:00:34.160" style="s2">nacional a un opioide sintético que ha</p>
+<p begin="00:00:32.360" end="00:00:35.960" style="s2">devastado comunidades en todo Estados</p>
+<p begin="00:00:34.160" end="00:00:38.320" style="s2">Unidos según de Wall Street journal</p>
+<p begin="00:00:35.960" end="00:00:40.079" style="s2">Guzmán López subió la apuesta trabajaría</p>
+<p begin="00:00:38.320" end="00:00:42.120" style="s2">en Estados Unidos para capturar a Ismael</p>
+<p begin="00:00:40.079" end="00:00:43.920" style="s2">El Mayo Zambada Fuentes dijeron al medio</p>
+<p begin="00:00:42.120" end="00:00:45.480" style="s2">que Guzmán López persuadió a El Mayo</p>
+<p begin="00:00:43.920" end="00:00:47.640" style="s2">para que fueran en un vuelo a fin de</p>
+<p begin="00:00:45.480" end="00:00:49.480" style="s2">revisar pistas terrestres y clandestinas</p>
+<p begin="00:00:47.640" end="00:00:50.960" style="s2">en el norte de México pero siempre de</p>
+<p begin="00:00:49.480" end="00:00:52.800" style="s2">acuerdo con las fuentes El hijo del</p>
+<p begin="00:00:50.960" end="00:00:54.760" style="s2">Chapo acordó aterrizar en un aeropuerto</p>
+<p begin="00:00:52.800" end="00:00:56.600" style="s2">cerca del Paso Texas este viernes El</p>
+<p begin="00:00:54.760" end="00:00:58.000" style="s2">Mayo Se declaró No culpable de todos los</p>
+<p begin="00:00:56.600" end="00:01:00.000" style="s2">cargos entre los que figuran</p>
+<p begin="00:00:58.000" end="00:01:01.800" style="s2">narcotráfico blanqueo de dinero y</p>
+<p begin="00:01:00.000" end="00:01:03.519" style="s2">conspiración para cometer asesinato</p>
+<p begin="00:01:01.800" end="00:01:06.960" style="s2">según un documento transmitido por su</p>
+<p begin="00:01:03.519" end="00:01:06.960" style="s2">abogado a una corte del</p>
+<p begin="00:01:07.119" end="00:01:14.759" style="s2">paso mantente informado con El Universal</p>
+<p begin="00:01:10.400" end="00:01:14.759" style="s2">y suscríbete a nuestro canal</p>
+</div>
+</body>
+</tt>

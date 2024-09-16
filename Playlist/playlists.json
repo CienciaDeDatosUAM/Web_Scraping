@@ -2,11 +2,11 @@
     "llave" : "AIzaSyCXtiAV3lgYwWQncTj8ejlZnQvlH1yTyJo",
     "campos": [       
         {
-            "idPlaylist": "PLbwFGEcytlOWWA78Oq3pD15E4hYNukNAD",
-            "nombrePlaylist": "CONFERENCIAS CLAUDIA SHEINBAUM",
+            "idPlaylist": "PLbwFGEcytlOWlR8MKLIYfD1jRHlQKk-jh",
+            "nombrePlaylist": "Detención de El Mayo Zambada y El Chapito",
             "fechaUnica": null,
-            "fechaInicio": null,
-            "fechaFin": null
+            "fechaInicio": "2024-07-25T00:00:00Z",
+            "fechaFin": "2024-09-15T23:59:59Z"
         }
     ]
 }

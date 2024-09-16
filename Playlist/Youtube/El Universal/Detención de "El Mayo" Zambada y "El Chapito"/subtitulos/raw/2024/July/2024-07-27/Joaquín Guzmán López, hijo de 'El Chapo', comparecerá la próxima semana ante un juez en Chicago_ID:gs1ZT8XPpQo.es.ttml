@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="es" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.080" end="00:00:03.439" style="s2">Joaquín Guzmán López uno de los hijos</p>
+<p begin="00:00:01.680" end="00:00:05.240" style="s2">del narcotraficante mexicano Joaquín El</p>
+<p begin="00:00:03.439" end="00:00:06.919" style="s2">Chapo Guzmán comparecerá la próxima</p>
+<p begin="00:00:05.240" end="00:00:09.080" style="s2">semana ante una corte Federal en Chicago</p>
+<p begin="00:00:06.919" end="00:00:11.000" style="s2">Illinois informaron a f Fuentes</p>
+<p begin="00:00:09.080" end="00:00:12.840" style="s2">policiales Guzmán López fue arrestado el</p>
+<p begin="00:00:11.000" end="00:00:14.559" style="s2">jueves cerca de la ciudad fronteriza del</p>
+<p begin="00:00:12.840" end="00:00:16.119" style="s2">Paso Texas junto a Ismael el mayayo</p>
+<p begin="00:00:14.559" end="00:00:17.840" style="s2">Zambada uno de los criminales más</p>
+<p begin="00:00:16.119" end="00:00:19.880" style="s2">buscados por la DEA y cofundador del</p>
+<p begin="00:00:17.840" end="00:00:21.640" style="s2">Cártel de Sinaloa junto al Chapo en</p>
+<p begin="00:00:19.880" end="00:00:23.439" style="s2">Chicago enfrenta más de una docena de</p>
+<p begin="00:00:21.640" end="00:00:25.359" style="s2">cargos entre ellos por narcotráfico</p>
+<p begin="00:00:23.439" end="00:00:27.119" style="s2">lavado de dinero y por formar parte de</p>
+<p begin="00:00:25.359" end="00:00:29.000" style="s2">una organización criminal según han</p>
+<p begin="00:00:27.119" end="00:00:30.720" style="s2">informado varios medios estadounidenses</p>
+<p begin="00:00:29.000" end="00:00:32.640" style="s2">entre ellos el diario de New York Times</p>
+<p begin="00:00:30.720" end="00:00:34.640" style="s2">Guzmán López trajo el Mayo engañado a</p>
+<p begin="00:00:32.640" end="00:00:36.200" style="s2">Estados Unidos El rotativo cita a dos</p>
+<p begin="00:00:34.640" end="00:00:37.960" style="s2">Fuentes policiales estadounidenses</p>
+<p begin="00:00:36.200" end="00:00:39.480" style="s2">quienes aseguran que Guzmán le dijo a</p>
+<p begin="00:00:37.960" end="00:00:41.239" style="s2">Zambada que el viaje en una avioneta</p>
+<p begin="00:00:39.480" end="00:00:42.960" style="s2">privada tenía como fin enseñarle unos</p>
+<p begin="00:00:41.239" end="00:00:44.640" style="s2">terrenos en México de New York Times</p>
+<p begin="00:00:42.960" end="00:00:46.039" style="s2">asegura además que el propio Zambada</p>
+<p begin="00:00:44.640" end="00:00:48.000" style="s2">considerado uno de los narcos más</p>
+<p begin="00:00:46.039" end="00:00:50.160" style="s2">escurridizos de México nunca había sido</p>
+<p begin="00:00:48.000" end="00:00:52.039" style="s2">arrestado llevaba 3 años negociando con</p>
+<p begin="00:00:50.160" end="00:00:55.399" style="s2">autoridades estadounidenses su entrega</p>
+<p begin="00:00:52.039" end="00:00:55.399" style="s2">sin haber llegado todavía a un</p>
+<p begin="00:00:55.600" end="00:01:01.280" style="s2">acuerdo Aléjate de las fake news y</p>
+<p begin="00:00:58.399" end="00:01:04.280" style="s2">mantente informado suscríbete a nuestro</p>
+<p begin="00:01:01.280" end="00:01:04.280" style="s2">canal</p>
+</div>
+</body>
+</tt>

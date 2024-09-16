@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="es" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.080" end="00:00:04.440" style="s2">el gobierno de México solicitó al</p>
+<p begin="00:00:02.600" end="00:00:08.320" style="s2">departamento de justicia de Estados</p>
+<p begin="00:00:04.440" end="00:00:11.200" style="s2">Unidos un informe oficial de las</p>
+<p begin="00:00:08.320" end="00:00:14.160" style="s2">conductas en territorio mexicano así</p>
+<p begin="00:00:11.200" end="00:00:18.400" style="s2">como planes de vuelo y circunstancias de</p>
+<p begin="00:00:14.160" end="00:00:21.640" style="s2">tiempo modo y lugar de cada hecho al</p>
+<p begin="00:00:18.400" end="00:00:25.240" style="s2">respecto las autoridades estadounidenses</p>
+<p begin="00:00:21.640" end="00:00:29.960" style="s2">a través de su embajada en México dieron</p>
+<p begin="00:00:25.240" end="00:00:32.160" style="s2">respuesta el sábado 27 de Julio a la</p>
+<p begin="00:00:29.960" end="00:00:35.600" style="s2">inform ación solicitada por la fiscalía</p>
+<p begin="00:00:32.160" end="00:00:39.200" style="s2">general de la república señalando lo</p>
+<p begin="00:00:35.600" end="00:00:42.120" style="s2">siguiente uno las fuerzas del orden de</p>
+<p begin="00:00:39.200" end="00:00:45.000" style="s2">Estados Unidos fueron informadas en</p>
+<p begin="00:00:42.120" end="00:00:49.160" style="s2">varias ocasiones previas que Joaquín</p>
+<p begin="00:00:45.000" end="00:00:52.000" style="s2">Guzmán López estaba considerando</p>
+<p begin="00:00:49.160" end="00:00:56.199" style="s2">Rendirse ante las autoridades</p>
+<p begin="00:00:52.000" end="00:01:00.039" style="s2">estadounidenses sin embargo nunca había</p>
+<p begin="00:00:56.199" end="00:01:02.559" style="s2">concretado dicha intención</p>
+<p begin="00:01:00.039" end="00:01:05.199" style="s2">dos las fuerzas del orden</p>
+<p begin="00:01:02.559" end="00:01:08.119" style="s2">estadounidenses fueron informadas</p>
+<p begin="00:01:05.199" end="00:01:12.000" style="s2">Aproximadamente a las 10:30 horas del</p>
+<p begin="00:01:08.119" end="00:01:15.040" style="s2">jueves 25 de julio de 2024 que Joaquín</p>
+<p begin="00:01:12.000" end="00:01:17.920" style="s2">Guzmán López estaba considerando</p>
+<p begin="00:01:15.040" end="00:01:20.880" style="s2">Rendirse al entrar a territorio</p>
+<p begin="00:01:17.920" end="00:01:25.520" style="s2">estadounidense en un vuelo privado ese</p>
+<p begin="00:01:20.880" end="00:01:28.040" style="s2">día tres Aproximadamente a las 2:35 de</p>
+<p begin="00:01:25.520" end="00:01:30.079" style="s2">la tarde las autoridades del orden</p>
+<p begin="00:01:28.040" end="00:01:32.920" style="s2">público estadounidenses</p>
+<p begin="00:01:30.079" end="00:01:35.600" style="s2">fueron informadas que Joaquín Guzmán</p>
+<p begin="00:01:32.920" end="00:01:38.320" style="s2">López estaba volando hacia los Estados</p>
+<p begin="00:01:35.600" end="00:01:41.720" style="s2">Unidos en un avión que había despegado</p>
+<p begin="00:01:38.320" end="00:01:45.200" style="s2">en de México y que era su intención</p>
+<p begin="00:01:41.720" end="00:01:47.759" style="s2">volar a los Estados Unidos para</p>
+<p begin="00:01:45.200" end="00:01:50.840" style="s2">Rendirse las autoridades del orden</p>
+<p begin="00:01:47.759" end="00:01:54.600" style="s2">público estadounidense No tuvieron un</p>
+<p begin="00:01:50.840" end="00:01:57.439" style="s2">aviso previo de este vuelo y no tuvieron</p>
+<p begin="00:01:54.600" end="00:02:00.719" style="s2">confirmación independiente de que</p>
+<p begin="00:01:57.439" end="00:02:05.000" style="s2">Joaquín Guzmán López efectiva</p>
+<p begin="00:02:00.719" end="00:02:07.520" style="s2">estuviera en el vuelo cuatro las</p>
+<p begin="00:02:05.000" end="00:02:09.720" style="s2">autoridades del orden público</p>
+<p begin="00:02:07.520" end="00:02:11.480" style="s2">estadounidenses fueron informadas</p>
+<p begin="00:02:09.720" end="00:02:15.160" style="s2">Aproximadamente a las</p>
+<p begin="00:02:11.480" end="00:02:19.200" style="s2">2:40 pm una vez que el avión estaba en</p>
+<p begin="00:02:15.160" end="00:02:21.840" style="s2">el aire que Ismael Zambada García podría</p>
+<p begin="00:02:19.200" end="00:02:24.319" style="s2">estar también en la</p>
+<p begin="00:02:21.840" end="00:02:26.920" style="s2">aeronave las autoridades del orden</p>
+<p begin="00:02:24.319" end="00:02:30.040" style="s2">público estadounidenses no tenían</p>
+<p begin="00:02:26.920" end="00:02:33.400" style="s2">confirmación independiente alguna que</p>
+<p begin="00:02:30.040" end="00:02:37.959" style="s2">Ismael Zambada García estuviera</p>
+<p begin="00:02:33.400" end="00:02:40.400" style="s2">efectivamente en el vuelo cinco el vuelo</p>
+<p begin="00:02:37.959" end="00:02:42.480" style="s2">desde México aterrizó en los Estados</p>
+<p begin="00:02:40.400" end="00:02:46.319" style="s2">Unidos en el aeropuerto de Santa Teresa</p>
+<p begin="00:02:42.480" end="00:02:51.680" style="s2">en Nuevo México Aproximadamente a las</p>
+<p begin="00:02:46.319" end="00:02:55.959" style="s2">4:24 pm este aeropuerto está justo a las</p>
+<p begin="00:02:51.680" end="00:03:00.319" style="s2">afueras del Paso Texas el vuelo en sí no</p>
+<p begin="00:02:55.959" end="00:03:05.400" style="s2">fue planeado por agencia gubernamental</p>
+<p begin="00:03:00.319" end="00:03:07.760" style="s2">estadounidense alguna seis una vez</p>
+<p begin="00:03:05.400" end="00:03:11.280" style="s2">alertados después de que el avión</p>
+<p begin="00:03:07.760" end="00:03:13.879" style="s2">despegó como se mencionó anteriormente</p>
+<p begin="00:03:11.280" end="00:03:16.720" style="s2">las autoridades del orden público</p>
+<p begin="00:03:13.879" end="00:03:18.840" style="s2">estadounidenses llegaron a la aeronave</p>
+<p begin="00:03:16.720" end="00:03:21.599" style="s2">una vez Habiendo aterrizado en el</p>
+<p begin="00:03:18.840" end="00:03:24.560" style="s2">aeropuerto de Santa Teresa el avión</p>
+<p begin="00:03:21.599" end="00:03:27.080" style="s2">tenía dos pasajeros las autoridades del</p>
+<p begin="00:03:24.560" end="00:03:30.040" style="s2">orden público estadounidenses detuvieron</p>
+<p begin="00:03:27.080" end="00:03:31.680" style="s2">a los dos pasajeros cuando bajaron del</p>
+<p begin="00:03:30.040" end="00:03:34.760" style="s2">avión</p>
+<p begin="00:03:31.680" end="00:03:38.400" style="s2">siete el gobierno mexicano fue</p>
+<p begin="00:03:34.760" end="00:03:41.760" style="s2">notificado en cuanto Se confirmó que</p>
+<p begin="00:03:38.400" end="00:03:45.000" style="s2">tanto Joaquín Guzmán López como Ismael</p>
+<p begin="00:03:41.760" end="00:03:48.159" style="s2">Zambada García eran los dos pasajeros en</p>
+<p begin="00:03:45.000" end="00:03:50.959" style="s2">la aeronave en particular una vez</p>
+<p begin="00:03:48.159" end="00:03:53.760" style="s2">confirmada su identidad el personal de</p>
+<p begin="00:03:50.959" end="00:03:56.079" style="s2">la embajada de los Estados Unidos en la</p>
+<p begin="00:03:53.760" end="00:03:58.200" style="s2">Ciudad de México se comunicó</p>
+<p begin="00:03:56.079" end="00:04:00.560" style="s2">inmediatamente con autoridades del</p>
+<p begin="00:03:58.200" end="00:04:03.439" style="s2">gobierno de México y se enviaron</p>
+<p begin="00:04:00.560" end="00:04:05.840" style="s2">fotografías de los sospechosos a los</p>
+<p begin="00:04:03.439" end="00:04:09.159" style="s2">integrantes del gabinete de seguridad</p>
+<p begin="00:04:05.840" end="00:04:11.959" style="s2">con quien se tiene una colaboración</p>
+<p begin="00:04:09.159" end="00:04:14.640" style="s2">regular cierro</p>
+<p begin="00:04:11.959" end="00:04:19.919" style="s2">comillas mantente informado con El</p>
+<p begin="00:04:14.640" end="00:04:19.919" style="s2">Universal y suscríbete a nuestro canal</p>
+</div>
+</body>
+</tt>

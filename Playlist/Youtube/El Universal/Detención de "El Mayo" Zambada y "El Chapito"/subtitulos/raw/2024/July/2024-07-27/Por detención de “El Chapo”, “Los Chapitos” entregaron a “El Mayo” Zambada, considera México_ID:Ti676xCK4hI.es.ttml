@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="es" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.240" end="00:00:04.319" style="s2">los chapitos pudieron haber tenido</p>
+<p begin="00:00:02.320" end="00:00:06.720" style="s2">motivaciones para entregar al capo</p>
+<p begin="00:00:04.319" end="00:00:09.120" style="s2">Ismael El Mayo Zambada García al</p>
+<p begin="00:00:06.720" end="00:00:11.719" style="s2">gobierno de Estados Unidos a través de</p>
+<p begin="00:00:09.120" end="00:00:14.120" style="s2">Joaquín Guzmán López alias El Güero</p>
+<p begin="00:00:11.719" end="00:00:16.320" style="s2">considera el Gobierno Federal y es que</p>
+<p begin="00:00:14.120" end="00:00:19.000" style="s2">de acuerdo con investigaciones Iván</p>
+<p begin="00:00:16.320" end="00:00:21.439" style="s2">Archivaldo Jesús Alfredo Ovidio y</p>
+<p begin="00:00:19.000" end="00:00:23.880" style="s2">Joaquín Guzmán responsabilizan al Mayo</p>
+<p begin="00:00:21.439" end="00:00:26.800" style="s2">Zambada y a su hijo Vicente Zambada</p>
+<p begin="00:00:23.880" end="00:00:29.359" style="s2">nievla alias vicentillo de la caída de</p>
+<p begin="00:00:26.800" end="00:00:31.599" style="s2">Joaquín El Chapo Guzmán Loera quien está</p>
+<p begin="00:00:29.359" end="00:00:34.000" style="s2">preso en una cárcel de máxima seguridad</p>
+<p begin="00:00:31.599" end="00:00:36.239" style="s2">en los Estados Unidos esto según las</p>
+<p begin="00:00:34.000" end="00:00:38.280" style="s2">autoridades fue un agravio imperdonable</p>
+<p begin="00:00:36.239" end="00:00:40.160" style="s2">para los chapitos Pues en el juicio</p>
+<p begin="00:00:38.280" end="00:00:43.559" style="s2">llevado a cabo en una corte de Nueva</p>
+<p begin="00:00:40.160" end="00:00:45.640" style="s2">York entre 2018 y 2019 el vicentillo</p>
+<p begin="00:00:43.559" end="00:00:47.960" style="s2">declaró contra su compadre Joaquín El</p>
+<p begin="00:00:45.640" end="00:00:49.879" style="s2">Chapo Guzmán a quien acusó de Ordenar el</p>
+<p begin="00:00:47.960" end="00:00:52.000" style="s2">asesinato de integrantes de la familia</p>
+<p begin="00:00:49.879" end="00:00:54.399" style="s2">Carrillo Fuentes fundadores del Cártel</p>
+<p begin="00:00:52.000" end="00:00:56.920" style="s2">de Juárez El vicentillo fue detenido en</p>
+<p begin="00:00:54.399" end="00:00:59.519" style="s2">2009 por fuerzas federales y luego</p>
+<p begin="00:00:56.920" end="00:01:01.680" style="s2">extraditado a Estados Unidos donde llegó</p>
+<p begin="00:00:59.519" end="00:01:04.510" style="s2">a una acuerdo con las autoridades para</p>
+<p begin="00:01:01.680" end="00:01:07.119" style="s2">colaborar a cambio de beneficios</p>
+<p begin="00:01:04.510" end="00:01:09.560" style="s2">[Música]</p>
+<p begin="00:01:07.119" end="00:01:14.720" style="s2">procesales mantente informado con El</p>
+<p begin="00:01:09.560" end="00:01:14.720" style="s2">Universal y suscríbete a nuestro canal</p>
+</div>
+</body>
+</tt>
