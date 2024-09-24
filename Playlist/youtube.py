@@ -74,6 +74,72 @@ def buscar_videos_playlist(playlistID: str, fecha_inicio: str, fecha_fin: str, r
 
     return info_videos
 
+def obtener_comentarios(video_ids: dict, out_dir: str):
+    youtube = build('youtube', 'v3', developerKey=API_KEY)
+
+    for key, value in video_ids.items():
+        comments = []  # Reiniciar comentarios para cada video
+        fecha_publicacion = datetime.fromisoformat(value["publishedAt"].rstrip('Z'))
+
+        response = youtube.commentThreads().list(
+            part='snippet,replies',
+            videoId=value["videoId"],
+            maxResults=100,
+            textFormat='plainText'
+        ).execute()
+
+        while response:
+            for item in response['items']:
+                comment = item['snippet']['topLevelComment']['snippet']['textDisplay']
+                comments.append(comment)
+
+                # Obtener respuestas a los comentarios
+                if 'replies' in item:
+                    for reply in item['replies']['comments']:
+                        reply_comment = reply['snippet']['textDisplay']
+                        comments.append(reply_comment)
+
+            # Manejo de paginación
+            if 'nextPageToken' in response:
+                response = youtube.commentThreads().list(
+                    part='snippet,replies',
+                    videoId=value["videoId"],
+                    pageToken=response['nextPageToken'],
+                    maxResults=100,
+                    textFormat='plainText'
+                ).execute()
+            else:
+                break
+
+        # Obtener información adicional del video
+        info_fechas = obtener_info_fechas_video(value["videoId"])
+        info_json = {
+            "fecha_recoleccion": info_fechas["fecha_recoleccion"],
+            "hora_recoleccion": info_fechas["hora_recoleccion"],
+            "fecha_publicacion": info_fechas["fecha_publicacion"],
+            "hora_publicacion": info_fechas["hora_publicacion"],
+            "nombre_canal": info_fechas["nombre_canal"],
+            "comentarios": comments
+        }
+
+        # Crear directorio para comentarios
+        fecha_comentarios_dir = os.path.join(out_dir, "comentarios")
+        os.makedirs(fecha_comentarios_dir, exist_ok=True)
+
+        # Definir la ruta del archivo JSON
+        video_info = requests.get("https://www.googleapis.com/youtube/v3/videos", params={"id": value["videoId"], "part": "snippet", "key": API_KEY})
+        video_title = video_info.json()["items"][0]["snippet"]["title"]
+        nombre_archivo = "".join(char for char in video_title if char.isalnum() or char in " -_").rstrip()
+        #nombre_archivo = "".join(char for char in value["videoId"] if char.isalnum() or char in " -_").rstrip()
+        json_file_path = os.path.join(fecha_comentarios_dir, f"{nombre_archivo}.json")
+
+        # Guardar comentarios en un archivo JSON
+        with open(json_file_path, 'w', encoding='utf-8') as json_file:
+            json.dump(info_json, json_file, ensure_ascii=False, indent=4)
+
+            
+
+"""""""""
 def obtener_comentarios(video_ids: list[dict], out_dir: str):
     comentarios_dir = os.path.join(out_dir, "comentarios")
     os.makedirs(comentarios_dir, exist_ok=True)
@@ -119,7 +185,7 @@ def obtener_comentarios(video_ids: list[dict], out_dir: str):
 
         with open(json_file_path, 'w', encoding='utf-8') as json_file:
             json.dump(info_json, json_file, ensure_ascii=False, indent=4)
-                       
+"""""                       
 def descargar_subtitulos(video_ids: list[dict], out_dir: str):
     raw_output = os.path.join(out_dir, "raw")
     if not os.path.exists(raw_output):
