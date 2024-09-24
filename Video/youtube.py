@@ -11,6 +11,60 @@ class ApiYoutubeVideos:
     def __init__(self, API_KEY):
         self.API_KEY = API_KEY
 
+
+
+    def obtener_comentarios(self,video_id, out_dir):
+        youtube = build('youtube', 'v3', developerKey=self.API_KEY)
+        comments = []
+        try:
+            response = youtube.commentThreads().list(
+                part='snippet,replies',
+                videoId=video_id,
+                maxResults=100,
+                textFormat='plainText'
+            ).execute()
+
+            while response:
+                for item in response['items']:
+                    comment = item['snippet']['topLevelComment']['snippet']['textDisplay']
+                    comments.append(comment)
+                    
+                    # Obtener respuestas a los comentarios
+                    if 'replies' in item:
+                        for reply in item['replies']['comments']:
+                            reply_comment = reply['snippet']['textDisplay']
+                            comments.append(reply_comment)
+                
+                if 'nextPageToken' in response:
+                    response = youtube.commentThreads().list(
+                        part='snippet,replies',
+                        videoId=video_id,
+                        pageToken=response['nextPageToken'],
+                        maxResults=100,
+                        textFormat='plainText'
+                    ).execute()
+                else:
+                    break
+        except HttpError as e:
+            print(f"An HTTP error {e.resp.status} occurred: {e.content}")
+
+        info_fechas = self.obtener_info_fechas_video(video_id)
+        info_json = {
+            "fecha_recoleccion": info_fechas["fecha_recoleccion"],
+            "hora_recoleccion": info_fechas["hora_recoleccion"],
+            "fecha_publicacion": info_fechas["fecha_publicacion"],
+            "hora_publicacion": info_fechas["hora_publicacion"],
+            "nombre_canal":info_fechas["nombre_canal"],
+            "comentarios": comments
+        }
+
+        comentarios_dir = os.path.join(out_dir, "comentarios")
+        os.makedirs(comentarios_dir, exist_ok=True)
+        json_file_path = os.path.join(comentarios_dir, "test.json")
+        with open(json_file_path, 'w', encoding='utf-8') as json_file:
+            json.dump(info_json, json_file, ensure_ascii=False, indent=4)
+
+    """
     def obtener_comentarios(self,video_id, out_dir):
         comentarios_dir = os.path.join(out_dir, "comentarios")
         os.makedirs(comentarios_dir, exist_ok=True)
@@ -51,6 +105,9 @@ class ApiYoutubeVideos:
 
         with open(json_file_path, 'w', encoding='utf-8') as json_file:
             json.dump(info_json, json_file, ensure_ascii=False, indent=4)
+
+    """
+
 
     def descargar_subtitulos(self,video_id, out_dir):
 
